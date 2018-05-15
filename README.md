@@ -45,8 +45,6 @@ See here a detailed [TimeLine](https://github.com/eellak/gsoc2018-arimamadurai/b
 
 [Open Technologies Alliance - GFOSS](https://summerofcode.withgoogle.com/organizations/4825634544025600/)
 
----
-
-## License
+### License
 
 The fonts and related code are licensed under [Open Font License](https://github.com/NDISCOVER/Arima-Font/blob/master/OFL.txt). See `LICENSE.txt` for licensing information.
