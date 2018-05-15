@@ -1,7 +1,7 @@
-# gsoc2018-arimamadurai
-<h1>Adding Greek glyphs to the open source font Arima Madurai</h1>
+### gsoc2018-arimamadurai
+# Adding Greek glyphs to the open source font Arima Madurai
 
-<h2>PROJECT</H2>
+### Project:
 
 This project aims to extend the collection of fonts supporting Greek script in the Google Fonts Catalog. Indeed, today 19 serif fonts, 6 monospace fonts and 10 sans-serif fonts supporting Greek script are available. Moreover, only 2 fonts are explicitly intended for display text. 
 
@@ -13,7 +13,7 @@ Arima Madurai already supports Tamil, Malayalam and Latin scripts and I would li
 
 https://github.com/NDISCOVER/Arima-Font 
 
-<h2>TIMELINE</H2>
+### Timeline:
 
 <b>May 14 — June 14 Formal :</b> researches / sketches for basic characters in both thin and black weights.
 
@@ -28,3 +28,23 @@ https://github.com/NDISCOVER/Arima-Font
 <b>August 13 - 16 :</b> Final week dedicated to eventual delays. Adding polytonic if time permits it.
 
 <b>August 14 - 21  :</b> Phase 3 Final Evaluation.
+
+### GSoC Mentors:
+
+* Alexios Zavras
+* Emilios Theofanous | [GitHub](https://github.com/thynem) | [Twitter](https://twitter.com/emilios__)
+* Irene Vlachou | [GitHub](https://github.com/irenevl) | [Twitter](https://twitter.com/irene_vlachou)
+
+### Student:
+
+* Rosalie Wagner | ANRT, Nancy | [GitHub](https://github.com/RosaWagner) | [Twitter](https://twitter.com/RosaFF_Wagner)
+
+### Organization:
+
+[Open Technologies Alliance - GFOSS](https://summerofcode.withgoogle.com/organizations/4825634544025600/)
+
+---
+
+## License
+
+The fonts and related code are licensed under [Open Font License](https://github.com/NDISCOVER/Arima-Font/blob/master/OFL.txt). See `LICENSE.txt` for licensing information.
