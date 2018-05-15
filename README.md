@@ -29,7 +29,7 @@ https://github.com/NDISCOVER/Arima-Font
 
 <b>August 14 - 21  :</b> Phase 3 Final Evaluation.
 
-<b> See here a detailed [TimeLine](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/TIMELINE.md).
+See here a detailed [TimeLine](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/TIMELINE.md).
 
 ### GSoC Mentors:
 
