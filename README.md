@@ -43,7 +43,7 @@ See here a detailed [TimeLine](https://github.com/eellak/gsoc2018-arimamadurai/b
 
 ### Organization:
 
-[Open Technologies Alliance - GFOSS](https://summerofcode.withgoogle.com/organizations/4825634544025600/)
+[Open Technologies Alliance - GFOSS](https://summerofcode.withgoogle.com/organizations/4954936912117760/)
 
 ### License
 
