@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halant-tamil" format="1">
+  <advance width="0"/>
+  <unicode hex="0BCD"/>
+  <outline>
+    <contour>
+      <point x="-1" y="692" type="curve"/>
+      <point x="32" y="692"/>
+      <point x="59" y="718"/>
+      <point x="59" y="752" type="curve"/>
+      <point x="59" y="786"/>
+      <point x="32" y="812"/>
+      <point x="-1" y="812" type="curve"/>
+      <point x="-35" y="812"/>
+      <point x="-62" y="786"/>
+      <point x="-62" y="752" type="curve"/>
+      <point x="-62" y="718"/>
+      <point x="-35" y="692"/>
+    </contour>
+    <contour>
+      <point x="-2" y="548" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-02-19 16:04:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

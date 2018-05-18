@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aaMatra-tamil" format="1">
+  <advance width="687"/>
+  <unicode hex="0BBE"/>
+  <outline>
+    <contour>
+      <point x="451" y="-9" type="curve"/>
+      <point x="482" y="-9"/>
+      <point x="510" y="-1"/>
+      <point x="534" y="16" type="curve"/>
+      <point x="523" y="46"/>
+      <point x="515" y="73"/>
+      <point x="515" y="159" type="curve"/>
+      <point x="515" y="515" type="line"/>
+      <point x="369" y="509" type="line"/>
+      <point x="369" y="95" type="line" smooth="yes"/>
+      <point x="369" y="10"/>
+      <point x="400" y="-9"/>
+    </contour>
+    <contour>
+      <point x="95" y="509" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="149" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="548" type="line"/>
+      <point x="95" y="501" type="line"/>
+      <point x="635" y="500" type="line" smooth="yes"/>
+      <point x="662" y="500"/>
+      <point x="684" y="500"/>
+      <point x="684" y="525" type="curve"/>
+      <point x="684" y="531"/>
+      <point x="682" y="538"/>
+      <point x="680" y="547" type="curve"/>
+    </contour>
+    <contour>
+      <point x="438" y="548" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="297" y="548" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-28 19:26:05 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e-tamil</string>
+    </dict>
+  </lib>
+</glyph>

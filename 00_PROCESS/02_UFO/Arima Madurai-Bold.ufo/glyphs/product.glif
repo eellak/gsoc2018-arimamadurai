@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <advance width="681"/>
+  <unicode hex="220F"/>
+  <outline>
+    <contour>
+      <point x="538" y="-159" type="curve"/>
+      <point x="577" y="-159"/>
+      <point x="606" y="-139"/>
+      <point x="618" y="-128" type="curve"/>
+      <point x="600" y="-84"/>
+      <point x="598" y="-36"/>
+      <point x="598" y="2" type="curve"/>
+      <point x="598" y="698" type="line"/>
+      <point x="458" y="698" type="line"/>
+      <point x="458" y="-88" type="line" smooth="yes"/>
+      <point x="458" y="-133"/>
+      <point x="492" y="-159"/>
+    </contour>
+    <contour>
+      <point x="143" y="-159" type="curve"/>
+      <point x="182" y="-159"/>
+      <point x="211" y="-139"/>
+      <point x="223" y="-128" type="curve"/>
+      <point x="205" y="-84"/>
+      <point x="203" y="-36"/>
+      <point x="203" y="2" type="curve"/>
+      <point x="203" y="698" type="line"/>
+      <point x="63" y="698" type="line"/>
+      <point x="63" y="-88" type="line" smooth="yes"/>
+      <point x="63" y="-133"/>
+      <point x="97" y="-159"/>
+    </contour>
+    <contour>
+      <point x="149" y="698" type="line"/>
+      <point x="149" y="623" type="line"/>
+      <point x="500" y="623" type="line"/>
+      <point x="500" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

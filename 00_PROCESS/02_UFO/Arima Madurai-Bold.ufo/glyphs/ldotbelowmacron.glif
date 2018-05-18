@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldotbelowmacron" format="1">
+  <advance width="293"/>
+  <unicode hex="1E39"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotbelowcomb" xOffset="-126"/>
+    <component base="macroncomb" xOffset="-117" yOffset="194"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

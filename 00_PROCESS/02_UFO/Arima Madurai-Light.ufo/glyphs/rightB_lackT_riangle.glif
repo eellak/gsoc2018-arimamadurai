@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightBlackTriangle" format="1">
+  <advance width="689"/>
+  <unicode hex="25B6"/>
+  <outline>
+    <contour>
+      <point x="138" y="-19" type="line"/>
+      <point x="138" y="560" type="line"/>
+      <point x="639" y="271" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="574"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="83" y="344" type="curve"/>
+      <point x="474" y="344" type="line"/>
+      <point x="474" y="374" type="line"/>
+      <point x="83" y="374" type="line"/>
+      <point x="79" y="364"/>
+      <point x="79" y="354"/>
+    </contour>
+    <contour>
+      <point x="444" y="361" type="line"/>
+      <point x="444" y="228" type="line"/>
+      <point x="454" y="223"/>
+      <point x="464" y="223"/>
+      <point x="474" y="228" type="curve"/>
+      <point x="474" y="361" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

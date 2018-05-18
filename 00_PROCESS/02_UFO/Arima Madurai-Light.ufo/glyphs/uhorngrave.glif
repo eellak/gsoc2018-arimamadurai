@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorngrave" format="1">
+  <advance width="551"/>
+  <unicode hex="1EEB"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="gravecomb" xOffset="-65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

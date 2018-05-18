@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nnna_uMatra-tamil" format="1">
+  <advance width="1374"/>
+  <outline>
+    <contour>
+      <point x="355" y="-316" type="curve"/>
+      <point x="821" y="-316"/>
+      <point x="1025" y="-18"/>
+      <point x="1025" y="246" type="curve"/>
+      <point x="1025" y="450"/>
+      <point x="927" y="540"/>
+      <point x="787" y="540" type="curve"/>
+      <point x="626" y="540"/>
+      <point x="476" y="420"/>
+      <point x="476" y="186" type="curve"/>
+      <point x="476" y="77"/>
+      <point x="510" y="-12"/>
+      <point x="613" y="-12" type="curve"/>
+      <point x="715" y="-12"/>
+      <point x="766" y="76"/>
+      <point x="766" y="200" type="curve"/>
+      <point x="766" y="418"/>
+      <point x="614" y="540"/>
+      <point x="393" y="540" type="curve"/>
+      <point x="195" y="540"/>
+      <point x="60" y="442"/>
+      <point x="60" y="228" type="curve"/>
+      <point x="60" y="53"/>
+      <point x="151" y="-12"/>
+      <point x="256" y="-12" type="curve"/>
+      <point x="344" y="-12"/>
+      <point x="409" y="36"/>
+      <point x="409" y="150" type="curve"/>
+      <point x="409" y="249"/>
+      <point x="359" y="304"/>
+      <point x="289" y="304" type="curve"/>
+      <point x="214" y="304"/>
+      <point x="165" y="240"/>
+      <point x="165" y="150" type="curve"/>
+      <point x="165" y="108"/>
+      <point x="176" y="44"/>
+      <point x="220" y="17" type="curve"/>
+      <point x="155" y="25"/>
+      <point x="88" y="83"/>
+      <point x="88" y="228" type="curve"/>
+      <point x="88" y="443"/>
+      <point x="233" y="513"/>
+      <point x="395" y="513" type="curve"/>
+      <point x="594" y="513"/>
+      <point x="735" y="409"/>
+      <point x="735" y="199" type="curve"/>
+      <point x="735" y="82"/>
+      <point x="690" y="16"/>
+      <point x="617" y="16" type="curve"/>
+      <point x="545" y="16"/>
+      <point x="506" y="80"/>
+      <point x="506" y="184" type="curve"/>
+      <point x="506" y="362"/>
+      <point x="613" y="514"/>
+      <point x="793" y="514" type="curve"/>
+      <point x="916" y="514"/>
+      <point x="995" y="417"/>
+      <point x="995" y="240" type="curve"/>
+      <point x="995" y="-17"/>
+      <point x="788" y="-290"/>
+      <point x="349" y="-290" type="curve"/>
+      <point x="209" y="-290"/>
+      <point x="114" y="-262"/>
+      <point x="114" y="-193" type="curve"/>
+      <point x="114" y="-155"/>
+      <point x="143" y="-123"/>
+      <point x="314" y="-123" type="curve"/>
+      <point x="1260" y="-123" type="line"/>
+      <point x="1251" y="-97" type="line"/>
+      <point x="315" y="-97" type="line" smooth="yes"/>
+      <point x="124" y="-97"/>
+      <point x="83" y="-137"/>
+      <point x="83" y="-190" type="curve"/>
+      <point x="83" y="-264"/>
+      <point x="161" y="-316"/>
+    </contour>
+    <contour>
+      <point x="284" y="21" type="curve"/>
+      <point x="230" y="21"/>
+      <point x="191" y="67"/>
+      <point x="191" y="146" type="curve"/>
+      <point x="191" y="218"/>
+      <point x="223" y="275"/>
+      <point x="287" y="275" type="curve"/>
+      <point x="352" y="275"/>
+      <point x="379" y="216"/>
+      <point x="379" y="151" type="curve"/>
+      <point x="379" y="72"/>
+      <point x="340" y="21"/>
+    </contour>
+    <contour>
+      <point x="1272" y="-123" type="line"/>
+      <point x="1272" y="533" type="line"/>
+      <point x="1247" y="536"/>
+      <point x="1242" y="531"/>
+      <point x="1242" y="524" type="curve"/>
+      <point x="1242" y="-123" type="line"/>
+    </contour>
+    <contour>
+      <point x="1232" y="528" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="645" y="528" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 17:03:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>la-tamil</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>pa-tamil</string>
+    </dict>
+  </lib>
+</glyph>

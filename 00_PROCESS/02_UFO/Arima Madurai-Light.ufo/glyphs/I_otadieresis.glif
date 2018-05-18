@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotadieresis" format="1">
+  <advance width="245"/>
+  <unicode hex="03AA"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="dieresiscomb.cap" xOffset="-178" yOffset="188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-18 15:09:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

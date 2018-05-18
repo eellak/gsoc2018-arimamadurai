@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uMatra-tamil.alt2" format="1">
+  <advance width="380"/>
+  <outline>
+    <contour>
+      <point x="167" y="274" type="curve"/>
+      <point x="230" y="274"/>
+      <point x="320" y="303"/>
+      <point x="320" y="406" type="curve"/>
+      <point x="320" y="483"/>
+      <point x="260" y="548"/>
+      <point x="108" y="548" type="curve"/>
+      <point x="-117" y="548" type="line"/>
+      <point x="-117" y="500" type="line"/>
+      <point x="84" y="500" type="line"/>
+      <point x="48" y="479"/>
+      <point x="33" y="440"/>
+      <point x="33" y="399" type="curve"/>
+      <point x="33" y="333"/>
+      <point x="72" y="274"/>
+    </contour>
+    <contour>
+      <point x="135" y="316" type="curve"/>
+      <point x="106" y="316"/>
+      <point x="81" y="345"/>
+      <point x="81" y="396" type="curve"/>
+      <point x="81" y="443"/>
+      <point x="102" y="475"/>
+      <point x="141" y="475" type="curve"/>
+      <point x="177" y="475"/>
+      <point x="193" y="445"/>
+      <point x="193" y="399" type="curve"/>
+      <point x="193" y="345"/>
+      <point x="174" y="316"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 16:41:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

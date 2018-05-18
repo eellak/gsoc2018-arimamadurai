@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra-tamil.alt1" format="1">
+  <advance width="336"/>
+  <outline>
+    <contour>
+      <point x="177" y="-10" type="curve"/>
+      <point x="211" y="-10"/>
+      <point x="236" y="-2"/>
+      <point x="260" y="15" type="curve"/>
+      <point x="255" y="27"/>
+      <point x="241" y="73"/>
+      <point x="241" y="167" type="curve"/>
+      <point x="241" y="438" type="line" smooth="yes"/>
+      <point x="241" y="745"/>
+      <point x="82" y="854"/>
+      <point x="-114" y="854" type="curve"/>
+      <point x="-273" y="854"/>
+      <point x="-368" y="783"/>
+      <point x="-368" y="673" type="curve"/>
+      <point x="-368" y="585"/>
+      <point x="-308" y="537"/>
+      <point x="-217" y="517" type="curve"/>
+      <point x="-205" y="514"/>
+      <point x="-183" y="525"/>
+      <point x="-187" y="535" type="curve"/>
+      <point x="-220" y="544"/>
+      <point x="-252" y="590"/>
+      <point x="-252" y="672" type="curve"/>
+      <point x="-252" y="761"/>
+      <point x="-212" y="800"/>
+      <point x="-124" y="800" type="curve"/>
+      <point x="60" y="800"/>
+      <point x="95" y="627"/>
+      <point x="95" y="438" type="curve"/>
+      <point x="95" y="103" type="line" smooth="yes"/>
+      <point x="95" y="9"/>
+      <point x="126" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-26 17:12:01 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

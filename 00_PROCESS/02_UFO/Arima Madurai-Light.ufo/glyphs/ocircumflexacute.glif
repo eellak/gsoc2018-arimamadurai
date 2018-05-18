@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexacute" format="1">
+  <advance width="534"/>
+  <unicode hex="1ED1"/>
+  <outline>
+    <contour>
+      <point x="165" y="543" type="curve"/>
+      <point x="267" y="632" type="line"/>
+      <point x="368" y="543" type="line"/>
+      <point x="374" y="543"/>
+      <point x="387" y="547"/>
+      <point x="390" y="553" type="curve"/>
+      <point x="284" y="664" type="line"/>
+      <point x="272" y="666"/>
+      <point x="261" y="666"/>
+      <point x="249" y="664" type="curve"/>
+      <point x="143" y="553" type="line"/>
+      <point x="146" y="547"/>
+      <point x="157" y="543"/>
+    </contour>
+    <contour>
+      <point x="386" y="597" type="curve"/>
+      <point x="467" y="687" type="line"/>
+      <point x="458" y="693"/>
+      <point x="436" y="700"/>
+      <point x="425" y="697" type="curve"/>
+      <point x="361" y="602" type="line"/>
+      <point x="364" y="599"/>
+      <point x="378" y="596"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

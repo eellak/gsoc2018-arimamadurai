@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="llla-tamil" format="1">
+  <advance width="926"/>
+  <unicode hex="0BB4"/>
+  <outline>
+    <contour>
+      <point x="224" y="-313" type="curve"/>
+      <point x="363" y="-313"/>
+      <point x="403" y="-205"/>
+      <point x="502" y="-205" type="curve"/>
+      <point x="745" y="-205" type="line"/>
+      <point x="745" y="-154" type="line"/>
+      <point x="678" y="-154" type="line" smooth="yes"/>
+      <point x="598" y="-154"/>
+      <point x="587" y="-101"/>
+      <point x="587" y="-18" type="curve"/>
+      <point x="587" y="0" type="line"/>
+      <point x="669" y="0" type="line" smooth="yes"/>
+      <point x="830" y="0"/>
+      <point x="876" y="116"/>
+      <point x="876" y="251" type="curve"/>
+      <point x="876" y="440"/>
+      <point x="783" y="563"/>
+      <point x="614" y="563" type="curve"/>
+      <point x="509" y="563"/>
+      <point x="441" y="516"/>
+      <point x="441" y="368" type="curve"/>
+      <point x="441" y="48" type="line"/>
+      <point x="246" y="48" type="line"/>
+      <point x="246" y="492" type="line" smooth="yes"/>
+      <point x="246" y="532"/>
+      <point x="231" y="558"/>
+      <point x="171" y="558" type="curve"/>
+      <point x="150" y="558"/>
+      <point x="114" y="555"/>
+      <point x="93" y="549" type="curve"/>
+      <point x="100" y="531"/>
+      <point x="100" y="503"/>
+      <point x="100" y="483" type="curve"/>
+      <point x="100" y="39" type="line" smooth="yes"/>
+      <point x="100" y="18"/>
+      <point x="110" y="0"/>
+      <point x="139" y="0" type="curve"/>
+      <point x="441" y="0" type="line"/>
+      <point x="441" y="-18" type="line" smooth="yes"/>
+      <point x="441" y="-88"/>
+      <point x="445" y="-139"/>
+      <point x="480" y="-154" type="curve"/>
+      <point x="410" y="-159"/>
+      <point x="329" y="-260"/>
+      <point x="233" y="-260" type="curve"/>
+      <point x="192" y="-260"/>
+      <point x="176" y="-242"/>
+      <point x="176" y="-221" type="curve"/>
+      <point x="176" y="-202"/>
+      <point x="188" y="-190"/>
+      <point x="208" y="-187" type="curve"/>
+      <point x="215" y="-186"/>
+      <point x="225" y="-186"/>
+      <point x="234" y="-189" type="curve"/>
+      <point x="242" y="-178"/>
+      <point x="245" y="-166"/>
+      <point x="245" y="-154" type="curve"/>
+      <point x="245" y="-120"/>
+      <point x="219" y="-86"/>
+      <point x="169" y="-86" type="curve"/>
+      <point x="120" y="-86"/>
+      <point x="78" y="-119"/>
+      <point x="78" y="-181" type="curve"/>
+      <point x="78" y="-222"/>
+      <point x="97" y="-313"/>
+    </contour>
+    <contour>
+      <point x="653" y="48" type="curve"/>
+      <point x="587" y="48" type="line"/>
+      <point x="587" y="385" type="line" smooth="yes"/>
+      <point x="587" y="481"/>
+      <point x="598" y="507"/>
+      <point x="650" y="507" type="curve"/>
+      <point x="741" y="507"/>
+      <point x="821" y="425"/>
+      <point x="821" y="239" type="curve"/>
+      <point x="821" y="113"/>
+      <point x="785" y="48"/>
+    </contour>
+    <contour>
+      <point x="705" y="548" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="636" y="548" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-16 14:03:04 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>pa-tamil</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ma-tamil</string>
+    </dict>
+  </lib>
+</glyph>

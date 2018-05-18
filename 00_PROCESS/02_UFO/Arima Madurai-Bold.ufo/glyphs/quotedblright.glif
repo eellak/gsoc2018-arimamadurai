@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="392"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="comma" xOffset="133" yOffset="626"/>
+    <component base="comma" xOffset="-55" yOffset="627"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

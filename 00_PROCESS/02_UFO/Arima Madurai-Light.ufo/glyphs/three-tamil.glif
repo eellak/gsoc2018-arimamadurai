@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three-tamil" format="1">
+  <advance width="761"/>
+  <unicode hex="0BE9"/>
+  <outline>
+    <contour>
+      <point x="344" y="20" type="curve"/>
+      <point x="344" y="-2" type="line"/>
+      <point x="716" y="-2" type="line"/>
+      <point x="716" y="24" type="line"/>
+      <point x="412" y="24" type="line"/>
+      <point x="484" y="54"/>
+      <point x="603" y="116"/>
+      <point x="603" y="262" type="curve"/>
+      <point x="603" y="323"/>
+      <point x="581" y="406"/>
+      <point x="476" y="406" type="curve"/>
+      <point x="368" y="406"/>
+      <point x="342" y="318"/>
+      <point x="342" y="258" type="curve"/>
+      <point x="357" y="219" type="line"/>
+      <point x="355" y="322"/>
+      <point x="400" y="380"/>
+      <point x="474" y="380" type="curve"/>
+      <point x="551" y="380"/>
+      <point x="573" y="318"/>
+      <point x="573" y="262" type="curve"/>
+      <point x="573" y="106"/>
+      <point x="405" y="43"/>
+    </contour>
+    <contour>
+      <point x="95" y="514" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="343" y="204" type="curve"/>
+      <point x="349" y="204"/>
+      <point x="353" y="206"/>
+      <point x="357" y="208" type="curve"/>
+      <point x="357" y="505" type="line"/>
+      <point x="327" y="511" type="line"/>
+      <point x="327" y="217" type="line" smooth="yes"/>
+      <point x="327" y="209"/>
+      <point x="329" y="204"/>
+    </contour>
+    <contour>
+      <point x="95" y="528" type="line"/>
+      <point x="95" y="502" type="line"/>
+      <point x="445" y="502" type="line" smooth="yes"/>
+      <point x="485" y="502"/>
+      <point x="506" y="501"/>
+      <point x="506" y="518" type="curve"/>
+      <point x="506" y="521"/>
+      <point x="506" y="524"/>
+      <point x="505" y="528" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-16 14:03:04 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>pa-tamil</string>
+    </dict>
+  </lib>
+</glyph>

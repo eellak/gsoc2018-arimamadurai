@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeinferior" format="1">
+  <advance width="442"/>
+  <unicode hex="2083"/>
+  <outline>
+    <contour>
+      <point x="203" y="-8" type="curve"/>
+      <point x="328" y="-8"/>
+      <point x="410" y="48"/>
+      <point x="410" y="133" type="curve"/>
+      <point x="410" y="204"/>
+      <point x="345" y="237"/>
+      <point x="261" y="248" type="curve"/>
+      <point x="332" y="268"/>
+      <point x="389" y="315"/>
+      <point x="389" y="370" type="curve"/>
+      <point x="389" y="466"/>
+      <point x="283" y="484"/>
+      <point x="212" y="484" type="curve"/>
+      <point x="105" y="484"/>
+      <point x="48" y="453"/>
+      <point x="48" y="397" type="curve"/>
+      <point x="48" y="383"/>
+      <point x="54" y="342"/>
+      <point x="131" y="344" type="curve"/>
+      <point x="131" y="394"/>
+      <point x="143" y="449"/>
+      <point x="204" y="449" type="curve"/>
+      <point x="249" y="449"/>
+      <point x="264" y="424"/>
+      <point x="264" y="379" type="curve"/>
+      <point x="264" y="336"/>
+      <point x="230" y="274"/>
+      <point x="116" y="267" type="curve"/>
+      <point x="116" y="229" type="line"/>
+      <point x="201" y="230"/>
+      <point x="284" y="202"/>
+      <point x="284" y="122" type="curve"/>
+      <point x="284" y="64"/>
+      <point x="247" y="25"/>
+      <point x="196" y="25" type="curve"/>
+      <point x="110" y="25"/>
+      <point x="107" y="101"/>
+      <point x="104" y="134" type="curve"/>
+      <point x="35" y="134"/>
+      <point x="23" y="92"/>
+      <point x="23" y="69" type="curve"/>
+      <point x="23" y="43"/>
+      <point x="47" y="-8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>three</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>three</string>
+    </dict>
+  </lib>
+</glyph>

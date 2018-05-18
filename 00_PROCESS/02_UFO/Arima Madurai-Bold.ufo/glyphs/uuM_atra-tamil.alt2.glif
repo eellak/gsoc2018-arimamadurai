@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uuMatra-tamil.alt2" format="1">
+  <advance width="606"/>
+  <outline>
+    <contour>
+      <point x="172" y="274" type="curve"/>
+      <point x="236" y="274"/>
+      <point x="325" y="302"/>
+      <point x="325" y="411" type="curve"/>
+      <point x="325" y="482"/>
+      <point x="288" y="548"/>
+      <point x="160" y="548" type="curve"/>
+      <point x="150" y="548" type="line"/>
+      <point x="197" y="592"/>
+      <point x="257" y="603"/>
+      <point x="299" y="603" type="curve"/>
+      <point x="404" y="603"/>
+      <point x="443" y="532"/>
+      <point x="443" y="440" type="curve"/>
+      <point x="443" y="381"/>
+      <point x="427" y="313"/>
+      <point x="369" y="294" type="curve"/>
+      <point x="368" y="284"/>
+      <point x="378" y="270"/>
+      <point x="393" y="270" type="curve"/>
+      <point x="420" y="270"/>
+      <point x="546" y="315"/>
+      <point x="546" y="459" type="curve"/>
+      <point x="546" y="597"/>
+      <point x="431" y="652"/>
+      <point x="312" y="652" type="curve"/>
+      <point x="215" y="652"/>
+      <point x="139" y="615"/>
+      <point x="84" y="548" type="curve"/>
+      <point x="-218" y="548" type="line"/>
+      <point x="-218" y="500" type="line"/>
+      <point x="55" y="500" type="line"/>
+      <point x="44" y="475"/>
+      <point x="38" y="448"/>
+      <point x="38" y="417" type="curve"/>
+      <point x="38" y="337"/>
+      <point x="77" y="274"/>
+    </contour>
+    <contour>
+      <point x="143" y="316" type="curve"/>
+      <point x="108" y="316"/>
+      <point x="86" y="345"/>
+      <point x="86" y="400" type="curve"/>
+      <point x="86" y="454"/>
+      <point x="107" y="488"/>
+      <point x="145" y="488" type="curve"/>
+      <point x="181" y="488"/>
+      <point x="198" y="458"/>
+      <point x="198" y="404" type="curve"/>
+      <point x="198" y="343"/>
+      <point x="177" y="316"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 16:41:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven-tamil" format="1">
+  <advance width="906"/>
+  <unicode hex="0BED"/>
+  <outline>
+    <component base="e-tamil"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 17:08:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

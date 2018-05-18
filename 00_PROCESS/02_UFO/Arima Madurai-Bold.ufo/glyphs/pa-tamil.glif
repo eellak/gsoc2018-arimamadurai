@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pa-tamil" format="1">
+  <advance width="862"/>
+  <unicode hex="0BAA"/>
+  <outline>
+    <contour>
+      <point x="124" y="0" type="curve"/>
+      <point x="738" y="0" type="line" smooth="yes"/>
+      <point x="767" y="0"/>
+      <point x="777" y="18"/>
+      <point x="777" y="39" type="curve"/>
+      <point x="777" y="492" type="line" smooth="yes"/>
+      <point x="777" y="537"/>
+      <point x="756" y="558"/>
+      <point x="693" y="558" type="curve"/>
+      <point x="684" y="558"/>
+      <point x="645" y="555"/>
+      <point x="624" y="549" type="curve"/>
+      <point x="631" y="531"/>
+      <point x="631" y="503"/>
+      <point x="631" y="483" type="curve"/>
+      <point x="631" y="48" type="line"/>
+      <point x="231" y="48" type="line"/>
+      <point x="231" y="492" type="line" smooth="yes"/>
+      <point x="231" y="537"/>
+      <point x="210" y="558"/>
+      <point x="147" y="558" type="curve"/>
+      <point x="138" y="558"/>
+      <point x="99" y="555"/>
+      <point x="78" y="549" type="curve"/>
+      <point x="85" y="531"/>
+      <point x="85" y="503"/>
+      <point x="85" y="483" type="curve"/>
+      <point x="85" y="39" type="line" smooth="yes"/>
+      <point x="85" y="18"/>
+      <point x="95" y="0"/>
+    </contour>
+    <contour>
+      <point x="755" y="548" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="450" y="548" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 16:50:11 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>pa-tamil</string>
+    </dict>
+  </lib>
+</glyph>

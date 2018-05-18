@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four-tamil" format="1">
+  <advance width="805"/>
+  <unicode hex="0BEA"/>
+  <outline>
+    <contour>
+      <point x="266" y="-15" type="curve"/>
+      <point x="406" y="-15"/>
+      <point x="531" y="66"/>
+      <point x="531" y="230" type="curve"/>
+      <point x="531" y="530" type="line"/>
+      <point x="385" y="529" type="line"/>
+      <point x="385" y="220" type="line" smooth="yes"/>
+      <point x="385" y="142"/>
+      <point x="362" y="55"/>
+      <point x="245" y="55" type="curve"/>
+      <point x="172" y="55"/>
+      <point x="112" y="90"/>
+      <point x="112" y="174" type="curve"/>
+      <point x="112" y="240"/>
+      <point x="150" y="296"/>
+      <point x="260" y="296" type="curve"/>
+      <point x="696" y="296" type="line" smooth="yes"/>
+      <point x="723" y="296"/>
+      <point x="745" y="317"/>
+      <point x="745" y="344" type="curve"/>
+      <point x="745" y="548" type="line"/>
+      <point x="701" y="548" type="line"/>
+      <point x="701" y="356" type="line" smooth="yes"/>
+      <point x="701" y="349"/>
+      <point x="696" y="344"/>
+      <point x="689" y="344" type="curve"/>
+      <point x="239" y="344" type="line" smooth="yes"/>
+      <point x="110" y="344"/>
+      <point x="50" y="266"/>
+      <point x="50" y="173" type="curve"/>
+      <point x="50" y="70"/>
+      <point x="126" y="-15"/>
+    </contour>
+    <contour>
+      <point x="165" y="507" type="curve"/>
+      <point x="165" y="318" type="line"/>
+      <point x="209" y="321" type="line"/>
+      <point x="209" y="482" type="line" smooth="yes"/>
+      <point x="209" y="496"/>
+      <point x="217" y="499"/>
+      <point x="226" y="499" type="curve"/>
+      <point x="600" y="500" type="line" smooth="yes"/>
+      <point x="635" y="500"/>
+      <point x="654" y="501"/>
+      <point x="654" y="527" type="curve"/>
+      <point x="654" y="533"/>
+      <point x="653" y="540"/>
+      <point x="649" y="548" type="curve"/>
+      <point x="203" y="548" type="line" smooth="yes"/>
+      <point x="179" y="548"/>
+      <point x="165" y="537"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 18:03:24 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ka-tamil</string>
+    </dict>
+  </lib>
+</glyph>

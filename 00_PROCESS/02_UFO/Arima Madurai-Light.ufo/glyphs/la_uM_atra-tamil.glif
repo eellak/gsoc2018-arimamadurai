@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="la_uMatra-tamil" format="1">
+  <advance width="1056"/>
+  <outline>
+    <contour>
+      <point x="238" y="-305" type="curve"/>
+      <point x="420" y="-305"/>
+      <point x="605" y="-181"/>
+      <point x="640" y="0" type="curve"/>
+      <point x="611" y="0" type="line"/>
+      <point x="575" y="-182"/>
+      <point x="393" y="-279"/>
+      <point x="241" y="-279" type="curve"/>
+      <point x="179" y="-279"/>
+      <point x="111" y="-263"/>
+      <point x="111" y="-197" type="curve"/>
+      <point x="111" y="-155"/>
+      <point x="138" y="-123"/>
+      <point x="258" y="-123" type="curve"/>
+      <point x="942" y="-123" type="line"/>
+      <point x="933" y="-97" type="line"/>
+      <point x="259" y="-97" type="line" smooth="yes"/>
+      <point x="117" y="-97"/>
+      <point x="80" y="-137"/>
+      <point x="80" y="-194" type="curve"/>
+      <point x="80" y="-261"/>
+      <point x="130" y="-305"/>
+    </contour>
+    <contour>
+      <point x="924" y="524" type="curve"/>
+      <point x="924" y="-123" type="line"/>
+      <point x="954" y="-123" type="line"/>
+      <point x="954" y="533" type="line"/>
+      <point x="929" y="536"/>
+      <point x="924" y="531"/>
+    </contour>
+    <component base="la-tamil"/>
+    <contour>
+      <point x="934" y="528" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="502" y="528" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 17:03:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>la-tamil</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>pa-tamil</string>
+    </dict>
+  </lib>
+</glyph>

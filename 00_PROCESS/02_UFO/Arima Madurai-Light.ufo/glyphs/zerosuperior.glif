@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zerosuperior" format="1">
+  <advance width="427"/>
+  <unicode hex="2070"/>
+  <outline>
+    <contour>
+      <point x="227" y="235" type="curve"/>
+      <point x="324" y="235"/>
+      <point x="378" y="309"/>
+      <point x="378" y="468" type="curve"/>
+      <point x="378" y="626"/>
+      <point x="324" y="700"/>
+      <point x="227" y="700" type="curve"/>
+      <point x="130" y="700"/>
+      <point x="75" y="626"/>
+      <point x="75" y="468" type="curve"/>
+      <point x="75" y="309"/>
+      <point x="130" y="235"/>
+    </contour>
+    <contour>
+      <point x="227" y="256" type="curve"/>
+      <point x="148" y="256"/>
+      <point x="102" y="322"/>
+      <point x="102" y="468" type="curve"/>
+      <point x="102" y="613"/>
+      <point x="148" y="679"/>
+      <point x="227" y="679" type="curve"/>
+      <point x="305" y="679"/>
+      <point x="352" y="613"/>
+      <point x="352" y="468" type="curve"/>
+      <point x="352" y="322"/>
+      <point x="305" y="256"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uuMatra-tamil.alt1" format="1">
+  <advance width="462"/>
+  <outline>
+    <contour>
+      <point x="144" y="509" type="line"/>
+      <point x="144" y="-135" type="line"/>
+      <point x="290" y="-135" type="line"/>
+      <point x="290" y="515" type="line"/>
+    </contour>
+    <contour>
+      <point x="-135" y="501" type="line"/>
+      <point x="410" y="500" type="line"/>
+      <point x="437" y="500"/>
+      <point x="459" y="500"/>
+      <point x="459" y="525" type="curve"/>
+      <point x="459" y="531"/>
+      <point x="457" y="538"/>
+      <point x="455" y="547" type="curve"/>
+      <point x="-135" y="548" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-11-03 12:57:38 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e-tamil</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

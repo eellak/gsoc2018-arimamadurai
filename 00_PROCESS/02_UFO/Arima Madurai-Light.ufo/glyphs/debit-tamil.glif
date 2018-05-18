@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="debit-tamil" format="1">
+  <advance width="1006"/>
+  <unicode hex="0BF6"/>
+  <outline>
+    <contour>
+      <point x="326" y="-343" type="curve"/>
+      <point x="492" y="-343"/>
+      <point x="602" y="-242"/>
+      <point x="602" y="7" type="curve"/>
+      <point x="602" y="515" type="line" smooth="yes"/>
+      <point x="602" y="527"/>
+      <point x="594" y="537"/>
+      <point x="582" y="537" type="curve"/>
+      <point x="574" y="537"/>
+      <point x="569" y="533"/>
+      <point x="565" y="529" type="curve"/>
+      <point x="574" y="515"/>
+      <point x="572" y="483"/>
+      <point x="572" y="476" type="curve"/>
+      <point x="572" y="26" type="line"/>
+      <point x="132" y="26" type="line"/>
+      <point x="132" y="515" type="line" smooth="yes"/>
+      <point x="132" y="527"/>
+      <point x="124" y="537"/>
+      <point x="112" y="537" type="curve"/>
+      <point x="104" y="537"/>
+      <point x="99" y="533"/>
+      <point x="95" y="529" type="curve"/>
+      <point x="104" y="515"/>
+      <point x="102" y="483"/>
+      <point x="102" y="476" type="curve"/>
+      <point x="102" y="39" type="line" smooth="yes"/>
+      <point x="102" y="18"/>
+      <point x="99" y="0"/>
+      <point x="119" y="0" type="curve"/>
+      <point x="574" y="0" type="line"/>
+      <point x="574" y="-271"/>
+      <point x="427" y="-317"/>
+      <point x="332" y="-317" type="curve"/>
+      <point x="243" y="-317"/>
+      <point x="145" y="-277"/>
+      <point x="145" y="-202" type="curve"/>
+      <point x="145" y="-152"/>
+      <point x="188" y="-122"/>
+      <point x="295" y="-122" type="curve"/>
+      <point x="890" y="-122" type="line" smooth="yes"/>
+      <point x="898" y="-122"/>
+      <point x="904" y="-116"/>
+      <point x="904" y="-108" type="curve"/>
+      <point x="904" y="515" type="line" smooth="yes"/>
+      <point x="904" y="527"/>
+      <point x="896" y="537"/>
+      <point x="884" y="537" type="curve"/>
+      <point x="876" y="537"/>
+      <point x="871" y="533"/>
+      <point x="867" y="529" type="curve"/>
+      <point x="876" y="515"/>
+      <point x="874" y="483"/>
+      <point x="874" y="476" type="curve"/>
+      <point x="874" y="-96" type="line"/>
+      <point x="295" y="-96" type="line" smooth="yes"/>
+      <point x="174" y="-96"/>
+      <point x="114" y="-131"/>
+      <point x="114" y="-198" type="curve"/>
+      <point x="114" y="-270"/>
+      <point x="185" y="-343"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 15:55:09 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>pa-tamil</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>pa-tamil</string>
+    </dict>
+  </lib>
+</glyph>

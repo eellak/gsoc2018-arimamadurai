@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcomb.cap" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="442" y="-61" type="curve"/>
+      <point x="158" y="-61" type="line"/>
+      <point x="152" y="-79"/>
+      <point x="152" y="-97"/>
+      <point x="158" y="-114" type="curve"/>
+      <point x="442" y="-114" type="line"/>
+      <point x="448" y="-97"/>
+      <point x="448" y="-79"/>
+    </contour>
+    <contour>
+      <point x="295" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="297" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

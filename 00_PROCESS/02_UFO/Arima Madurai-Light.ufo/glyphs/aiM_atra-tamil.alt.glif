@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aiMatra-tamil.alt" format="1">
+  <advance width="335"/>
+  <outline>
+    <contour>
+      <point x="198" y="-18" type="curve"/>
+      <point x="319" y="-18"/>
+      <point x="391" y="83"/>
+      <point x="409" y="172" type="curve"/>
+      <point x="391" y="180" type="line"/>
+      <point x="367" y="102"/>
+      <point x="312" y="10"/>
+      <point x="203" y="10" type="curve"/>
+      <point x="119" y="10"/>
+      <point x="79" y="65"/>
+      <point x="79" y="126" type="curve"/>
+      <point x="79" y="311"/>
+      <point x="366" y="322"/>
+      <point x="366" y="522" type="curve"/>
+      <point x="366" y="621"/>
+      <point x="280" y="667"/>
+      <point x="187" y="667" type="curve"/>
+      <point x="90" y="667"/>
+      <point x="14" y="616"/>
+      <point x="14" y="529" type="curve"/>
+      <point x="14" y="454"/>
+      <point x="70" y="417"/>
+      <point x="132" y="417" type="curve"/>
+      <point x="204" y="417"/>
+      <point x="250" y="466"/>
+      <point x="250" y="533" type="curve"/>
+      <point x="250" y="608"/>
+      <point x="192" y="641"/>
+      <point x="146" y="642" type="curve"/>
+      <point x="158" y="644"/>
+      <point x="170" y="645"/>
+      <point x="182" y="645" type="curve"/>
+      <point x="258" y="645"/>
+      <point x="338" y="604"/>
+      <point x="338" y="520" type="curve"/>
+      <point x="338" y="341"/>
+      <point x="51" y="331"/>
+      <point x="51" y="121" type="curve"/>
+      <point x="51" y="35"/>
+      <point x="110" y="-18"/>
+    </contour>
+    <contour>
+      <point x="133" y="442" type="curve"/>
+      <point x="83" y="442"/>
+      <point x="42" y="474"/>
+      <point x="42" y="532" type="curve"/>
+      <point x="42" y="593"/>
+      <point x="86" y="624"/>
+      <point x="131" y="624" type="curve"/>
+      <point x="176" y="624"/>
+      <point x="222" y="593"/>
+      <point x="222" y="532" type="curve"/>
+      <point x="222" y="478"/>
+      <point x="186" y="442"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-15 16:41:17 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

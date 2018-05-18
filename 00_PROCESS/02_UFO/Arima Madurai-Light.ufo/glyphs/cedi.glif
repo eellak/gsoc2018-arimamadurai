@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedi" format="1">
+  <advance width="556"/>
+  <unicode hex="20B5"/>
+  <outline>
+    <contour>
+      <point x="311" y="-88" type="curve"/>
+      <point x="319" y="-88"/>
+      <point x="323" y="-84"/>
+      <point x="327" y="-80" type="curve"/>
+      <point x="323" y="-64"/>
+      <point x="321" y="-33"/>
+      <point x="321" y="7" type="curve"/>
+      <point x="319" y="753" type="line" smooth="yes"/>
+      <point x="319" y="767"/>
+      <point x="314" y="775"/>
+      <point x="304" y="775" type="curve"/>
+      <point x="296" y="775"/>
+      <point x="292" y="771"/>
+      <point x="288" y="767" type="curve"/>
+      <point x="292" y="751"/>
+      <point x="294" y="720"/>
+      <point x="294" y="680" type="curve"/>
+      <point x="296" y="-66" type="line" smooth="yes"/>
+      <point x="296" y="-80"/>
+      <point x="301" y="-88"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

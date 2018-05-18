@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="1">
+  <advance width="600"/>
+  <unicode hex="0328"/>
+  <outline>
+    <contour>
+      <point x="307" y="-168" type="curve"/>
+      <point x="345" y="-168"/>
+      <point x="383" y="-149"/>
+      <point x="401" y="-111" type="curve"/>
+      <point x="403" y="-103"/>
+      <point x="400" y="-97"/>
+      <point x="394" y="-93" type="curve"/>
+      <point x="383" y="-112"/>
+      <point x="353" y="-144"/>
+      <point x="311" y="-144" type="curve"/>
+      <point x="276" y="-144"/>
+      <point x="258" y="-122"/>
+      <point x="258" y="-90" type="curve"/>
+      <point x="258" y="-49"/>
+      <point x="287" y="-26"/>
+      <point x="339" y="-2" type="curve"/>
+      <point x="328" y="13" type="line"/>
+      <point x="278" y="-4"/>
+      <point x="226" y="-37"/>
+      <point x="226" y="-94" type="curve"/>
+      <point x="226" y="-144"/>
+      <point x="265" y="-168"/>
+    </contour>
+    <contour>
+      <point x="321" y="0" type="move" name="_ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>
