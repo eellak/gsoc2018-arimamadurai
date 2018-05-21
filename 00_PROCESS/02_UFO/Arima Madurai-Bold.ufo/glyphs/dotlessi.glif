@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="270"/>
+  <advance width="274"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="207" y="146" type="curve"/>
-      <point x="206" y="461" type="line" smooth="yes"/>
-      <point x="206" y="506"/>
-      <point x="173" y="532"/>
-      <point x="128" y="532" type="curve"/>
-      <point x="90" y="532"/>
-      <point x="63" y="512"/>
-      <point x="51" y="502" type="curve"/>
-      <point x="68" y="457"/>
-      <point x="71" y="409"/>
-      <point x="71" y="371" type="curve"/>
-      <point x="71" y="56" type="line" smooth="yes"/>
-      <point x="71" y="12"/>
-      <point x="105" y="-15"/>
-      <point x="148" y="-15" type="curve"/>
-      <point x="187" y="-15"/>
-      <point x="215" y="5"/>
-      <point x="227" y="16" type="curve"/>
-      <point x="209" y="60"/>
-      <point x="207" y="108"/>
+      <point x="209" y="146" type="curve"/>
+      <point x="208" y="461" type="line" smooth="yes"/>
+      <point x="208" y="506"/>
+      <point x="175" y="532"/>
+      <point x="130" y="532" type="curve"/>
+      <point x="92" y="532"/>
+      <point x="65" y="512"/>
+      <point x="53" y="502" type="curve"/>
+      <point x="70" y="457"/>
+      <point x="73" y="409"/>
+      <point x="73" y="371" type="curve"/>
+      <point x="73" y="56" type="line" smooth="yes"/>
+      <point x="73" y="12"/>
+      <point x="107" y="-15"/>
+      <point x="150" y="-15" type="curve"/>
+      <point x="189" y="-15"/>
+      <point x="217" y="5"/>
+      <point x="229" y="16" type="curve"/>
+      <point x="211" y="60"/>
+      <point x="209" y="108"/>
     </contour>
     <contour>
-      <point x="149" y="0" type="move" name="bottom"/>
+      <point x="151" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="177" y="10" type="move" name="ogonek"/>
+      <point x="179" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="127" y="516" type="move" name="top"/>
+      <point x="129" y="516" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-10-29 13:05:33 +0000</string>
+      <string>2018-05-21 13:52:16 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>i</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

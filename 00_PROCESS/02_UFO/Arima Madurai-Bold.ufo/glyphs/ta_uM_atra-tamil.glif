@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ta_uMatra-tamil" format="1">
-  <advance width="1229"/>
+  <advance width="1221"/>
   <outline>
     <contour>
       <point x="303" y="-336" type="curve"/>
@@ -91,7 +91,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-10-15 17:14:44 +0000</string>
+      <string>2018-05-21 13:52:16 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>ka-tamil</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

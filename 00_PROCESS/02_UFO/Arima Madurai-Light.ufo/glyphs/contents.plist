@@ -526,6 +526,8 @@
 	<string>aiM_atra-tamil.alt.glif</string>
 	<key>alpha</key>
 	<string>alpha.glif</string>
+	<key>alpha.alt</key>
+	<string>alpha.alt.glif</string>
 	<key>alphatonos</key>
 	<string>alphatonos.glif</string>
 	<key>amacron</key>
@@ -1286,6 +1288,8 @@
 	<string>phi.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
+	<key>pi.alt</key>
+	<string>pi.alt.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>plusminus</key>

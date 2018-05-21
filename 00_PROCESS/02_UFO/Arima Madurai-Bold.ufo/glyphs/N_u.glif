@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nu" format="1">
-  <advance width="703"/>
+  <advance width="699"/>
   <unicode hex="039D"/>
   <outline>
     <component base="N"/>
@@ -8,7 +8,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-18 15:09:50 +0000</string>
+      <string>2018-05-21 13:57:22 +0000</string>
     </dict>
   </lib>
 </glyph>

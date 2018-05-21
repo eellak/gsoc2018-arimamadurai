@@ -4,6 +4,9 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
+		<string>oalle/ascript n
+da/ascript/pi.alt/alpha/pi 
+dhesion</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -17,17 +20,45 @@
 		<dict>
 			<key>60CFBDE8-BC08-4808-BF41-F011F3E03A54</key>
 			<dict>
+				<key>HH</key>
+				<string>26</string>
+				<key>HV</key>
+				<string>30</string>
+				<key>OH</key>
+				<string>28</string>
+				<key>OV</key>
+				<string>32</string>
+				<key>nV</key>
+				<string>30</string>
 				<key>nd</key>
-				<integer>26</integer>
+				<string>24</string>
+				<key>oH</key>
+				<string>28</string>
+				<key>oV</key>
+				<string>32</string>
+				<key>tH</key>
+				<string>26</string>
 			</dict>
 			<key>EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8</key>
 			<dict>
+				<key>HH</key>
+				<string>74</string>
+				<key>HV</key>
+				<string>140</string>
+				<key>OH</key>
+				<string>47</string>
+				<key>OV</key>
+				<string>154</string>
 				<key>nV</key>
-				<integer>146</integer>
+				<string>136</string>
 				<key>nd</key>
-				<integer>48</integer>
+				<string>44</string>
+				<key>oH</key>
+				<string>46</string>
 				<key>oV</key>
-				<integer>150</integer>
+				<string>146</string>
+				<key>tH</key>
+				<string>61</string>
 			</dict>
 		</dict>
 	</dict>
@@ -533,6 +564,8 @@
 		<string>epsilontonos</string>
 		<string>etatonos</string>
 		<string>kaiSymbol</string>
+		<string>alpha.alt</string>
+		<string>pi.alt</string>
 		<string>a-tamil</string>
 		<string>aa-tamil</string>
 		<string>i-tamil</string>

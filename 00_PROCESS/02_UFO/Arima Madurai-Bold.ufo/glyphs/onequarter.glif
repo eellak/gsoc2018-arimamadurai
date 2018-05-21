@@ -4,13 +4,13 @@
   <unicode hex="00BC"/>
   <outline>
     <component base="onesuperior"/>
-    <component base="fraction" xOffset="361"/>
-    <component base="fourinferior" xOffset="589"/>
+    <component base="fraction" xOffset="360"/>
+    <component base="fourinferior" xOffset="588"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-18 15:09:07 +0000</string>
+      <string>2018-05-21 13:56:12 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>one.numr</string>
     </dict>

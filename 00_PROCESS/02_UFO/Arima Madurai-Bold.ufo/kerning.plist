@@ -1119,6 +1119,11 @@
 		<key>x</key>
 		<real>-16.46150016784668</real>
 	</dict>
+	<key>alpha</key>
+	<dict>
+		<key>pi</key>
+		<integer>0</integer>
+	</dict>
 	<key>ampersand</key>
 	<dict>
 		<key>@MMK_R_A</key>

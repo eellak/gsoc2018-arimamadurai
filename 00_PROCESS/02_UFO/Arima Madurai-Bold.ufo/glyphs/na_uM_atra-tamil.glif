@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="na_uMatra-tamil" format="1">
-  <advance width="1192"/>
+  <advance width="1184"/>
   <outline>
     <contour>
       <point x="312" y="-336" type="curve"/>
@@ -87,7 +87,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015-10-15 16:43:27 +0000</string>
+      <string>2018-05-21 13:52:16 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>pa-tamil</string>
       <key>public.markColor</key>
