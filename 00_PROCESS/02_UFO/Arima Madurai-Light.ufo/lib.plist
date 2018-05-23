@@ -7,6 +7,14 @@
 		<string>oalle/ascript n
 da/ascript/pi.alt/alpha/pi 
 dhesion</string>
+		<string>/ascript eo /alpha  /alpha 
+/alpha/epsilon  /alpha.002  /alpha.005/alpha.004  /alpha.001  /alpha.006  /ascript 
+u/epsilon/eta/rho/iota/mu/omicron 
+</string>
+		<string>/alpha  /alpha.005  /alpha.002  /alpha.004 
+
+
+</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -564,6 +572,12 @@ dhesion</string>
 		<string>epsilontonos</string>
 		<string>etatonos</string>
 		<string>kaiSymbol</string>
+		<string>alpha.001</string>
+		<string>epsilon.001</string>
+		<string>alpha.002</string>
+		<string>alpha.004</string>
+		<string>alpha.005</string>
+		<string>alpha.006</string>
 		<string>alpha.alt</string>
 		<string>pi.alt</string>
 		<string>a-tamil</string>

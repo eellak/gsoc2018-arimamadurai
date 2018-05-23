@@ -526,6 +526,16 @@
 	<string>aiM_atra-tamil.alt.glif</string>
 	<key>alpha</key>
 	<string>alpha.glif</string>
+	<key>alpha.001</key>
+	<string>alpha.001.glif</string>
+	<key>alpha.002</key>
+	<string>alpha.002.glif</string>
+	<key>alpha.004</key>
+	<string>alpha.004.glif</string>
+	<key>alpha.005</key>
+	<string>alpha.005.glif</string>
+	<key>alpha.006</key>
+	<string>alpha.006.glif</string>
 	<key>alpha.alt</key>
 	<string>alpha.alt.glif</string>
 	<key>alphatonos</key>
@@ -802,6 +812,8 @@
 	<string>eogonek.glif</string>
 	<key>epsilon</key>
 	<string>epsilon.glif</string>
+	<key>epsilon.001</key>
+	<string>epsilon.001.glif</string>
 	<key>epsilontonos</key>
 	<string>epsilontonos.glif</string>
 	<key>equal</key>

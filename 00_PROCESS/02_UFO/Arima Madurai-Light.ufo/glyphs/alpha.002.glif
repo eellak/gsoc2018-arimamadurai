@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="alpha" format="1">
+<glyph name="alpha.002" format="1">
   <advance width="544"/>
-  <unicode hex="03B1"/>
   <outline>
     <component base="ascript"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-23 15:10:03 +0000</string>
+      <string>2018-05-23 14:05:17 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>_4</string>
     </dict>
   </lib>
 </glyph>
