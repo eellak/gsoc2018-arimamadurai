@@ -1,4 +1,4 @@
-## Journal of the process
+## Journal of process
 
 **180415** ~ *GitHub and dropbox settings, analysing Arima font sources*
 
