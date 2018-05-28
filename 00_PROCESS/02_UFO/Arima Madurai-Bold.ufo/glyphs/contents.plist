@@ -526,8 +526,30 @@
 	<string>aiM_atra-tamil.alt.glif</string>
 	<key>alpha</key>
 	<string>alpha.glif</string>
+	<key>alpha.001</key>
+	<string>alpha.001.glif</string>
+	<key>alpha.002.003</key>
+	<string>alpha.002.003.glif</string>
+	<key>alpha.002.003.001</key>
+	<string>alpha.002.003.001.glif</string>
+	<key>alpha.004</key>
+	<string>alpha.004.glif</string>
+	<key>alpha.005</key>
+	<string>alpha.005.glif</string>
+	<key>alpha.006</key>
+	<string>alpha.006.glif</string>
+	<key>alpha.008</key>
+	<string>alpha.008.glif</string>
 	<key>alpha.alt</key>
 	<string>alpha.alt.glif</string>
+	<key>alpha.ss01</key>
+	<string>alpha.ss01.glif</string>
+	<key>alpha.ss02</key>
+	<string>alpha.ss02.glif</string>
+	<key>alpha.ss03</key>
+	<string>alpha.ss03.glif</string>
+	<key>alpha.ss04</key>
+	<string>alpha.ss04.glif</string>
 	<key>alphatonos</key>
 	<string>alphatonos.glif</string>
 	<key>amacron</key>
@@ -800,8 +822,12 @@
 	<string>enspace.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
-	<key>epsilon</key>
-	<string>epsilon.glif</string>
+	<key>epsilon.001</key>
+	<string>epsilon.001.glif</string>
+	<key>epsilon.003</key>
+	<string>epsilon.003.glif</string>
+	<key>epsilon.ss01</key>
+	<string>epsilon.ss01.glif</string>
 	<key>epsilontonos</key>
 	<string>epsilontonos.glif</string>
 	<key>equal</key>
@@ -810,6 +836,14 @@
 	<string>estimated.glif</string>
 	<key>eta</key>
 	<string>eta.glif</string>
+	<key>eta.002</key>
+	<string>eta.002.glif</string>
+	<key>eta.ss01</key>
+	<string>eta.ss01.glif</string>
+	<key>eta.ss03</key>
+	<string>eta.ss03.glif</string>
+	<key>eta.ss04</key>
+	<string>eta.ss04.glif</string>
 	<key>etatonos</key>
 	<string>etatonos.glif</string>
 	<key>eth</key>
@@ -972,6 +1006,12 @@
 	<string>iogonek.glif</string>
 	<key>iota</key>
 	<string>iota.glif</string>
+	<key>iota.ss01</key>
+	<string>iota.ss01.glif</string>
+	<key>iota.ss02</key>
+	<string>iota.ss02.glif</string>
+	<key>iota.ss03</key>
+	<string>iota.ss03.glif</string>
 	<key>iotadieresis</key>
 	<string>iotadieresis.glif</string>
 	<key>iotadieresistonos</key>
@@ -1092,10 +1132,18 @@
 	<string>month-tamil.glif</string>
 	<key>mu</key>
 	<string>mu.glif</string>
+	<key>mu.ss01</key>
+	<string>mu.ss01.glif</string>
+	<key>mu.ss02</key>
+	<string>mu.ss02.glif</string>
+	<key>mu.ss03</key>
+	<string>mu.ss03.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
+	<key>n.ss03</key>
+	<string>n.ss03.glif</string>
 	<key>na-tamil</key>
 	<string>na-tamil.glif</string>
 	<key>na_uMatra-tamil</key>
@@ -1216,6 +1264,10 @@
 	<string>omegatonos.glif</string>
 	<key>omicron</key>
 	<string>omicron.glif</string>
+	<key>omicron.ss01</key>
+	<string>omicron.ss01.glif</string>
+	<key>omicron.ss03</key>
+	<string>omicron.ss03.glif</string>
 	<key>omicrontonos</key>
 	<string>omicrontonos.glif</string>
 	<key>one</key>
@@ -1348,6 +1400,8 @@
 	<string>registered.glif</string>
 	<key>rho</key>
 	<string>rho.glif</string>
+	<key>rho.ss01</key>
+	<string>rho.ss01.glif</string>
 	<key>rightArrow</key>
 	<string>rightA_rrow.glif</string>
 	<key>rightBlackTriangle</key>

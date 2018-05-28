@@ -4,9 +4,17 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>oalle/ascript n
-da/ascript/pi.alt/alpha/pi 
-dhesion</string>
+		<string>/alpha.002.003.001/alpha.ss03/alpha.002.003/alpha.008 
+</string>
+		<string>/alpha.ss01/alpha.ss02/alpha.ss03/alpha.ss04/eta.ss01/eta.002 
+/epsilon.ss01/rho.ss01/eta.ss01/mu.ss01/iota.ss01/alpha.ss01/omicron.ss01 
+/epsilon.ss01/rho.ss01/eta.002/mu.ss02 s/iota.ss02/alpha.ss02/omicron.ss01 
+/epsilon.ss01/rho.ss01/n.ss03/mu.ss03/iota.ss03/alpha.ss03/omicron.ss01 
+/epsilon.003/rho/eta/mu/iota/ascript/omicron 
+amener
+
+
+</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -482,6 +490,7 @@ dhesion</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
 		<string>zdotbelow</string>
+		<string>n.ss03</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>ordfeminine</string>
@@ -525,7 +534,6 @@ dhesion</string>
 		<string>beta</string>
 		<string>gamma</string>
 		<string>delta</string>
-		<string>epsilon</string>
 		<string>zeta</string>
 		<string>eta</string>
 		<string>theta</string>
@@ -558,8 +566,35 @@ dhesion</string>
 		<string>epsilontonos</string>
 		<string>etatonos</string>
 		<string>kaiSymbol</string>
+		<string>alpha.002.003.001</string>
+		<string>alpha.001</string>
+		<string>epsilon.001</string>
+		<string>eta.002</string>
+		<string>alpha.002.003</string>
+		<string>epsilon.003</string>
+		<string>alpha.004</string>
+		<string>alpha.005</string>
+		<string>alpha.006</string>
+		<string>alpha.008</string>
 		<string>alpha.alt</string>
 		<string>pi.alt</string>
+		<string>alpha.ss01</string>
+		<string>epsilon.ss01</string>
+		<string>eta.ss01</string>
+		<string>iota.ss01</string>
+		<string>mu.ss01</string>
+		<string>omicron.ss01</string>
+		<string>rho.ss01</string>
+		<string>alpha.ss02</string>
+		<string>iota.ss02</string>
+		<string>mu.ss02</string>
+		<string>alpha.ss03</string>
+		<string>eta.ss03</string>
+		<string>iota.ss03</string>
+		<string>mu.ss03</string>
+		<string>omicron.ss03</string>
+		<string>alpha.ss04</string>
+		<string>eta.ss04</string>
 		<string>a-tamil</string>
 		<string>aa-tamil</string>
 		<string>i-tamil</string>
@@ -781,8 +816,8 @@ dhesion</string>
 		<string>product</string>
 		<string>summation</string>
 		<string>radical</string>
-		<string>micro</string>
 		<string>partialdiff</string>
+		<string>micro</string>
 		<string>percent</string>
 		<string>perthousand</string>
 		<string>upArrow</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresis" format="1">
-  <advance width="600"/>
+  <advance width="304"/>
   <unicode hex="03CA"/>
   <outline>
     <component base="iota"/>
@@ -9,7 +9,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-21 13:57:22 +0000</string>
+      <string>2018-05-28 15:59:33 +0000</string>
     </dict>
   </lib>
 </glyph>

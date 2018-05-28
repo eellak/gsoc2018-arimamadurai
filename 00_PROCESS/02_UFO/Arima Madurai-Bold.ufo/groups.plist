@@ -493,6 +493,7 @@
 		<string>otilde</string>
 		<string>p</string>
 		<string>thorn</string>
+		<string>omicron</string>
 	</array>
 	<key>@MMK_L_o-tamil</key>
 	<array>
@@ -1046,6 +1047,7 @@
 		<string>otilde</string>
 		<string>oe</string>
 		<string>q</string>
+		<string>omicron</string>
 	</array>
 	<key>@MMK_R_o-tamil</key>
 	<array>

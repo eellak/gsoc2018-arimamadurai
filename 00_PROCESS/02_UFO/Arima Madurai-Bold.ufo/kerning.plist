@@ -1008,11 +1008,11 @@
 		<key>@MMK_R_J</key>
 		<real>-2.1230800151824951</real>
 		<key>@MMK_R_O</key>
-		<real>-0.88461500406265259</real>
+		<real>-0.88462001085281372</real>
 		<key>@MMK_R_T</key>
 		<real>-1.7692300081253052</real>
 		<key>@MMK_R_Z</key>
-		<real>-0.88461500406265259</real>
+		<real>-0.88462001085281372</real>
 		<key>@MMK_R_a</key>
 		<real>-20.992300033569336</real>
 		<key>@MMK_R_o</key>
@@ -1191,6 +1191,16 @@
 		<key>zero</key>
 		<real>-11.769200325012207</real>
 	</dict>
+	<key>epsilon.001</key>
+	<dict>
+		<key>epsilon.003</key>
+		<integer>0</integer>
+	</dict>
+	<key>epsilon.003</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>0</integer>
+	</dict>
 	<key>f</key>
 	<dict>
 		<key>@MMK_R_a</key>
@@ -1312,6 +1322,11 @@
 	<dict>
 		<key>@MMK_R_a-tamil</key>
 		<integer>-10</integer>
+	</dict>
+	<key>n.ss03</key>
+	<dict>
+		<key>mu.ss01</key>
+		<integer>0</integer>
 	</dict>
 	<key>nine</key>
 	<dict>

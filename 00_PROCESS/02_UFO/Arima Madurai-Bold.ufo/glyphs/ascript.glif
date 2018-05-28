@@ -10,21 +10,21 @@
       <point x="397" y="209" type="curve"/>
       <point x="376" y="220" type="line"/>
       <point x="376" y="174" type="line" smooth="yes"/>
-      <point x="376" y="62"/>
-      <point x="409" y="-9"/>
-      <point x="487" y="-9" type="curve"/>
-      <point x="537" y="-9"/>
-      <point x="576" y="20"/>
-      <point x="576" y="61" type="curve"/>
-      <point x="576" y="73"/>
-      <point x="572" y="90"/>
-      <point x="563" y="104" type="curve"/>
-      <point x="557" y="95"/>
-      <point x="544" y="93"/>
-      <point x="537" y="93" type="curve"/>
-      <point x="515" y="93"/>
-      <point x="503" y="110"/>
-      <point x="503" y="145" type="curve"/>
+      <point x="376" y="59"/>
+      <point x="409" y="-14"/>
+      <point x="487" y="-14" type="curve"/>
+      <point x="537" y="-14"/>
+      <point x="576" y="15"/>
+      <point x="576" y="56" type="curve"/>
+      <point x="576" y="68"/>
+      <point x="572" y="85"/>
+      <point x="563" y="99" type="curve"/>
+      <point x="557" y="90"/>
+      <point x="544" y="88"/>
+      <point x="537" y="88" type="curve"/>
+      <point x="515" y="88"/>
+      <point x="503" y="105"/>
+      <point x="503" y="140" type="curve"/>
       <point x="504" y="460" type="line" smooth="yes"/>
       <point x="504" y="504"/>
       <point x="471" y="531"/>
@@ -68,7 +68,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-21 14:04:12 +0000</string>
+      <string>2018-05-25 14:20:59 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>d</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
