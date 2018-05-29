@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexhookabove" format="1">
+  <advance width="535"/>
+  <unicode hex="1EC3"/>
+  <outline>
+    <contour>
+      <point x="153" y="553" type="curve"/>
+      <point x="272" y="635" type="line"/>
+      <point x="389" y="553" type="line"/>
+      <point x="400" y="553"/>
+      <point x="423" y="564"/>
+      <point x="424" y="569" type="curve"/>
+      <point x="306" y="714" type="line"/>
+      <point x="294" y="720"/>
+      <point x="249" y="719"/>
+      <point x="237" y="714" type="curve"/>
+      <point x="119" y="569" type="line"/>
+      <point x="120" y="564"/>
+      <point x="142" y="554"/>
+    </contour>
+    <component base="e"/>
+    <component base="hookabovecomb" xOffset="211" yOffset="62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

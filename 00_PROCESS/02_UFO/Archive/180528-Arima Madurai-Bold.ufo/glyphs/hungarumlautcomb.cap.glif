@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlautcomb.cap" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="169" y="554" type="curve"/>
+      <point x="340" y="684" type="line"/>
+      <point x="321" y="710"/>
+      <point x="272" y="741"/>
+      <point x="244" y="744" type="curve"/>
+      <point x="140" y="577" type="line"/>
+      <point x="142" y="573"/>
+      <point x="160" y="555"/>
+    </contour>
+    <contour>
+      <point x="328" y="551" type="curve"/>
+      <point x="500" y="681" type="line"/>
+      <point x="481" y="707"/>
+      <point x="432" y="738"/>
+      <point x="404" y="741" type="curve"/>
+      <point x="300" y="574" type="line"/>
+      <point x="302" y="570"/>
+      <point x="319" y="553"/>
+    </contour>
+    <contour>
+      <point x="269" y="516" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="262" y="0" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilon.ss01" format="1">
-  <advance width="470"/>
+  <advance width="490"/>
   <outline>
     <contour>
       <point x="243" y="-18" type="curve"/>
@@ -56,7 +56,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-28 18:14:27 +0000</string>
+      <string>2018-05-29 10:45:58 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb.cap" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="435" y="703" type="curve"/>
+      <point x="423" y="705"/>
+      <point x="412" y="708"/>
+      <point x="399" y="711" type="curve"/>
+      <point x="382" y="659"/>
+      <point x="343" y="638"/>
+      <point x="295" y="638" type="curve"/>
+      <point x="248" y="638"/>
+      <point x="204" y="655"/>
+      <point x="190" y="711" type="curve"/>
+      <point x="176" y="708"/>
+      <point x="163" y="705"/>
+      <point x="149" y="702" type="curve"/>
+      <point x="159" y="633"/>
+      <point x="200" y="566"/>
+      <point x="291" y="566" type="curve"/>
+      <point x="380" y="566"/>
+      <point x="420" y="630"/>
+    </contour>
+    <contour>
+      <point x="292" y="516" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="296" y="653" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

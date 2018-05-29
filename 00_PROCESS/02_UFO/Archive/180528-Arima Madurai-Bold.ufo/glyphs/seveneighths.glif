@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveneighths" format="1">
+  <advance width="1089"/>
+  <unicode hex="215E"/>
+  <outline>
+    <component base="sevensuperior"/>
+    <component base="fraction" xOffset="385"/>
+    <component base="eightinferior" xOffset="613"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-21 13:41:29 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seven.numr</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn" format="1">
+  <advance width="666"/>
+  <unicode hex="01A0"/>
+  <outline>
+    <component base="O"/>
+    <component base="horncomb" xOffset="314" yOffset="137"/>
+    <contour>
+      <point x="328" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="331" y="698" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-10-29 13:05:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>

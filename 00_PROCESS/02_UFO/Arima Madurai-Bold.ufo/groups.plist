@@ -276,17 +276,6 @@
 		<string>aring</string>
 		<string>atilde</string>
 	</array>
-	<key>@MMK_L_aa-tamil</key>
-	<array>
-		<string>aa-tamil</string>
-		<string>nga_uuMatra-tamil</string>
-		<string>pa_uuMatra-tamil</string>
-		<string>va_uuMatra-tamil</string>
-	</array>
-	<key>@MMK_L_au-tamil</key>
-	<array>
-		<string>ka-tamil</string>
-	</array>
 	<key>@MMK_L_c</key>
 	<array>
 		<string>c</string>
@@ -332,6 +321,7 @@
 		<string>uogonek</string>
 		<string>uring</string>
 		<string>utilde</string>
+		<string>alpha</string>
 	</array>
 	<key>@MMK_L_dcaron</key>
 	<array>
@@ -359,24 +349,6 @@
 		<string>eogonek</string>
 		<string>etilde</string>
 		<string>oe</string>
-	</array>
-	<key>@MMK_L_e-tamil</key>
-	<array>
-		<string>e-tamil</string>
-		<string>ee-tamil</string>
-		<string>au-tamil</string>
-		<string>nna-tamil</string>
-		<string>nnna-tamil</string>
-		<string>ra-tamil</string>
-		<string>lla-tamil</string>
-		<string>aaMatra-tamil</string>
-		<string>onehundred-tamil</string>
-		<string>seven-tamil</string>
-		<string>oMatra-tamil</string>
-		<string>ooMatra-tamil</string>
-		<string>auMatra-tamil</string>
-		<string>aulengthmark-tamil</string>
-		<string>uuMatra-tamil.alt1</string>
 	</array>
 	<key>@MMK_L_g</key>
 	<array>
@@ -495,12 +467,6 @@
 		<string>thorn</string>
 		<string>omicron</string>
 	</array>
-	<key>@MMK_L_o-tamil</key>
-	<array>
-		<string>o-tamil</string>
-		<string>oo-tamil</string>
-		<string>om-tamil</string>
-	</array>
 	<key>@MMK_L_period</key>
 	<array>
 		<string>period</string>
@@ -545,14 +511,6 @@
 		<string>tdieresis</string>
 		<string>tdotbelow</string>
 		<string>tlinebelow</string>
-	</array>
-	<key>@MMK_L_u-tamil</key>
-	<array>
-		<string>u-tamil</string>
-		<string>tta-tamil</string>
-		<string>tta_iiMatra-tamil</string>
-		<string>two-tamil</string>
-		<string>three-tamil</string>
 	</array>
 	<key>@MMK_L_w</key>
 	<array>
@@ -840,19 +798,6 @@
 		<string>atilde</string>
 		<string>ae</string>
 	</array>
-	<key>@MMK_R_a-tamil</key>
-	<array>
-		<string>a-tamil</string>
-		<string>aa-tamil</string>
-		<string>eight-tamil</string>
-	</array>
-	<key>@MMK_R_ca-tamil</key>
-	<array>
-		<string>lla_uMatra-tamil</string>
-		<string>lla_uuMatra-tamil</string>
-		<string>one-tamil</string>
-		<string>seven-tamil</string>
-	</array>
 	<key>@MMK_R_colon</key>
 	<array>
 		<string>colon</string>
@@ -904,61 +849,10 @@
 		<string>itilde</string>
 		<string>kgreenlandic</string>
 	</array>
-	<key>@MMK_R_i-tamil</key>
-	<array>
-		<string>i-tamil</string>
-	</array>
-	<key>@MMK_R_ia-tamil</key>
-	<array>
-		<string>e-tamil</string>
-		<string>ee-tamil</string>
-		<string>nya-tamil</string>
-		<string>nna-tamil</string>
-		<string>nnna-tamil</string>
-		<string>la-tamil</string>
-		<string>lla-tamil</string>
-		<string>va-tamil</string>
-		<string>ssa-tamil</string>
-		<string>sa-tamil</string>
-		<string>ha-tamil</string>
-		<string>sh_ra_iiMatra-tamil</string>
-		<string>ka_uMatra-tamil</string>
-		<string>ca_uuMatra-tamil</string>
-		<string>nya_uMatra-tamil</string>
-		<string>nna_uMatra-tamil</string>
-		<string>nnna_uMatra-tamil</string>
-		<string>ma_uMatra-tamil</string>
-		<string>ma_uuMatra-tamil</string>
-		<string>ra_uMatra-tamil</string>
-		<string>ra_uuMatra-tamil</string>
-		<string>la_uMatra-tamil</string>
-		<string>va_uuMatra-tamil</string>
-		<string>five-tamil</string>
-		<string>day-tamil</string>
-		<string>year-tamil</string>
-		<string>credit-tamil</string>
-		<string>asabove-tamil</string>
-		<string>eMatra-tamil</string>
-		<string>aiMatra-tamil</string>
-		<string>aulengthmark-tamil</string>
-	</array>
 	<key>@MMK_R_j</key>
 	<array>
 		<string>j</string>
 		<string>jcircumflex</string>
-	</array>
-	<key>@MMK_R_ka-tamil</key>
-	<array>
-		<string>ka-tamil</string>
-		<string>ca-tamil</string>
-		<string>ta-tamil</string>
-		<string>ka_uuMatra-tamil</string>
-		<string>ca_uMatra-tamil</string>
-		<string>ta_uMatra-tamil</string>
-		<string>onethousand-tamil</string>
-		<string>four-tamil</string>
-		<string>six-tamil</string>
-		<string>nine-tamil</string>
 	</array>
 	<key>@MMK_R_n</key>
 	<array>
@@ -1047,18 +941,8 @@
 		<string>otilde</string>
 		<string>oe</string>
 		<string>q</string>
+		<string>alpha</string>
 		<string>omicron</string>
-	</array>
-	<key>@MMK_R_o-tamil</key>
-	<array>
-		<string>o-tamil</string>
-		<string>oo-tamil</string>
-		<string>au-tamil</string>
-		<string>om-tamil</string>
-	</array>
-	<key>@MMK_R_pa-tamil</key>
-	<array>
-		<string>month-tamil</string>
 	</array>
 	<key>@MMK_R_period</key>
 	<array>

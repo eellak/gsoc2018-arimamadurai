@@ -4,17 +4,16 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/alpha.002.003.001/alpha.ss03/alpha.002.003/alpha.008 
+		<string>/alpha.ss03 
 </string>
-		<string>/alpha.ss01/alpha.ss02/alpha.ss03/alpha.ss04/eta.ss01/eta.002 
-/epsilon.ss01/rho.ss01/eta.ss01/mu.ss01/iota.ss01/alpha.ss01/omicron.ss01 
-/epsilon.ss01/rho.ss01/eta.002/mu.ss02 s/iota.ss02/alpha.ss02/omicron.ss01 
-/epsilon.ss01/rho.ss01/n.ss03/mu.ss03/iota.ss03/alpha.ss03/omicron.ss01 
-/epsilon.003/rho/eta/mu/iota/ascript/omicron 
-amener
+		<string>/epsilon/rho/eta/mu/iota/alpha/omicron/pi 
 
 
 </string>
+		<string>/alpha.ss01/epsilon.ss01/eta.ss01/iota.ss01/mu.ss01/omicron.ss01/pi.ss01/rho.ss01 
+/alpha.ss02/epsilon.ss02/iota.ss02/eta.ss02/mu.ss02/omicron.ss02/pi.ss02/rho.ss02 
+/alpha.ss03/epsilon.ss03/eta.ss03/iota.ss03/mu.ss03/omicron.ss03/pi.ss03/rho.ss03 
+/alpha.ss04/epsilon.ss04/eta.ss04/mu.ss04/iota.ss04/pi.ss04/omicron.ss04/rho.ss04</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -490,7 +489,6 @@ amener
 		<string>zcaron</string>
 		<string>zdotaccent</string>
 		<string>zdotbelow</string>
-		<string>n.ss03</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>ordfeminine</string>
@@ -534,6 +532,7 @@ amener
 		<string>beta</string>
 		<string>gamma</string>
 		<string>delta</string>
+		<string>epsilon</string>
 		<string>zeta</string>
 		<string>eta</string>
 		<string>theta</string>
@@ -566,102 +565,38 @@ amener
 		<string>epsilontonos</string>
 		<string>etatonos</string>
 		<string>kaiSymbol</string>
-		<string>alpha.002.003.001</string>
-		<string>alpha.001</string>
-		<string>epsilon.001</string>
-		<string>eta.002</string>
-		<string>alpha.002.003</string>
-		<string>epsilon.003</string>
-		<string>alpha.004</string>
-		<string>alpha.005</string>
-		<string>alpha.006</string>
-		<string>alpha.008</string>
-		<string>alpha.alt</string>
-		<string>pi.alt</string>
 		<string>alpha.ss01</string>
 		<string>epsilon.ss01</string>
 		<string>eta.ss01</string>
 		<string>iota.ss01</string>
 		<string>mu.ss01</string>
 		<string>omicron.ss01</string>
+		<string>pi.ss01</string>
 		<string>rho.ss01</string>
 		<string>alpha.ss02</string>
+		<string>epsilon.ss02</string>
+		<string>eta.ss02</string>
 		<string>iota.ss02</string>
 		<string>mu.ss02</string>
+		<string>omicron.ss02</string>
+		<string>pi.ss02</string>
+		<string>rho.ss02</string>
 		<string>alpha.ss03</string>
+		<string>epsilon.ss03</string>
 		<string>eta.ss03</string>
 		<string>iota.ss03</string>
 		<string>mu.ss03</string>
 		<string>omicron.ss03</string>
+		<string>pi.ss03</string>
+		<string>rho.ss03</string>
 		<string>alpha.ss04</string>
+		<string>epsilon.ss04</string>
 		<string>eta.ss04</string>
-		<string>a-tamil</string>
-		<string>aa-tamil</string>
-		<string>i-tamil</string>
-		<string>ii-tamil</string>
-		<string>u-tamil</string>
-		<string>uu-tamil</string>
-		<string>e-tamil</string>
-		<string>ee-tamil</string>
-		<string>ai-tamil</string>
-		<string>o-tamil</string>
-		<string>oo-tamil</string>
-		<string>au-tamil</string>
-		<string>ka-tamil</string>
-		<string>nga-tamil</string>
-		<string>ca-tamil</string>
-		<string>ja-tamil</string>
-		<string>nya-tamil</string>
-		<string>tta-tamil</string>
-		<string>nna-tamil</string>
-		<string>ta-tamil</string>
-		<string>na-tamil</string>
-		<string>nnna-tamil</string>
-		<string>pa-tamil</string>
-		<string>ma-tamil</string>
-		<string>ya-tamil</string>
-		<string>ra-tamil</string>
-		<string>rra-tamil</string>
-		<string>la-tamil</string>
-		<string>lla-tamil</string>
-		<string>llla-tamil</string>
-		<string>va-tamil</string>
-		<string>sha-tamil</string>
-		<string>ssa-tamil</string>
-		<string>sa-tamil</string>
-		<string>ha-tamil</string>
-		<string>aaMatra-tamil</string>
-		<string>om-tamil</string>
-		<string>visarga-tamil</string>
-		<string>k_ssa-tamil</string>
-		<string>sh_ra_iiMatra-tamil</string>
-		<string>ka_uMatra-tamil</string>
-		<string>ka_uuMatra-tamil</string>
-		<string>nga_uuMatra-tamil</string>
-		<string>ca_uMatra-tamil</string>
-		<string>ca_uuMatra-tamil</string>
-		<string>nya_uMatra-tamil</string>
-		<string>tta_iMatra-tamil</string>
-		<string>tta_iiMatra-tamil</string>
-		<string>tta_uMatra-tamil</string>
-		<string>tta_uuMatra-tamil</string>
-		<string>nna_uMatra-tamil</string>
-		<string>ta_uMatra-tamil</string>
-		<string>na_uMatra-tamil</string>
-		<string>nnna_uMatra-tamil</string>
-		<string>pa_uuMatra-tamil</string>
-		<string>ma_uMatra-tamil</string>
-		<string>ma_uuMatra-tamil</string>
-		<string>ya_uuMatra-tamil</string>
-		<string>ra_uMatra-tamil</string>
-		<string>ra_uuMatra-tamil</string>
-		<string>rra_uMatra-tamil</string>
-		<string>la_uMatra-tamil</string>
-		<string>lla_uMatra-tamil</string>
-		<string>lla_uuMatra-tamil</string>
-		<string>llla_uMatra-tamil</string>
-		<string>llla_uuMatra-tamil</string>
-		<string>va_uuMatra-tamil</string>
+		<string>iota.ss04</string>
+		<string>mu.ss04</string>
+		<string>omicron.ss04</string>
+		<string>pi.ss04</string>
+		<string>rho.ss04</string>
 		<string>gscript</string>
 		<string>zero</string>
 		<string>one</string>
@@ -703,19 +638,6 @@ amener
 		<string>threeeighths</string>
 		<string>fiveeighths</string>
 		<string>seveneighths</string>
-		<string>ten-tamil</string>
-		<string>onehundred-tamil</string>
-		<string>onethousand-tamil</string>
-		<string>zero-tamil</string>
-		<string>one-tamil</string>
-		<string>two-tamil</string>
-		<string>three-tamil</string>
-		<string>four-tamil</string>
-		<string>five-tamil</string>
-		<string>six-tamil</string>
-		<string>seven-tamil</string>
-		<string>eight-tamil</string>
-		<string>nine-tamil</string>
 		<string>period</string>
 		<string>comma</string>
 		<string>colon</string>
@@ -761,8 +683,6 @@ amener
 		<string>guilsinglright</string>
 		<string>quotedbl</string>
 		<string>quotesingle</string>
-		<string>danda-deva</string>
-		<string>dbldanda-deva</string>
 		<string>anoteleia</string>
 		<string>questiongreek</string>
 		<string>emspace</string>
@@ -791,7 +711,6 @@ amener
 		<string>peso</string>
 		<string>rupeeIndian</string>
 		<string>sterling</string>
-		<string>rupee-tamil</string>
 		<string>yen</string>
 		<string>bulletoperator</string>
 		<string>divisionslash</string>
@@ -855,13 +774,6 @@ amener
 		<string>estimated</string>
 		<string>rightFacingSvasti</string>
 		<string>servicemark</string>
-		<string>day-tamil</string>
-		<string>month-tamil</string>
-		<string>year-tamil</string>
-		<string>debit-tamil</string>
-		<string>credit-tamil</string>
-		<string>asabove-tamil</string>
-		<string>number-tamil</string>
 		<string>numeral-greek</string>
 		<string>lowernumeral-greek</string>
 		<string>apostrophemod</string>
@@ -911,30 +823,6 @@ amener
 		<string>dieresisbelowcomb.cap</string>
 		<string>brevebelowcomb.cap</string>
 		<string>macronbelowcomb.cap</string>
-		<string>iMatra-tamil</string>
-		<string>iiMatra-tamil</string>
-		<string>uMatra-tamil</string>
-		<string>uuMatra-tamil</string>
-		<string>eMatra-tamil</string>
-		<string>eeMatra-tamil</string>
-		<string>aiMatra-tamil</string>
-		<string>oMatra-tamil</string>
-		<string>ooMatra-tamil</string>
-		<string>auMatra-tamil</string>
-		<string>halant-tamil</string>
-		<string>aulengthmark-tamil</string>
-		<string>anusvara-tamil</string>
-		<string>aiMatra-tamil.alt</string>
-		<string>iMatra-tamil.alt1</string>
-		<string>uMatra-tamil.alt1</string>
-		<string>uuMatra-tamil.alt1</string>
-		<string>iMatra-tamil.alt2</string>
-		<string>uMatra-tamil.alt2</string>
-		<string>uuMatra-tamil.alt2</string>
-		<string>iMatra-tamil.alt3</string>
-		<string>uMatra-tamil.alt3</string>
-		<string>uuMatra-tamil.alt3</string>
-		<string>iMatra-tamil.alt4</string>
 		<string>tonos</string>
 		<string>tonos.case</string>
 		<string>dieresistonos</string>

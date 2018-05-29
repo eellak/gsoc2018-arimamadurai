@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilon.ss03" format="1">
+  <advance width="490"/>
+  <outline>
+    <component base="epsilon.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 10:45:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="267"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="20" y="-227" type="curve"/>
+      <point x="157" y="-227"/>
+      <point x="208" y="-134"/>
+      <point x="208" y="-17" type="curve"/>
+      <point x="208" y="460" type="line" smooth="yes"/>
+      <point x="208" y="505"/>
+      <point x="174" y="531"/>
+      <point x="130" y="531" type="curve"/>
+      <point x="99" y="531"/>
+      <point x="72" y="518"/>
+      <point x="53" y="501" type="curve"/>
+      <point x="70" y="456"/>
+      <point x="73" y="400"/>
+      <point x="73" y="370" type="curve"/>
+      <point x="72" y="8" type="line" smooth="yes"/>
+      <point x="72" y="-92"/>
+      <point x="73" y="-185"/>
+      <point x="26" y="-185" type="curve"/>
+      <point x="9" y="-185"/>
+      <point x="-5" y="-173"/>
+      <point x="-5" y="-149" type="curve"/>
+      <point x="-5" y="-135"/>
+      <point x="1" y="-117"/>
+      <point x="11" y="-102" type="curve"/>
+      <point x="0" y="-80"/>
+      <point x="-14" y="-71"/>
+      <point x="-39" y="-71" type="curve"/>
+      <point x="-87" y="-71"/>
+      <point x="-110" y="-104"/>
+      <point x="-110" y="-139" type="curve"/>
+      <point x="-110" y="-188"/>
+      <point x="-70" y="-227"/>
+    </contour>
+    <contour>
+      <point x="132" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="132" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-21 13:52:16 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>j</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j</string>
+    </dict>
+  </lib>
+</glyph>

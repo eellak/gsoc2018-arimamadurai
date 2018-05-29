@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi" format="1">
+  <advance width="631"/>
+  <unicode hex="03C0"/>
+  <outline>
+    <contour>
+      <point x="454" y="383" type="curve"/>
+      <point x="408" y="388" type="line"/>
+      <point x="408" y="129" type="line" smooth="yes"/>
+      <point x="408" y="41"/>
+      <point x="431" y="-14"/>
+      <point x="506" y="-14" type="curve"/>
+      <point x="559" y="-14"/>
+      <point x="593" y="16"/>
+      <point x="593" y="60" type="curve"/>
+      <point x="593" y="70"/>
+      <point x="589" y="87"/>
+      <point x="579" y="101" type="curve"/>
+      <point x="573" y="91"/>
+      <point x="563" y="88"/>
+      <point x="555" y="88" type="curve"/>
+      <point x="506" y="88"/>
+      <point x="454" y="245"/>
+    </contour>
+    <contour>
+      <point x="46" y="358" type="curve"/>
+      <point x="59" y="360"/>
+      <point x="129" y="380"/>
+      <point x="229" y="380" type="curve"/>
+      <point x="558" y="380" type="line" smooth="yes"/>
+      <point x="577" y="380"/>
+      <point x="593" y="391"/>
+      <point x="593" y="413" type="curve"/>
+      <point x="594" y="520" type="line"/>
+      <point x="584" y="518"/>
+      <point x="289" y="516"/>
+      <point x="279" y="516" type="curve"/>
+      <point x="84" y="516" type="line" smooth="yes"/>
+      <point x="55" y="516"/>
+      <point x="16" y="493"/>
+      <point x="16" y="437" type="curve"/>
+      <point x="16" y="418"/>
+      <point x="24" y="383"/>
+    </contour>
+    <contour>
+      <point x="253" y="470" type="line"/>
+      <point x="216" y="442" type="line"/>
+      <point x="216" y="228"/>
+      <point x="129" y="62"/>
+      <point x="89" y="35" type="curve"/>
+      <point x="112" y="4"/>
+      <point x="148" y="-14"/>
+      <point x="188" y="-14" type="curve"/>
+      <point x="272" y="-14"/>
+      <point x="267" y="80"/>
+      <point x="263" y="197" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-27 15:22:58 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

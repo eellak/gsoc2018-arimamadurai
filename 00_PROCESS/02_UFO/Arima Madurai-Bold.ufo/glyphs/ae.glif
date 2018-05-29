@@ -71,13 +71,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-21 13:52:16 +0000</string>
+      <string>2018-05-29 09:17:13 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>a</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>e</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>
