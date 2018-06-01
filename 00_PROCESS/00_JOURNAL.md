@@ -39,3 +39,22 @@ Arima have smooth junctions but straight stems. For the Greek, the stems are loo
 
 ![Screenshot](03_SCREENSHOTS/2018-05-28_5.png)
 *A latin word from the source for comparaison.*
+
+**180525-31** ~ *Developing 5 styles* <br/>
+This is the fives styles I developed on few letters to build a first specimen.
+
+![Screenshot](03_SCREENSHOTS/2018-05-31.png)
+*To match the source, the glyphs need to be fatter and more condensed. See [the pdf of the first specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180529-specimen.pdf) to have a look at the first specimen.*
+
+**180525-31** ~ *Working on the 5th style*
+
+I chose the last one and make it more condensed. I added the tonos to compose a text and have a first look.
+
+![Screenshot](03_SCREENSHOTS/2018-06-01_1.png)
+![Screenshot](03_SCREENSHOTS/2018-06-01_2.png)
+*The glyphs still need to be fatter. Here [the pdf of the second specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180601-specimen-ss04.pdf).*
+
+Waiting for feedbacks, I tested this choice on the thin weight which is basically mono-linear.
+
+![Screenshot](03_SCREENSHOTS/2018-06-01_3.png)
+*I tried a first interpolation test to see if the transition between weights works .*
