@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="1">
+  <advance width="600"/>
+  <unicode hex="03A5"/>
+  <outline>
+    <contour>
+      <point x="300" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="20" y="700" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-01 08:18:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,206 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+feature aalt {
+# automatic
+feature ccmp;
+feature locl;
+feature subs;
+feature sups;
+feature frac;
+feature ordn;
+feature case;
+feature salt;
+feature ss01;
+feature ss02;
+feature ss03;
+feature ss04;
+} aalt;
+
+feature ccmp {
+# automatic
+lookup ccmp_latn_1 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+} ccmp_latn_1;
+
+script latn;
+} ccmp;
+
+feature locl {
+# automatic
+script latn;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+} locl;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+} subs;
+
+feature sups {
+# automatic
+sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+sub parenleft by parenleftsuperior;
+sub parenright by parenrightsuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash eight by oneeighth;
+sub one slash four by onequarter;
+sub three slash eight by threeeighths;
+sub one slash two by onehalf;
+sub five slash eight by fiveeighths;
+sub three slash four by threequarters;
+sub seven slash eight by seveneighths;
+sub one slash three by onethird;
+sub two slash three by twothirds;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature case {
+# automatic
+sub tonos by tonos.case;
+} case;
+
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+} liga;
+
+feature salt {
+# automatic
+sub alpha by alpha.ss01;
+sub epsilon by epsilon.ss01;
+sub eta by eta.ss01;
+sub iota by iota.ss01;
+sub mu by mu.ss01;
+sub omicron by omicron.ss01;
+sub pi by pi.ss01;
+sub rho by rho.ss01;
+sub iotatonos by iotatonos.ss01;
+sub omicrontonos by omicrontonos.ss01;
+sub alphatonos by alphatonos.ss01;
+sub epsilontonos by epsilontonos.ss01;
+sub etatonos by etatonos.ss01;
+} salt;
+
+feature ss01 {
+# automatic
+sub alpha by alpha.ss01;
+sub epsilon by epsilon.ss01;
+sub eta by eta.ss01;
+sub iota by iota.ss01;
+sub mu by mu.ss01;
+sub omicron by omicron.ss01;
+sub pi by pi.ss01;
+sub rho by rho.ss01;
+sub iotatonos by iotatonos.ss01;
+sub omicrontonos by omicrontonos.ss01;
+sub alphatonos by alphatonos.ss01;
+sub epsilontonos by epsilontonos.ss01;
+sub etatonos by etatonos.ss01;
+} ss01;
+
+feature ss02 {
+# automatic
+sub alpha by alpha.ss02;
+sub epsilon by epsilon.ss02;
+sub eta by eta.ss02;
+sub iota by iota.ss02;
+sub mu by mu.ss02;
+sub omicron by omicron.ss02;
+sub pi by pi.ss02;
+sub rho by rho.ss02;
+sub iotatonos by iotatonos.ss02;
+sub omicrontonos by omicrontonos.ss02;
+sub alphatonos by alphatonos.ss02;
+sub epsilontonos by epsilontonos.ss02;
+sub etatonos by etatonos.ss02;
+} ss02;
+
+feature ss03 {
+# automatic
+sub alpha by alpha.ss03;
+sub epsilon by epsilon.ss03;
+sub eta by eta.ss03;
+sub iota by iota.ss03;
+sub mu by mu.ss03;
+sub omicron by omicron.ss03;
+sub pi by pi.ss03;
+sub rho by rho.ss03;
+sub iotatonos by iotatonos.ss03;
+sub omicrontonos by omicrontonos.ss03;
+sub alphatonos by alphatonos.ss03;
+sub epsilontonos by epsilontonos.ss03;
+sub etatonos by etatonos.ss03;
+} ss03;
+
+feature ss04 {
+# automatic
+sub alpha by alpha.ss04;
+sub epsilon by epsilon.ss04;
+sub eta by eta.ss04;
+sub iota by iota.ss04;
+sub mu by mu.ss04;
+sub omicron by omicron.ss04;
+sub pi by pi.ss04;
+sub rho by rho.ss04;
+sub iotatonos by iotatonos.ss04;
+sub omicrontonos by omicrontonos.ss04;
+sub alphatonos by alphatonos.ss04;
+sub epsilontonos by epsilontonos.ss04;
+sub etatonos by etatonos.ss04;
+} ss04;
+

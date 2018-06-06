@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilontonos.ss02" format="1">
+  <advance width="490"/>
+  <outline>
+    <component base="epsilon.ss02"/>
+    <component base="tonos" xOffset="209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-01 13:34:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

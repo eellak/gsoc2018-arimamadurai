@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicrontonos" format="1">
+  <advance width="562"/>
+  <unicode hex="03CC"/>
+  <outline>
+    <component base="omicron"/>
+    <component base="tonos" xOffset="234" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-01 13:40:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

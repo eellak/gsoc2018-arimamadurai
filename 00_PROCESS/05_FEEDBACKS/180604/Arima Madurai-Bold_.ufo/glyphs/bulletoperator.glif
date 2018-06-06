@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bulletoperator" format="1">
+  <advance width="308"/>
+  <unicode hex="2219"/>
+  <outline>
+    <component base="periodcentered" xOffset="-4" yOffset="59"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

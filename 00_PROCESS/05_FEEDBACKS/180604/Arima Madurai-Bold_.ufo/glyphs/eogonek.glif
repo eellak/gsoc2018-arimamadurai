@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek" format="1">
+  <advance width="527"/>
+  <unicode hex="0119"/>
+  <outline>
+    <component base="e"/>
+    <component base="ogonekcomb" xOffset="53" yOffset="3"/>
+    <contour>
+      <point x="300" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

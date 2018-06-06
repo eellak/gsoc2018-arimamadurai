@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="1">
+  <advance width="680"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="626" y="569" type="line"/>
+      <point x="651" y="619"/>
+      <point x="673" y="691"/>
+      <point x="673" y="758" type="curve"/>
+      <point x="639" y="770"/>
+      <point x="588" y="770"/>
+      <point x="550" y="758" type="curve"/>
+      <point x="572" y="699"/>
+      <point x="574" y="621"/>
+      <point x="568" y="569" type="curve"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

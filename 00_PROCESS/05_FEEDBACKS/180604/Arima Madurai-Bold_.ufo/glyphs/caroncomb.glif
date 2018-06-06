@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="1">
+  <advance width="600"/>
+  <unicode hex="030C"/>
+  <outline>
+    <component base="circumflexcomb" yOffset="1320" yScale="-1"/>
+    <contour>
+      <point x="298" y="140" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="301" y="516" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

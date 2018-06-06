@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftBlackTriangle" format="1">
+  <advance width="595"/>
+  <unicode hex="25C0"/>
+  <outline>
+    <contour>
+      <point x="521" y="-19" type="line"/>
+      <point x="20" y="271" type="line"/>
+      <point x="521" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>
