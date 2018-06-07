@@ -95,7 +95,7 @@ I developed very quickly the three versions to have a general look :
 
 **These are the typefaces I look at along the project :**
 
-* *Eczar* — Emilios Theofanous
+* *Eczar* — Emilios Theofanous (for the Greek)
 * *Brill* — John Hudson et Alice Savoie
 * *SBL* — John Hudson
 * *Eqil* — Kostas Bartsokas
