@@ -58,3 +58,49 @@ Waiting for feedbacks, I tested this choice on the thin weight which is basicall
 
 ![Screenshot](03_SCREENSHOTS/2018-06-01_3.png)
 *I tried a first interpolation test to see if the transition between weights works .*
+
+**180601-03** ~ *Feedbacks*
+The feedback from Emilios was that the alphabet was well designed but didn't matched well enough the latin. I shall try to give it more weight due to the horizontal stresses. I should also try to develop a version with vertical stresses but less shy than the one I suggested from the original letters of the source.
+
+![Feedbacks](05_FEEDBACKS/180604/180604_feedbacks_Emilios.JPG)
+*Emilios' corrections and suggection of design for the vertical one.*
+
+![Feedbacks](05_FEEDBACKS/180604/IMG_1443.JPG)
+*Emilios' sketches.*
+
+**180604-06** ~ *New sketches*
+
+I first added some weight in the previous version to see if it fits better with the Latin. Then I sketched a version with a diagonal stress to see if a slight inclination of the stress would manage better the weight difference.
+
+![Screenshots](03_SCREENSHOTS/2018-06-06_1.png)
+
+Finally I made a version with vertical stresses. It is really hard for a novice in Greek script cause it is easy to fall into Latin shapes with that orientation, and the letters lose their Greek touch (and that's a shame cause it is what's interesting in designing a Greek typeface…).
+
+![Screenshots](03_SCREENSHOTS/2018-06-05.png)
+*This version is nice but we have lost what was interesting in the other versions. It is still shy for a display version.*
+
+![Sketch](06_SKETCHES/180606.png)
+*Drawings just help to understand the ductus and for Greek script, the ductus can be almost whatever you want…*
+
+According to sketches and finding new examples of nice Greek typefaces, I sketched other alphas. The idea is to inject more of calligraphic touch we had in the other versions.
+
+![Screenshots](03_SCREENSHOTS/2018-06-06_2.png)
+*Here it works but the contrasts don't match the Latin.*
+
+![Screenshots](03_SCREENSHOTS/2018-06-06_3.png)
+*Finally it is just a question of weight in the spur.*
+
+I developed very quickly the three versions to have a general look :
+
+![Screenshots](03_SCREENSHOTS/2018-06-06_4.png)
+*I prefer the first two version but without contest, the third match better the Latin and therefore will be easier to develop. I am satisfied though cause the vertical one is not as boring as the first attempt and still have its Greeky touch.*
+
+**These are the typefaces I look at along the project :**
+
+* *Ekzar* — Emilios Theofanous
+* *Brill* — Koninklijke Brill
+* *SBL* — John Hudson
+* *Eqil* — Kostas Bartsokas
+* *Capucine* — Alice Savoie
+* *Parmigiano* — Irene Vlachou (for the Greek)
+* *Colvert* — Irene Vlachou (for the Greek)
