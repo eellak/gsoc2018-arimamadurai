@@ -96,7 +96,7 @@ I developed very quickly the three versions to have a general look :
 **These are the typefaces I look at along the project :**
 
 * *Ekzar* — Emilios Theofanous
-* *Brill* — Koninklijke Brill
+* *Brill* — John Hudson et Alice Savoie
 * *SBL* — John Hudson
 * *Eqil* — Kostas Bartsokas
 * *Capucine* — Alice Savoie
