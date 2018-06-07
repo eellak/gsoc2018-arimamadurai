@@ -41,13 +41,12 @@ Arima have smooth junctions but straight stems. For the Greek, the stems are loo
 *A latin word from the source for comparaison.*
 
 **180525-31** ~ *Developing 5 styles* <br/>
-This is the fives styles I developed on few letters to build a first specimen.
+This is the five styles I developed on few letters to build a first specimen.
 
 ![Screenshot](03_SCREENSHOTS/2018-05-31.png)
 *To match the source, the glyphs need to be fatter and more condensed. See [the pdf of the first specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180529-specimen.pdf) to have a look at the first specimen.*
 
-**180525-31** ~ *Working on the 5th style*
-
+**180525-31** ~ *Working on the 5th style*<br/>
 I chose the last one and make it more condensed. I added the tonos to compose a text and have a first look.
 
 ![Screenshot](03_SCREENSHOTS/2018-06-01_1.png)
@@ -59,30 +58,29 @@ Waiting for feedbacks, I tested this choice on the thin weight which is basicall
 ![Screenshot](03_SCREENSHOTS/2018-06-01_3.png)
 *I tried a first interpolation test to see if the transition between weights works .*
 
-**180601-03** ~ *Feedbacks*
-The feedback from Emilios was that the alphabet was well designed but didn't matched well enough the latin. I shall try to give it more weight due to the horizontal stresses. I should also try to develop a version with vertical stresses but less shy than the one I suggested from the original letters of the source.
+**180601-03** ~ *Feedbacks*<br/>
+The feedback from Emilios was that the alphabet was well designed but didn't matched well enough the latin. I should try to give it more weight due to the horizontal stresses. I should also try to develop a version with vertical stresses but less shy than the one I suggested from the original letters of the source.
 
 ![Feedbacks](05_FEEDBACKS/180604/180604_feedbacks_Emilios.JPG)
-*Emilios' corrections and suggection of design for the vertical one.*
+*Emilios' corrections and suggestion of design for the vertical one.*
 
 ![Feedbacks](05_FEEDBACKS/180604/IMG_1443.JPG)
 *Emilios' sketches.*
 
-**180604-06** ~ *New sketches*
-
+**180604-06** ~ *New sketches*<br/>
 I first added some weight in the previous version to see if it fits better with the Latin. Then I sketched a version with a diagonal stress to see if a slight inclination of the stress would manage better the weight difference.
 
 ![Screenshots](03_SCREENSHOTS/2018-06-06_1.png)
 
-Finally I made a version with vertical stresses. It is really hard for a novice in Greek script cause it is easy to fall into Latin shapes with that orientation, and the letters lose their Greek touch (and that's a shame cause it is what's interesting in designing a Greek typeface…).
+Finally I made a version with vertical stresses. It is really hard for a novice in Greek script cause it is easy to fall into Latin shapes with that orientation and the letters lose their Greek touch (and that's a shame cause it is what's interesting in designing a Greek typeface…).
 
 ![Screenshots](03_SCREENSHOTS/2018-06-05.png)
 *This version is nice but we have lost what was interesting in the other versions. It is still shy for a display version.*
 
 ![Sketch](06_SKETCHES/180606.png)
-*Drawings just help to understand the ductus and for Greek script, the ductus can be almost whatever you want…*
+*Drawings just help to understand the ductus and for Greek script the ductus can be almost whatever you want…*
 
-According to sketches and finding new examples of nice Greek typefaces, I sketched other alphas. The idea is to inject more of calligraphic touch we had in the other versions.
+According to sketches and finding new examples of nice Greek typefaces, I sketched other alphas. The idea is to inject more of that scripting touch we had in the other versions.
 
 ![Screenshots](03_SCREENSHOTS/2018-06-06_2.png)
 *Here it works but the contrasts don't match the Latin.*
@@ -93,7 +91,7 @@ According to sketches and finding new examples of nice Greek typefaces, I sketch
 I developed very quickly the three versions to have a general look :
 
 ![Screenshots](03_SCREENSHOTS/2018-06-06_4.png)
-*I prefer the first two version but without contest, the third match better the Latin and therefore will be easier to develop. I am satisfied though cause the vertical one is not as boring as the first attempt and still have its Greeky touch.*
+*I prefer the first two versions but without contest, the third matches better the Latin and therefore will be easier to develop. I am satisfied though cause the vertical one is not as boring as the first attempt and still have its Greeky touch.*
 
 **These are the typefaces I look at along the project :**
 
