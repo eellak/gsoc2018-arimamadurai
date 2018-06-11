@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gamma" format="1">
+  <advance width="554"/>
+  <unicode hex="0393"/>
+  <outline>
+    <contour>
+      <point x="223" y="146" type="curve"/>
+      <point x="222" y="632" type="line"/>
+      <point x="328" y="629"/>
+      <point x="414" y="608"/>
+      <point x="483" y="576" type="curve"/>
+      <point x="520" y="593"/>
+      <point x="536" y="698"/>
+      <point x="498" y="698" type="curve"/>
+      <point x="190" y="698" type="line" smooth="yes"/>
+      <point x="127" y="698"/>
+      <point x="98" y="693"/>
+      <point x="63" y="663" type="curve"/>
+      <point x="80" y="618"/>
+      <point x="83" y="572"/>
+      <point x="83" y="533" type="curve"/>
+      <point x="83" y="57" type="line" smooth="yes"/>
+      <point x="83" y="13"/>
+      <point x="117" y="-14"/>
+      <point x="163" y="-14" type="curve"/>
+      <point x="202" y="-14"/>
+      <point x="231" y="6"/>
+      <point x="243" y="17" type="curve"/>
+      <point x="225" y="61"/>
+      <point x="223" y="108"/>
+    </contour>
+    <contour>
+      <point x="278" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="423" y="-10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="280" y="698" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="20" y="698" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 10:05:56 +0000</string>
+    </dict>
+  </lib>
+</glyph>

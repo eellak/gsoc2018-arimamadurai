@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="508"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="288" y="750" type="curve"/>
+      <point x="326" y="763"/>
+      <point x="377" y="762"/>
+      <point x="411" y="750" type="curve"/>
+      <point x="411" y="683"/>
+      <point x="389" y="612"/>
+      <point x="364" y="562" type="curve"/>
+      <point x="306" y="562" type="line"/>
+      <point x="312" y="614"/>
+      <point x="310" y="692"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>L</string>
+    </dict>
+  </lib>
+</glyph>

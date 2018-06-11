@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveeighths" format="1">
+  <advance width="1007"/>
+  <unicode hex="215D"/>
+  <outline>
+    <component base="fivesuperior"/>
+    <component base="fraction" xOffset="390"/>
+    <component base="eightinferior" xOffset="604"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>five.numr</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos" format="1">
-  <advance width="600"/>
+  <advance width="195"/>
   <unicode hex="0384"/>
   <outline>
-    <component base="acutecomb"/>
+    <contour>
+      <point x="76" y="571" type="curve"/>
+      <point x="175" y="714" type="line"/>
+      <point x="151" y="728"/>
+      <point x="93" y="742"/>
+      <point x="54" y="740" type="curve"/>
+      <point x="28" y="580" type="line"/>
+      <point x="39" y="575"/>
+      <point x="60" y="572"/>
+    </contour>
+    <contour>
+      <point x="50" y="520" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="98" y="700" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-06-11 09:27:21 +0000</string>
     </dict>
   </lib>
 </glyph>

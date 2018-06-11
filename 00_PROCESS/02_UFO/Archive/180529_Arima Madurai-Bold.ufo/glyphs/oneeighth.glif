@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneeighth" format="1">
+  <advance width="1064"/>
+  <unicode hex="215B"/>
+  <outline>
+    <component base="onesuperior"/>
+    <component base="fraction" xOffset="360"/>
+    <component base="eightinferior" xOffset="588"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.numr</string>
+    </dict>
+  </lib>
+</glyph>

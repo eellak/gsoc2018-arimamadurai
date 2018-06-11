@@ -4,16 +4,11 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/alpha.ss03 
-</string>
-		<string>/epsilon/rho/eta/mu/iota/alpha/omicron/pi 
-
-
-</string>
-		<string>/alpha.ss01/epsilon.ss01/eta.ss01/iota.ss01/mu.ss01/omicron.ss01/pi.ss01/rho.ss01 
-/alpha.ss02/epsilon.ss02/iota.ss02/eta.ss02/mu.ss02/omicron.ss02/pi.ss02/rho.ss02 
-/alpha.ss03/epsilon.ss03/eta.ss03/iota.ss03/mu.ss03/omicron.ss03/pi.ss03/rho.ss03 
-/alpha.ss04/epsilon.ss04/eta.ss04/mu.ss04/iota.ss04/pi.ss04/omicron.ss04/rho.ss04</string>
+		<string>eiuvao/alpha/epsilon/pi/lambda/eta/iota/eta/mu/omicron/rho 
+/omicron/omicron/rho/omicron/omicron/iota/iota/rho/iota/iota/omicron/iota/iota/alpha/eta/alpha/pi/lambda/rho/mu/epsilon/iota/omicron/iota/omicron</string>
+		<string>/Mu/iota/lambda/iota/alphatonos  /Pi/iota/epsilon/rho/iotatonos/alpha  /pi/alpha/rho/alphatonos/lambda/lambda/eta/lambda/eta  /pi/epsilon/rho/iota/lambda/alpha/iotatonos/mu/iota/alpha , /alphatonos/pi/alpha , /mu/iota/alpha/rho/alphatonos  /rho/omicron/lambda/omicrontonos  /rho/epsilontonos/mu/pi/epsilon/lambda/eta  /iota/pi/pi/epsilontonos/alpha  /mu/pi/epsilontonos/mu/pi/epsilon/lambda/eta , /iota/epsilon/rho/alphatonos  /mu/epsilontonos/rho/eta  /pi/alpha/rho/omicrontonos/mu/omicron/iota/omicron/iota  /Mu/pi/iota/lambda/mu/pi/alphatonos/omicron  /Alpha/pi/iotatonos/eta  /epsilontonos/mu/pi/omicron/rho/omicron/iota  /epsilon/pi/iota/pi/lambda/omicron/pi/omicron/iota/epsilon/iotatonos/alpha , /pi/epsilon/iota . /Omicrontonos/pi/omicron/iota/omicron  /rho/iota/pi/etatonos  /alpha/lambda/alphatonos  /mu/omicron/iota/rho/alpha/iotatonos/omicron  /epsilon/rho/mu/iota/alphatonos , /Rho/alpha  /pi/alpha/rho/alphatonos/mu/epsilon/rho/alpha , /mu/etatonos/lambda/alpha  /alpha/lambda/lambda/epsilon/pi/alphatonos/lambda/lambda/eta/lambda/alpha  /pi/epsilon/rho/iotatonos/pi/omicron/lambda/omicron/iota  /omicron/pi/omicrontonos . /Omicrontonos/lambda/epsilon  /alphatonos/mu/omicron/iota/rho/alpha  /alpha/pi/alpha/rho/alphatonos/mu/iota/lambda/lambda/omicron  /pi/epsilon/rho/iotatonos/lambda/alpha/mu/pi/rho/epsilon  /pi/omicron/iotatonos/omicron  /alpha/lambda/lambda/epsilon/pi/alphatonos/lambda/lambda/eta/lambda/omicron/iota  /mu/omicron/iotatonos/rho/alpha  /omicron/iotatonos/epsilon  /Epsilontonos/lambda/lambda/eta , /epsilontonos/mu/pi/omicron/rho/omicron/iota  /mu/pi/alphatonos/rho/mu/pi/alpha  /alphatonos/pi/omicron/rho/omicron/iota  /lambda/alpha/iota/mu/alphatonos  /alpha/lambda/lambda/epsilon/pi/alphatonos/lambda/lambda/eta/lambda/epsilon  /epsilon/lambda/epsilontonos/eta  /etatonos/mu/epsilon/rho/eta  /Alpha/iota  /pi/alpha/mu/pi/alphatonos/lambda/alpha/iota/epsilon  /pi/epsilon/rho/iotatonos , /omicron/mu/alpha/lambda/alphatonos  /rho/epsilon  /omicron/iotadieresis/mu/epsilontonos  /pi/epsilontonos/lambda/mu/alpha  /mu/alpha/lambda/lambda/iota/alpha/rho/alphatonos , /Pi/epsilon/lambda/epsilontonos  /epsilon/pi/iota/pi/lambda/omicron/pi/omicron/iota/omicron/iotatonos , /eta  /epsilon/pi/iota/pi/lambda/omicron/pi/omicron/iota/epsilon/iotatonos/omicron  /pi/lambda/eta/mu/mu/epsilontonos/lambda/epsilon/iota/alpha  /omicrontonos/mu/pi/omicron/epsilon , /alpha/mu/epsilon/lambda/epsilon/iotatonos  /etatonos/rho/alpha  /pi/epsilontonos/eta  /alphatonos/rho/mu/alpha  /mu/pi/omicron/lambda  /mu/omicron/iotatonos/rho/alpha  /alphatonos/lambda/mu/alpha , /pi/omicron/lambda/lambda/alphatonos  /Alpha/iota  /iotatonos/alphatonos  /rho/eta  /epsilontonos/lambda/eta  /pi/epsilontonos/pi/epsilon/rho/iota  /Rho/iotatonos/omicron  /Pi/alpha/lambda/alpha/mu/alphatonos . /Epsilon/pi/iota/pi/lambda/omicron/pi/omicron/iota/epsilon/iotatonos/alpha  /epsilon/pi/iota/pi/lambda/omicron/pi/omicron/iota/epsilon/iotatonos/alpha , /epsilon/lambda/iota/alphatonos  291, /Pi/epsilon/iota/rho/alpha/iota/alphatonos  /omicron  /alpha/iotadieresis , /pi/omicrontonos/alpha  /epsilon/rho/epsilon/iotatonos/pi/iota/alpha  /pi/lambda/omicron/iota/alphatonos/rho/iota/alpha , /alpha/rho  /Mu/pi/alphatonos/rho/mu/pi/alpha/rho/alpha  /omicrontonos/lambda/omicron  /mu/alpha  /omicrontonos/pi/alphatonos  9003 /rho/omicron/iotatonos  /omicron/rho/mu/alphatonos/epsilon/iota  8558 /pi/epsilon/rho/iotatonos/lambda/alpha/mu/pi/rho/omicron  /alpha/lambda/lambda/epsilon/pi/alphatonos/lambda/lambda/eta/lambda/omicron/iota  /mu/pi/omicrontonos/iota  /rho/eta  /pi/omicron/lambda/lambda/alpha/pi/lambda/epsilontonos  /alpha/lambda/lambda/epsilon/pi/alphatonos/lambda/lambda/eta/lambda/epsilon  /etatonos/lambda/iota/epsilon  /lambda/iotatonos/mu/pi/rho/omicron  8882 /epsilon/pi/iotatonos/lambda/omicron/iota/pi/omicron/iota .</string>
+		<string>IH/Eta/Pi</string>
+		<string>/Alpha/Beta/Gamma/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Mu/Nu/Omicron/Pi/Rho/Tau/Chi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Omegatonos/Iotadieresis</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -72,6 +67,12 @@
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>GSCornerRadius</key>
+		<integer>23</integer>
+		<key>GSOffsetHorizontal</key>
+		<integer>73</integer>
+		<key>GSOffsetMakeStroke</key>
+		<integer>1</integer>
+		<key>GSOffsetVertical</key>
 		<integer>23</integer>
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
@@ -565,38 +566,6 @@
 		<string>epsilontonos</string>
 		<string>etatonos</string>
 		<string>kaiSymbol</string>
-		<string>alpha.ss01</string>
-		<string>epsilon.ss01</string>
-		<string>eta.ss01</string>
-		<string>iota.ss01</string>
-		<string>mu.ss01</string>
-		<string>omicron.ss01</string>
-		<string>pi.ss01</string>
-		<string>rho.ss01</string>
-		<string>alpha.ss02</string>
-		<string>epsilon.ss02</string>
-		<string>eta.ss02</string>
-		<string>iota.ss02</string>
-		<string>mu.ss02</string>
-		<string>omicron.ss02</string>
-		<string>pi.ss02</string>
-		<string>rho.ss02</string>
-		<string>alpha.ss03</string>
-		<string>epsilon.ss03</string>
-		<string>eta.ss03</string>
-		<string>iota.ss03</string>
-		<string>mu.ss03</string>
-		<string>omicron.ss03</string>
-		<string>pi.ss03</string>
-		<string>rho.ss03</string>
-		<string>alpha.ss04</string>
-		<string>epsilon.ss04</string>
-		<string>eta.ss04</string>
-		<string>iota.ss04</string>
-		<string>mu.ss04</string>
-		<string>omicron.ss04</string>
-		<string>pi.ss04</string>
-		<string>rho.ss04</string>
 		<string>gscript</string>
 		<string>zero</string>
 		<string>one</string>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.cap" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="220" y="572" type="curve"/>
+      <point x="238" y="572"/>
+      <point x="254" y="588"/>
+      <point x="254" y="606" type="curve"/>
+      <point x="254" y="624"/>
+      <point x="238" y="640"/>
+      <point x="220" y="640" type="curve"/>
+      <point x="202" y="640"/>
+      <point x="186" y="624"/>
+      <point x="186" y="606" type="curve"/>
+      <point x="186" y="588"/>
+      <point x="202" y="572"/>
+    </contour>
+    <contour>
+      <point x="380" y="572" type="curve"/>
+      <point x="398" y="572"/>
+      <point x="414" y="588"/>
+      <point x="414" y="606" type="curve"/>
+      <point x="414" y="624"/>
+      <point x="398" y="640"/>
+      <point x="380" y="640" type="curve"/>
+      <point x="362" y="640"/>
+      <point x="346" y="624"/>
+      <point x="346" y="606" type="curve"/>
+      <point x="346" y="588"/>
+      <point x="362" y="572"/>
+    </contour>
+    <contour>
+      <point x="297" y="500" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="297" y="612" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

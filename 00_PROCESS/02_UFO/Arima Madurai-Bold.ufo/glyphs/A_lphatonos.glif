@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alphatonos" format="1">
-  <advance width="600"/>
+  <advance width="628"/>
   <unicode hex="0386"/>
   <outline>
+    <component base="Alpha"/>
+    <component base="tonos.case" xOffset="10"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-06-01 13:45:02 +0000</string>
     </dict>
   </lib>
 </glyph>
