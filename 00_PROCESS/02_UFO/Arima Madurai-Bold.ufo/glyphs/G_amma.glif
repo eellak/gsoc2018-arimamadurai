@@ -10,10 +10,10 @@
       <point x="414" y="608"/>
       <point x="483" y="576" type="curve"/>
       <point x="520" y="593"/>
-      <point x="536" y="698"/>
-      <point x="498" y="698" type="curve"/>
-      <point x="190" y="698" type="line" smooth="yes"/>
-      <point x="127" y="698"/>
+      <point x="536" y="700"/>
+      <point x="498" y="700" type="curve"/>
+      <point x="190" y="700" type="line" smooth="yes"/>
+      <point x="127" y="700"/>
       <point x="98" y="693"/>
       <point x="63" y="663" type="curve"/>
       <point x="80" y="618"/>
@@ -30,22 +30,13 @@
       <point x="223" y="108"/>
     </contour>
     <contour>
-      <point x="278" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="423" y="-10" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="280" y="698" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="20" y="700" type="move" name="topleft"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-06-01 08:19:06 +0000</string>
+      <string>2018-06-14 16:33:38 +0000</string>
     </dict>
   </lib>
 </glyph>

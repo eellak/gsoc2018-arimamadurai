@@ -4,11 +4,14 @@
   <unicode hex="0395"/>
   <outline>
     <component base="E"/>
+    <contour>
+      <point x="83" y="688" type="move" name="topleft"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-06-01 13:46:56 +0000</string>
+      <string>2018-06-14 16:36:58 +0000</string>
     </dict>
   </lib>
 </glyph>

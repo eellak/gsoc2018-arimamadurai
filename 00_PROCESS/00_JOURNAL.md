@@ -93,6 +93,28 @@ I developed very quickly the three versions to have a general look :
 ![Screenshots](03_SCREENSHOTS/2018-06-06_4.png)
 *I prefer the first two versions but without contest, the third matches better the Latin and therefore will be easier to develop. I am satisfied though cause the vertical one is not as boring as the first attempt and still have its Greeky touch.*
 
+**180607-10** ~ *Extending*<br/>
+I extended that direction to other basic letters and corrected glyphs and metrics.
+
+![Screenshots](03_SCREENSHOTS/2018-06-11_1.png)
+*I'd rather test the typeface on a larger size since the it is made for display text. It definitly doesn't work that well in small sizes due to the strong contrasts. See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180611-specimen.pdf).*
+
+**180611-14** ~ *Finding balance between weights.*<br/>
+I designed corresponding letters in the thin weight to try a first interpolation test.
+
+![Screenshots](03_SCREENSHOTS/2018-06-14_1.png)
+![Screenshots](03_SCREENSHOTS/2018-06-14_2.png)
+![Screenshots](03_SCREENSHOTS/2018-06-14_3.png)
+![Screenshots](03_SCREENSHOTS/2018-06-14_4.png)
+![Screenshots](03_SCREENSHOTS/2018-06-14_5.png)
+![Screenshots](03_SCREENSHOTS/2018-06-14_6.png)
+![Screenshots](03_SCREENSHOTS/2018-06-14_7.png)
+![Screenshots](03_SCREENSHOTS/2018-06-14_8.png)
+*We can see how it goes from monolinear to really contrasted*
+
+![Screenshots](03_SCREENSHOTS/2018-06-14_9.png)
+*Here the specimen with both Bold and regular. See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180614-specimen.pdf).*
+
 **These are the typefaces I look at along the project :**
 
 * *Eczar* — Emilios Theofanous (for the Greek)
