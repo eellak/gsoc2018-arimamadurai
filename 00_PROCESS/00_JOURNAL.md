@@ -115,6 +115,9 @@ I designed corresponding letters in the thin weight to try a first interpolation
 ![Screenshots](03_SCREENSHOTS/2018-06-14_9.png)
 *Here the specimen with both Bold and regular. See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180614-specimen.pdf).*
 
+**180615-20** ~ *Feedbacks*<br/>
+Corresponding with mentors to correct the font according to their feedbacks.
+
 **These are the typefaces I look at along the project :**
 
 * *Eczar* — Emilios Theofanous (for the Greek)
