@@ -118,6 +118,13 @@ I designed corresponding letters in the thin weight to try a first interpolation
 **180615-20** ~ *Feedbacks*<br/>
 Corresponding with mentors to correct the font according to their feedbacks.
 
+![Feedbacks](05_FEEDBACKS/180619/180619_feedback-Emilios_a.JPG)
+![Feedbacks](05_FEEDBACKS/180619/180619_feedback-Emilios_b.JPG)
+*Emilios' feebacks on interpolation issues and design issues.*
+
+**180615-26** ~ *Develoment phase*<br/>
+Developing the glyphset of the black weight.
+
 **These are the typefaces I look at along the project :**
 
 * *Eczar* — Emilios Theofanous (for the Greek)
