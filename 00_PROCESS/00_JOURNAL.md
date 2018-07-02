@@ -122,8 +122,12 @@ Corresponding with mentors to correct the font according to their feedbacks.
 ![Feedbacks](05_FEEDBACKS/180619/180619_feedback-Emilios_b.JPG)
 *Emilios' feebacks on interpolation issues and design issues.*
 
-**180615-26** ~ *Develoment phase*<br/>
-Developing the glyphset of the black weight.
+**180615-180702** ~ *Develoment phase*<br/>
+Developing the glyphset of the bold weight.
+
+![Bold](03_SCREENSHOTS/2018-07-02_2.png)
+![Bold](03_SCREENSHOTS/2018-07-02_1.png)
+*See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180702-specimen.pdf).*
 
 **These are the typefaces I look at along the project :**
 
