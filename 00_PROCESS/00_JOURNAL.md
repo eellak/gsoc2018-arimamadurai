@@ -129,6 +129,11 @@ Developing the glyphset of the bold weight.
 ![Bold](03_SCREENSHOTS/2018-07-02_1.png)
 *See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180702-specimen.pdf).*
 
+**180703** ~ *Feddbacks*<br/>
+![Feedbacks](05_FEEDBACKS/180703/180703_feedbacks-Emilios.JPG)
+*Emilios' feebacks concerning the bold weight.*
+
+
 **These are the typefaces I look at along the project :**
 
 * *Eczar* — Emilios Theofanous (for the Greek)
