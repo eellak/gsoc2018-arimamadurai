@@ -133,6 +133,11 @@ Developing the glyphset of the bold weight.
 ![Feedbacks](05_FEEDBACKS/180703/180703_feedbacks-Emilios.JPG)
 *Emilios' feebacks concerning the bold weight.*
 
+**180703** ~ *Corrections*<br/>
+![Screenshots](03_SCREENSHOTS/2018-07-09_1.png)
+![Screenshots](03_SCREENSHOTS/2018-07-09_2.png)
+*See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180709-specimen.pdf).*
+
 
 **These are the typefaces I look at along the project :**
 
