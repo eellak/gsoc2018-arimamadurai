@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="1">
+  <advance width="600"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="307" y="589" type="curve"/>
+      <point x="355" y="765" type="line"/>
+      <point x="331" y="779"/>
+      <point x="274" y="778"/>
+      <point x="251" y="768" type="curve"/>
+      <point x="262" y="592" type="line"/>
+      <point x="273" y="587"/>
+      <point x="292" y="586"/>
+    </contour>
+    <contour>
+      <point x="160" y="575" type="curve"/>
+      <point x="196" y="575"/>
+      <point x="216" y="603"/>
+      <point x="216" y="636" type="curve"/>
+      <point x="216" y="670"/>
+      <point x="196" y="697"/>
+      <point x="160" y="697" type="curve"/>
+      <point x="123" y="697"/>
+      <point x="101" y="670"/>
+      <point x="101" y="636" type="curve"/>
+      <point x="101" y="603"/>
+      <point x="123" y="575"/>
+    </contour>
+    <contour>
+      <point x="423" y="573" type="curve"/>
+      <point x="459" y="573"/>
+      <point x="479" y="601"/>
+      <point x="479" y="634" type="curve"/>
+      <point x="479" y="668"/>
+      <point x="459" y="695"/>
+      <point x="423" y="695" type="curve"/>
+      <point x="386" y="695"/>
+      <point x="364" y="668"/>
+      <point x="364" y="634" type="curve"/>
+      <point x="364" y="601"/>
+      <point x="386" y="573"/>
+    </contour>
+    <contour>
+      <point x="285" y="520" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="333" y="863" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-26 09:53:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iota" format="1">
+  <advance width="191"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="138" y="-12" type="curve"/>
+      <point x="160" y="-12"/>
+      <point x="186" y="0"/>
+      <point x="186" y="22" type="curve"/>
+      <point x="186" y="28"/>
+      <point x="184" y="35"/>
+      <point x="177" y="43" type="curve"/>
+      <point x="169" y="26"/>
+      <point x="159" y="16"/>
+      <point x="139" y="16" type="curve"/>
+      <point x="116" y="16"/>
+      <point x="101" y="32"/>
+      <point x="101" y="69" type="curve"/>
+      <point x="101" y="490" type="line" smooth="yes"/>
+      <point x="101" y="504"/>
+      <point x="95" y="512"/>
+      <point x="83" y="512" type="curve"/>
+      <point x="74" y="512"/>
+      <point x="69" y="508"/>
+      <point x="65" y="504" type="curve"/>
+      <point x="69" y="488"/>
+      <point x="71" y="457"/>
+      <point x="71" y="417" type="curve"/>
+      <point x="71" y="71" type="line" smooth="yes"/>
+      <point x="71" y="21"/>
+      <point x="91" y="-12"/>
+    </contour>
+    <contour>
+      <point x="83" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-07-09 13:56:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

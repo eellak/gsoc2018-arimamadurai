@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.cap" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="435" y="617" type="curve"/>
+      <point x="430" y="623"/>
+      <point x="424" y="626"/>
+      <point x="415" y="626" type="curve"/>
+      <point x="403" y="605"/>
+      <point x="394" y="591"/>
+      <point x="368" y="591" type="curve"/>
+      <point x="324" y="591"/>
+      <point x="297" y="631"/>
+      <point x="248" y="631" type="curve"/>
+      <point x="212" y="631"/>
+      <point x="184" y="611"/>
+      <point x="174" y="568" type="curve"/>
+      <point x="179" y="562"/>
+      <point x="186" y="557"/>
+      <point x="193" y="558" type="curve"/>
+      <point x="201" y="587"/>
+      <point x="220" y="600"/>
+      <point x="245" y="600" type="curve"/>
+      <point x="285" y="600"/>
+      <point x="314" y="560"/>
+      <point x="363" y="560" type="curve"/>
+      <point x="399" y="560"/>
+      <point x="425" y="584"/>
+    </contour>
+    <contour>
+      <point x="306" y="500" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="668" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

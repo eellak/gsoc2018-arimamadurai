@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotatonos" format="1">
+  <advance width="306"/>
+  <unicode hex="038A"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="tonos.case" xOffset="-143"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-14 16:36:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

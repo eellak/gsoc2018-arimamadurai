@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflexacute" format="1">
+  <advance width="568"/>
+  <unicode hex="1EA5"/>
+  <outline>
+    <contour>
+      <point x="150" y="555" type="curve"/>
+      <point x="269" y="636" type="line"/>
+      <point x="386" y="555" type="line"/>
+      <point x="397" y="555"/>
+      <point x="420" y="565"/>
+      <point x="421" y="570" type="curve"/>
+      <point x="303" y="715" type="line"/>
+      <point x="291" y="721"/>
+      <point x="246" y="720"/>
+      <point x="234" y="715" type="curve"/>
+      <point x="116" y="570" type="line"/>
+      <point x="117" y="565"/>
+      <point x="139" y="555"/>
+    </contour>
+    <contour>
+      <point x="427" y="662" type="curve"/>
+      <point x="557" y="787" type="line"/>
+      <point x="547" y="797"/>
+      <point x="492" y="817"/>
+      <point x="462" y="811" type="curve"/>
+      <point x="379" y="671" type="line"/>
+      <point x="387" y="666"/>
+      <point x="411" y="663"/>
+    </contour>
+    <component base="a"/>
+    <contour>
+      <point x="273" y="516" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="267" y="690" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

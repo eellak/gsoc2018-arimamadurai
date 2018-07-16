@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="1">
+  <advance width="666"/>
+  <unicode hex="0398"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="333" y="698" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-07-08 07:45:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

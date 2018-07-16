@@ -139,6 +139,8 @@ Developing the glyphset of the bold weight.
 ![Screenshots](03_SCREENSHOTS/2018-07-09_2.png)
 *See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180709-specimen.pdf).*
 
+**180704-180716** ~ *feedbacks*<br/>
+Working on feedbacks, submitted evaluation and started to develop the thin weight.
 
 **These are the typefaces I look at along the project :**
 
