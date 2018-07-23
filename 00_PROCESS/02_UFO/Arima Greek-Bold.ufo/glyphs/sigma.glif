@@ -21,19 +21,19 @@
       <point x="195" y="35"/>
       <point x="168" y="116"/>
       <point x="168" y="196" type="curve"/>
-      <point x="168" y="314"/>
-      <point x="227" y="411"/>
-      <point x="338" y="409" type="curve"/>
-      <point x="500" y="406" type="line" smooth="yes"/>
-      <point x="546" y="405"/>
-      <point x="589" y="430"/>
-      <point x="589" y="478" type="curve"/>
-      <point x="589" y="513"/>
-      <point x="570" y="541"/>
-      <point x="560" y="553" type="curve"/>
-      <point x="533" y="520"/>
-      <point x="491" y="520"/>
-      <point x="458" y="520" type="curve"/>
+      <point x="168" y="317"/>
+      <point x="228" y="420"/>
+      <point x="350" y="415" type="curve"/>
+      <point x="491" y="410" type="line" smooth="yes"/>
+      <point x="537" y="408"/>
+      <point x="579" y="422"/>
+      <point x="579" y="473" type="curve"/>
+      <point x="579" y="501"/>
+      <point x="562" y="528"/>
+      <point x="549" y="540" type="curve"/>
+      <point x="527" y="525"/>
+      <point x="482" y="520"/>
+      <point x="449" y="520" type="curve"/>
       <point x="361" y="520" type="line" smooth="yes"/>
       <point x="161" y="520"/>
       <point x="39" y="399"/>
@@ -48,7 +48,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-23 11:50:02 +0000</string>
+      <string>2018-07-23 12:57:19 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>o</string>
       <key>public.markColor</key>

@@ -14,21 +14,21 @@
       <point x="582" y="117"/>
       <point x="556" y="96"/>
       <point x="530" y="96" type="curve"/>
-      <point x="474" y="96"/>
-      <point x="462" y="167"/>
-      <point x="463" y="274" type="curve"/>
-      <point x="465" y="451" type="line"/>
-      <point x="390" y="451" type="line"/>
+      <point x="477" y="96"/>
+      <point x="465" y="167"/>
+      <point x="466" y="274" type="curve"/>
+      <point x="468" y="451" type="line"/>
+      <point x="385" y="451" type="line"/>
       <point x="373" y="245" type="line" smooth="yes"/>
-      <point x="359" y="79"/>
+      <point x="363" y="79"/>
       <point x="385" y="-15"/>
     </contour>
     <contour>
       <point x="151" y="-15" type="curve"/>
-      <point x="258" y="-15"/>
-      <point x="247" y="132"/>
-      <point x="250" y="306" type="curve"/>
-      <point x="253" y="462" type="line"/>
+      <point x="261" y="-15"/>
+      <point x="252" y="132"/>
+      <point x="255" y="306" type="curve"/>
+      <point x="258" y="462" type="line"/>
       <point x="178" y="462" type="line"/>
       <point x="161" y="290" type="line" smooth="yes"/>
       <point x="148" y="150"/>
@@ -44,14 +44,14 @@
       <point x="194" y="417" type="curve"/>
       <point x="268" y="417"/>
       <point x="409" y="406"/>
-      <point x="498" y="406" type="curve"/>
-      <point x="575" y="406"/>
-      <point x="619" y="429"/>
-      <point x="619" y="476" type="curve"/>
-      <point x="619" y="514"/>
-      <point x="599" y="541"/>
-      <point x="589" y="553" type="curve"/>
-      <point x="562" y="520"/>
+      <point x="524" y="406" type="curve"/>
+      <point x="585" y="406"/>
+      <point x="619" y="422"/>
+      <point x="619" y="470" type="curve"/>
+      <point x="619" y="509"/>
+      <point x="599" y="531"/>
+      <point x="589" y="540" type="curve"/>
+      <point x="560" y="523"/>
       <point x="519" y="520"/>
       <point x="485" y="520" type="curve"/>
       <point x="209" y="520" type="line" smooth="yes"/>
@@ -65,7 +65,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-22 19:56:40 +0000</string>
+      <string>2018-07-23 12:56:55 +0000</string>
       <key>public.markColor</key>
       <string>0.99,0.62,0.11,1</string>
     </dict>

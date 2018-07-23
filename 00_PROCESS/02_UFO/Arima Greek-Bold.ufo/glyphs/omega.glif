@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omega" format="1">
-  <advance width="860"/>
+  <advance width="861"/>
   <unicode hex="03C9"/>
   <outline>
     <contour>
       <point x="259" y="-15" type="curve"/>
       <point x="344" y="-15"/>
-      <point x="411" y="39"/>
-      <point x="456" y="144" type="curve"/>
+      <point x="414" y="39"/>
+      <point x="459" y="144" type="curve"/>
       <point x="397" y="160" type="line"/>
       <point x="432" y="39"/>
       <point x="497" y="-15"/>
       <point x="587" y="-15" type="curve"/>
-      <point x="723" y="-15"/>
-      <point x="815" y="87"/>
-      <point x="815" y="237" type="curve"/>
-      <point x="815" y="420"/>
-      <point x="673" y="529"/>
+      <point x="725" y="-15"/>
+      <point x="816" y="87"/>
+      <point x="816" y="237" type="curve"/>
+      <point x="816" y="420"/>
+      <point x="674" y="529"/>
       <point x="584" y="529" type="curve"/>
       <point x="558" y="529"/>
       <point x="534" y="521"/>
       <point x="515" y="505" type="curve"/>
-      <point x="604" y="469"/>
-      <point x="670" y="346"/>
-      <point x="670" y="215" type="curve"/>
-      <point x="670" y="121"/>
-      <point x="639" y="33"/>
+      <point x="611" y="469"/>
+      <point x="681" y="346"/>
+      <point x="681" y="215" type="curve"/>
+      <point x="681" y="121"/>
+      <point x="648" y="33"/>
       <point x="578" y="33" type="curve"/>
       <point x="520" y="33"/>
       <point x="485" y="115"/>
@@ -34,20 +34,20 @@
       <point x="381" y="126"/>
       <point x="340" y="33"/>
       <point x="274" y="33" type="curve"/>
-      <point x="221" y="33"/>
-      <point x="185" y="112"/>
-      <point x="185" y="215" type="curve"/>
-      <point x="185" y="331"/>
-      <point x="241" y="439"/>
-      <point x="323" y="439" type="curve"/>
-      <point x="316" y="500"/>
-      <point x="286" y="528"/>
-      <point x="238" y="528" type="curve"/>
-      <point x="152" y="528"/>
-      <point x="45" y="418"/>
-      <point x="45" y="248" type="curve"/>
-      <point x="45" y="65"/>
-      <point x="140" y="-15"/>
+      <point x="213" y="33"/>
+      <point x="187" y="113"/>
+      <point x="187" y="215" type="curve"/>
+      <point x="187" y="330"/>
+      <point x="235" y="442"/>
+      <point x="316" y="442" type="curve"/>
+      <point x="316" y="503"/>
+      <point x="292" y="528"/>
+      <point x="244" y="528" type="curve"/>
+      <point x="158" y="528"/>
+      <point x="51" y="407"/>
+      <point x="51" y="226" type="curve"/>
+      <point x="51" y="74"/>
+      <point x="143" y="-15"/>
     </contour>
     <contour>
       <point x="396" y="149" type="curve"/>
@@ -71,7 +71,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-23 11:57:42 +0000</string>
+      <string>2018-07-23 13:00:49 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>upsilon</string>
       <key>public.markColor</key>

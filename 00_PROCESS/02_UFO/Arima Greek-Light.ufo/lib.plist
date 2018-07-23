@@ -57,6 +57,12 @@ IIVIIOOVOOVN
 /Iota/Iota/Psi/Iota/Iota/Omicron/Omicron/Psi/Omicron/Omicron/Psi/Eta 
 /Iota/Iota/Omega/Iota/Iota/Omicron/Omicron/Omega/Omicron/Omicron/Omega/Eta 
 /Iota/Iota/Sigma . /Omicron/Omicron/Sigma .</string>
+		<string>/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu 
+/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega 
+/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu 
+/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega 
+
+</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
