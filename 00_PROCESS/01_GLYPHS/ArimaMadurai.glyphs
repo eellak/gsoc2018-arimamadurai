@@ -2,7 +2,8 @@
 .appVersion = "1141";
 DisplayStrings = (
 "iiaiiooaooan\012iiniioonoonn\012/iota/iota/omicron/iota/iota/omicron/omicron/omicron/omicron/eta \012/iota/iota/iota/iota/omicron/omicron/iota/omicron/omicron/iota/eta \012/iota/iota/eta/iota/iota/omicron/omicron/eta/omicron/omicron/eta/eta \012/iota/iota/alpha/iota/iota/omicron/omicron/alpha/omicron/omicron/alpha/eta \012/iota/iota/beta/iota/iota/omicron/omicron/beta/omicron/omicron/beta/eta \012/iota/iota/gamma/iota/iota/omicron/omicron/gamma/omicron/omicron/gamma/eta \012/iota/iota/delta/iota/iota/omicron/omicron/delta/omicron/omicron/delta/eta \012/iota/iota/epsilon/iota/iota/omicron/omicron/epsilon/omicron/omicron/epsilon/eta \012/iota/iota/zeta/iota/iota/omicron/omicron/zeta/omicron/omicron/zeta/eta \012/iota/iota/xi/iota/iota/omicron/omicron/xi/omicron/omicron/xi/eta \012/iota/iota/theta/iota/iota/omicron/omicron/theta/omicron/omicron/theta/eta \012/iota/iota/pi/iota/iota/omicron/omicron/pi/omicron/omicron/pi/eta \012/iota/iota/kappa/iota/iota/omicron/omicron/kappa/omicron/omicron/kappa/eta \012/iota/iota/lambda/iota/iota/omicron/omicron/lambda/omicron/omicron/lambda/eta \012/iota/iota/mu/iota/iota/omicron/omicron/mu/omicron/omicron/mu/eta \012/iota/iota/rho/iota/iota/omicron/omicron/rho/omicron/omicron/rho/eta \012/iota/iota/sigma/iota/iota/omicron/omicron/sigma/omicron/omicron/sigma/eta \012/iota/iota/tau/iota/iota/omicron/omicron/tau/omicron/omicron/tau/eta \012/iota/iota/upsilon/iota/iota/omicron/omicron/upsilon/omicron/omicron/upsilon/eta \012/iota/iota/phi/iota/iota/omicron/omicron/phi/omicron/omicron/phi/eta \012/iota/iota/chi/iota/iota/omicron/omicron/chi/omicron/omicron/chi/eta \012/iota/iota/psi/iota/iota/omicron/omicron/psi/omicron/omicron/psi/eta \012/iota/iota/omega/iota/iota/omicron/omicron/omega/omicron/omicron/omega/eta \012/iota/iota/sigmafinal . /omicron/omicron/sigmafinal .",
-"IIAIIOOAOOAN\012IINIIOONOONN\012IIVIIOOVOOVN\012/Iota/Iota/Omicron/Iota/Iota/Omicron/Omicron/Omicron/Omicron/Eta \012/Iota/Iota/Iota/Iota/Omicron/Omicron/Iota/Omicron/Omicron/Iota/Eta \012/Iota/Iota/Eta/Iota/Iota/Omicron/Omicron/Eta/Omicron/Omicron/Eta/Eta \012/Iota/Iota/Alpha/Iota/Iota/Omicron/Omicron/Alpha/Omicron/Omicron/Alpha/Eta \012/Iota/Iota/Beta/Iota/Iota/Omicron/Omicron/Beta/Omicron/Omicron/Beta/Eta \012/Iota/Iota/Gamma/Iota/Iota/Omicron/Omicron/Gamma/Omicron/Omicron/Gamma/Eta \012/Iota/Iota/Delta/Iota/Iota/Omicron/Omicron/Delta/Omicron/Omicron/Delta/Eta \012/Iota/Iota/Epsilon/Iota/Iota/Omicron/Omicron/Epsilon/Omicron/Omicron/Epsilon/Eta \012/Iota/Iota/Zeta/Iota/Iota/Omicron/Omicron/Zeta/Omicron/Omicron/Zeta/Eta \012/Iota/Iota/Xi/Iota/Iota/Omicron/Omicron/Xi/Omicron/Omicron/Xi/Eta \012/Iota/Iota/Theta/Iota/Iota/Omicron/Omicron/Theta/Omicron/Omicron/Theta/Eta \012/Iota/Iota/Pi/Iota/Iota/Omicron/Omicron/Pi/Omicron/Omicron/Pi/Eta \012/Iota/Iota/Kappa/Iota/Iota/Omicron/Omicron/Kappa/Omicron/Omicron/Kappa/Eta \012/Iota/Iota/Lambda/Iota/Iota/Omicron/Omicron/Lambda/Omicron/Omicron/Lambda/Eta \012/Iota/Iota/Mu/Iota/Iota/Omicron/Omicron/Mu/Omicron/Omicron/Mu/Eta \012/Iota/Iota/Rho/Iota/Iota/Omicron/Omicron/Rho/Omicron/Omicron/Rho/Eta \012/Iota/Iota/Sigma/Iota/Iota/Omicron/Omicron/Sigma/Omicron/Omicron/Sigma/Eta \012/Iota/Iota/Tau/Iota/Iota/Omicron/Omicron/Tau/Omicron/Omicron/Tau/Eta \012/Iota/Iota/Upsilon/Iota/Iota/Omicron/Omicron/Upsilon/Omicron/Omicron/Upsilon/Eta \012/Iota/Iota/Phi/Iota/Iota/Omicron/Omicron/Phi/Omicron/Omicron/Phi/Eta \012/Iota/Iota/Chi/Iota/Iota/Omicron/Omicron/Chi/Omicron/Omicron/Chi/Eta \012/Iota/Iota/Psi/Iota/Iota/Omicron/Omicron/Psi/Omicron/Omicron/Psi/Eta \012/Iota/Iota/Omega/Iota/Iota/Omicron/Omicron/Omega/Omicron/Omicron/Omega/Eta \012/Iota/Iota/Sigma . /Omicron/Omicron/Sigma ."
+"IIAIIOOAOOAN\012IINIIOONOONN\012IIVIIOOVOOVN\012/Iota/Iota/Omicron/Iota/Iota/Omicron/Omicron/Omicron/Omicron/Eta \012/Iota/Iota/Iota/Iota/Omicron/Omicron/Iota/Omicron/Omicron/Iota/Eta \012/Iota/Iota/Eta/Iota/Iota/Omicron/Omicron/Eta/Omicron/Omicron/Eta/Eta \012/Iota/Iota/Alpha/Iota/Iota/Omicron/Omicron/Alpha/Omicron/Omicron/Alpha/Eta \012/Iota/Iota/Beta/Iota/Iota/Omicron/Omicron/Beta/Omicron/Omicron/Beta/Eta \012/Iota/Iota/Gamma/Iota/Iota/Omicron/Omicron/Gamma/Omicron/Omicron/Gamma/Eta \012/Iota/Iota/Delta/Iota/Iota/Omicron/Omicron/Delta/Omicron/Omicron/Delta/Eta \012/Iota/Iota/Epsilon/Iota/Iota/Omicron/Omicron/Epsilon/Omicron/Omicron/Epsilon/Eta \012/Iota/Iota/Zeta/Iota/Iota/Omicron/Omicron/Zeta/Omicron/Omicron/Zeta/Eta \012/Iota/Iota/Xi/Iota/Iota/Omicron/Omicron/Xi/Omicron/Omicron/Xi/Eta \012/Iota/Iota/Theta/Iota/Iota/Omicron/Omicron/Theta/Omicron/Omicron/Theta/Eta \012/Iota/Iota/Pi/Iota/Iota/Omicron/Omicron/Pi/Omicron/Omicron/Pi/Eta \012/Iota/Iota/Kappa/Iota/Iota/Omicron/Omicron/Kappa/Omicron/Omicron/Kappa/Eta \012/Iota/Iota/Lambda/Iota/Iota/Omicron/Omicron/Lambda/Omicron/Omicron/Lambda/Eta \012/Iota/Iota/Mu/Iota/Iota/Omicron/Omicron/Mu/Omicron/Omicron/Mu/Eta \012/Iota/Iota/Rho/Iota/Iota/Omicron/Omicron/Rho/Omicron/Omicron/Rho/Eta \012/Iota/Iota/Sigma/Iota/Iota/Omicron/Omicron/Sigma/Omicron/Omicron/Sigma/Eta \012/Iota/Iota/Tau/Iota/Iota/Omicron/Omicron/Tau/Omicron/Omicron/Tau/Eta \012/Iota/Iota/Upsilon/Iota/Iota/Omicron/Omicron/Upsilon/Omicron/Omicron/Upsilon/Eta \012/Iota/Iota/Phi/Iota/Iota/Omicron/Omicron/Phi/Omicron/Omicron/Phi/Eta \012/Iota/Iota/Chi/Iota/Iota/Omicron/Omicron/Chi/Omicron/Omicron/Chi/Eta \012/Iota/Iota/Psi/Iota/Iota/Omicron/Omicron/Psi/Omicron/Omicron/Psi/Eta \012/Iota/Iota/Omega/Iota/Iota/Omicron/Omicron/Omega/Omicron/Omicron/Omega/Eta \012/Iota/Iota/Sigma . /Omicron/Omicron/Sigma .",
+"/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu \012/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega \012/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu \012/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega \012\012"
 );
 copyright = "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)";
 customParameters = (
@@ -40428,7 +40429,7 @@ unicode = 038C;
 },
 {
 glyphname = Upsilontonos;
-lastChange = "2018-07-23 11:16:05 +0000";
+lastChange = "2018-07-23 12:17:50 +0000";
 layers = (
 {
 components = (
@@ -40454,7 +40455,7 @@ transform = "{1, 0, 0, 1, -183, 2}";
 }
 );
 layerId = "EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8";
-width = 600;
+width = 649;
 }
 );
 unicode = 038E;
@@ -40527,7 +40528,7 @@ unicode = 03AA;
 },
 {
 glyphname = Upsilondieresis;
-lastChange = "2018-07-23 10:42:55 +0000";
+lastChange = "2018-07-23 12:17:50 +0000";
 layers = (
 {
 components = (
@@ -40553,7 +40554,7 @@ transform = "{1, 0, 0, 1, 36, 184}";
 }
 );
 layerId = "EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8";
-width = 600;
+width = 649;
 }
 );
 unicode = 03AB;
@@ -50864,7 +50865,7 @@ unicode = 03BB;
 {
 color = 4;
 glyphname = mu;
-lastChange = "2018-07-23 11:44:30 +0000";
+lastChange = "2018-07-23 12:40:07 +0000";
 layers = (
 {
 background = {
@@ -51825,11 +51826,11 @@ nodes = (
 "384 166 OFFCURVE",
 "347 96 OFFCURVE",
 "277 96 CURVE SMOOTH",
-"210 96 OFFCURVE",
-"193 154 OFFCURVE",
-"193 208 CURVE SMOOTH",
-"196 266 OFFCURVE",
-"214 406 OFFCURVE",
+"200 96 OFFCURVE",
+"181 154 OFFCURVE",
+"181 208 CURVE SMOOTH",
+"186 266 OFFCURVE",
+"211 397 OFFCURVE",
 "211 446 CURVE SMOOTH",
 "211 501 OFFCURVE",
 "182 528 OFFCURVE",
@@ -61621,7 +61622,7 @@ unicode = 0390;
 },
 {
 glyphname = upsilontonos;
-lastChange = "2018-07-23 11:49:41 +0000";
+lastChange = "2018-07-23 12:17:50 +0000";
 layers = (
 {
 components = (
@@ -61647,14 +61648,14 @@ transform = "{1, 0, 0, 1, 263, 0}";
 }
 );
 layerId = "EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8";
-width = 622;
+width = 612;
 }
 );
 unicode = 03CD;
 },
 {
 glyphname = upsilondieresis;
-lastChange = "2018-07-23 11:49:41 +0000";
+lastChange = "2018-07-23 12:17:50 +0000";
 layers = (
 {
 components = (
@@ -61680,14 +61681,14 @@ transform = "{1, 0, 0, 1, 28, 0}";
 }
 );
 layerId = "EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8";
-width = 622;
+width = 612;
 }
 );
 unicode = 03CB;
 },
 {
 glyphname = upsilondieresistonos;
-lastChange = "2018-07-23 11:49:41 +0000";
+lastChange = "2018-07-23 12:17:50 +0000";
 layers = (
 {
 components = (
@@ -61713,7 +61714,7 @@ transform = "{1, 0, 0, 1, 28, 0}";
 }
 );
 layerId = "EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8";
-width = 622;
+width = 612;
 }
 );
 unicode = 03B0;
@@ -61753,7 +61754,7 @@ unicode = 03CC;
 },
 {
 glyphname = omegatonos;
-lastChange = "2018-07-23 11:49:41 +0000";
+lastChange = "2018-07-23 12:17:50 +0000";
 layers = (
 {
 components = (
@@ -61775,11 +61776,11 @@ name = omega;
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, 395, 0}";
+transform = "{1, 0, 0, 1, 370, 0}";
 }
 );
 layerId = "EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8";
-width = 895;
+width = 860;
 }
 );
 unicode = 03CE;
@@ -61819,7 +61820,7 @@ unicode = 03AC;
 },
 {
 glyphname = epsilontonos;
-lastChange = "2018-07-23 11:49:41 +0000";
+lastChange = "2018-07-23 12:17:50 +0000";
 layers = (
 {
 components = (
@@ -61845,7 +61846,7 @@ transform = "{1, 0, 0, 1, 207, 0}";
 }
 );
 layerId = "EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8";
-width = 511;
+width = 516;
 }
 );
 unicode = 03AD;
