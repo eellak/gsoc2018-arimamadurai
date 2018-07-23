@@ -4,6 +4,16 @@
   <unicode hex="03BD"/>
   <outline>
     <contour>
+      <point x="108" y="352" type="curve"/>
+      <point x="241" y="0" type="line"/>
+      <point x="315" y="0"/>
+      <point x="340" y="20"/>
+      <point x="394" y="89" type="curve"/>
+      <point x="474" y="193"/>
+      <point x="547" y="364"/>
+      <point x="547" y="454" type="curve"/>
+      <point x="547" y="496"/>
+      <point x="520" y="527"/>
       <point x="468" y="527" type="curve"/>
       <point x="433" y="527"/>
       <point x="408" y="517"/>
@@ -11,12 +21,15 @@
       <point x="401" y="501"/>
       <point x="405" y="483"/>
       <point x="405" y="461" type="curve"/>
-      <point x="405" y="388"/>
-      <point x="367" y="158"/>
-      <point x="286" y="94" type="curve"/>
-      <point x="305" y="63" type="line"/>
+      <point x="405" y="414"/>
+      <point x="390" y="304"/>
+      <point x="357" y="213" type="curve"/>
+      <point x="339" y="162"/>
+      <point x="304" y="107"/>
+      <point x="268" y="70" type="curve"/>
+      <point x="298" y="52" type="line"/>
       <point x="226" y="358" type="line" smooth="yes"/>
-      <point x="196" y="469"/>
+      <point x="200" y="470"/>
       <point x="168" y="527"/>
       <point x="99" y="527" type="curve"/>
       <point x="46" y="527"/>
@@ -30,23 +43,12 @@
       <point x="51" y="417" type="curve"/>
       <point x="81" y="417"/>
       <point x="95" y="386"/>
-      <point x="108" y="352" type="curve"/>
-      <point x="241" y="0" type="line"/>
-      <point x="274" y="0" type="line" smooth="yes"/>
-      <point x="382" y="0"/>
-      <point x="547" y="318"/>
-      <point x="547" y="454" type="curve"/>
-      <point x="547" y="496"/>
-      <point x="520" y="527"/>
-    </contour>
-    <contour>
-      <point x="176" y="516" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-09 13:50:14 +0000</string>
+      <string>2018-07-23 11:49:43 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>gamma</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="peso" format="1">
+  <advance width="611"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <contour>
+      <point x="22" y="446" type="curve"/>
+      <point x="21" y="414" type="line"/>
+      <point x="34" y="416"/>
+      <point x="68" y="418"/>
+      <point x="81" y="418" type="curve"/>
+      <point x="578" y="418" type="line" smooth="yes"/>
+      <point x="597" y="418"/>
+      <point x="613" y="429"/>
+      <point x="614" y="451" type="curve"/>
+      <point x="615" y="483" type="line"/>
+      <point x="605" y="481"/>
+      <point x="296" y="479"/>
+      <point x="286" y="479" type="curve"/>
+      <point x="58" y="479" type="line" smooth="yes"/>
+      <point x="39" y="479"/>
+      <point x="23" y="468"/>
+    </contour>
+    <contour>
+      <point x="22" y="525" type="curve"/>
+      <point x="21" y="493" type="line"/>
+      <point x="34" y="495"/>
+      <point x="68" y="496"/>
+      <point x="81" y="496" type="curve"/>
+      <point x="578" y="496" type="line" smooth="yes"/>
+      <point x="597" y="496"/>
+      <point x="613" y="507"/>
+      <point x="614" y="529" type="curve"/>
+      <point x="615" y="561" type="line"/>
+      <point x="605" y="560"/>
+      <point x="296" y="558"/>
+      <point x="286" y="558" type="curve"/>
+      <point x="58" y="558" type="line" smooth="yes"/>
+      <point x="39" y="558"/>
+      <point x="23" y="547"/>
+    </contour>
+    <component base="P" xOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

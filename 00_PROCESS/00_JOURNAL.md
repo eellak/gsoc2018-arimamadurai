@@ -129,18 +129,32 @@ Developing the glyphset of the bold weight.
 ![Bold](03_SCREENSHOTS/2018-07-02_1.png)
 *See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180702-specimen.pdf).*
 
-**180703** ~ *Feddbacks*<br/>
+**180703** ~ *Feedbacks*<br/>
 ![Feedbacks](05_FEEDBACKS/180703/180703_feedbacks-Emilios.JPG)
 *Emilios' feebacks concerning the bold weight.*
 
-**180703** ~ *Corrections*<br/>
+**180704-180709** ~ *Corrections*<br/>
 
 ![Screenshots](03_SCREENSHOTS/2018-07-09_1.png)
 ![Screenshots](03_SCREENSHOTS/2018-07-09_2.png)
 *See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180709-specimen.pdf).*
 
-**180704-180716** ~ *feedbacks*<br/>
-Working on feedbacks, submitted evaluation and started to develop the thin weight.
+**180710-180718** ~ *Start of the thin weight*<br/>
+Developping the thin weight while waiting for feedbacks on the bold weight.
+
+**180719** ~ *Feedbacks*<br/>
+
+![Feedbacks](05_FEEDBACKS/180719/180719_feedbacks-Emilios_a.JPG)
+![Feedbacks](05_FEEDBACKS/180719/180719_feedbacks-Emilios_b.JPG)
+*Emilios' feebacks concerning the bold weight.*
+
+**180719-180723** ~ *start of the thin weight*<br/>
+Correcting the bold weight and finishing a first version of the thin weight + working on spacing.
+
+![Screenshots](03_SCREENSHOTS/2018-07-23_1.png)
+![Screenshots](03_SCREENSHOTS/2018-07-23_3.png)
+![Screenshots](03_SCREENSHOTS/2018-07-23_2.png)
+*See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180723-specimen.pdf).*
 
 **These are the typefaces I look at along the project :**
 

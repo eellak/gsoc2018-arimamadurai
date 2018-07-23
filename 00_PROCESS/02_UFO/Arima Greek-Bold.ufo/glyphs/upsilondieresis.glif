@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="upsilondieresis" format="1">
-  <advance width="622"/>
+  <advance width="612"/>
   <unicode hex="03CB"/>
   <outline>
     <component base="upsilon"/>
@@ -9,7 +9,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-09 14:01:45 +0000</string>
+      <string>2018-07-23 11:49:41 +0000</string>
     </dict>
   </lib>
 </glyph>

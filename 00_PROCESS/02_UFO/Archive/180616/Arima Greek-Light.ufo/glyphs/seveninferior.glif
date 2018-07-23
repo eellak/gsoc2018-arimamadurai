@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveninferior" format="1">
+  <advance width="341"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="163" y="0" type="curve"/>
+      <point x="163" y="104"/>
+      <point x="223" y="328"/>
+      <point x="310" y="433" type="curve"/>
+      <point x="316" y="440"/>
+      <point x="314" y="455"/>
+      <point x="305" y="456" type="curve"/>
+      <point x="169" y="456" type="line" smooth="yes"/>
+      <point x="127" y="456"/>
+      <point x="87" y="456"/>
+      <point x="44" y="457" type="curve"/>
+      <point x="39" y="452"/>
+      <point x="39" y="438"/>
+      <point x="45" y="434" type="curve"/>
+      <point x="125" y="434"/>
+      <point x="205" y="434"/>
+      <point x="284" y="435" type="curve"/>
+      <point x="208" y="348"/>
+      <point x="140" y="113"/>
+      <point x="139" y="0" type="curve"/>
+      <point x="148" y="-3"/>
+      <point x="154" y="-3"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seven</string>
+    </dict>
+  </lib>
+</glyph>

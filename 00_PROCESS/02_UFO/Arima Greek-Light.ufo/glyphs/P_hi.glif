@@ -1,13 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Phi" format="1">
-  <advance width="600"/>
+  <advance width="751"/>
   <unicode hex="03A6"/>
   <outline>
+    <contour>
+      <point x="377" y="108" type="curve"/>
+      <point x="584" y="109"/>
+      <point x="711" y="189"/>
+      <point x="711" y="354" type="curve"/>
+      <point x="711" y="522"/>
+      <point x="579" y="600"/>
+      <point x="376" y="600" type="curve"/>
+      <point x="164" y="600"/>
+      <point x="40" y="517"/>
+      <point x="40" y="354" type="curve"/>
+      <point x="40" y="185"/>
+      <point x="174" y="107"/>
+    </contour>
+    <contour>
+      <point x="380" y="136" type="curve"/>
+      <point x="375" y="136" type="line"/>
+      <point x="195" y="136"/>
+      <point x="72" y="204"/>
+      <point x="72" y="354" type="curve"/>
+      <point x="72" y="504"/>
+      <point x="195" y="572"/>
+      <point x="374" y="572" type="curve"/>
+      <point x="378" y="572" type="line" smooth="yes"/>
+      <point x="557" y="572"/>
+      <point x="679" y="503"/>
+      <point x="679" y="354" type="curve"/>
+      <point x="679" y="205"/>
+      <point x="557" y="136"/>
+    </contour>
+    <component base="I" xOffset="253"/>
+    <contour>
+      <point x="91" y="688" type="move" name="topleft"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-08 07:57:24 +0000</string>
+      <string>2018-07-23 12:01:27 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gamma" format="1">
-  <advance width="523"/>
+  <advance width="460"/>
   <unicode hex="0393"/>
   <outline>
     <contour>
@@ -36,7 +36,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-02 13:38:02 +0000</string>
+      <string>2018-07-19 15:11:46 +0000</string>
     </dict>
   </lib>
 </glyph>

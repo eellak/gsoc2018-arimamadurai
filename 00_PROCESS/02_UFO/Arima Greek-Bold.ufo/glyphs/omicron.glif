@@ -1,44 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="1">
-  <advance width="554"/>
+  <advance width="572"/>
   <unicode hex="03BF"/>
   <outline>
     <contour>
-      <point x="277" y="-14" type="curve"/>
-      <point x="433" y="-14"/>
-      <point x="524" y="87"/>
-      <point x="524" y="258" type="curve"/>
-      <point x="524" y="430"/>
-      <point x="422" y="529"/>
-      <point x="283" y="531" type="curve"/>
-      <point x="132" y="533"/>
-      <point x="30" y="430"/>
-      <point x="30" y="258" type="curve"/>
-      <point x="30" y="87"/>
-      <point x="121" y="-14"/>
+      <point x="286" y="-14" type="curve"/>
+      <point x="442" y="-14"/>
+      <point x="533" y="87"/>
+      <point x="533" y="258" type="curve"/>
+      <point x="533" y="430"/>
+      <point x="431" y="529"/>
+      <point x="292" y="531" type="curve"/>
+      <point x="141" y="533"/>
+      <point x="39" y="430"/>
+      <point x="39" y="258" type="curve"/>
+      <point x="39" y="87"/>
+      <point x="130" y="-14"/>
     </contour>
     <contour>
-      <point x="277" y="32" type="curve"/>
-      <point x="225" y="32"/>
-      <point x="177" y="108"/>
-      <point x="177" y="258" type="curve"/>
-      <point x="177" y="409"/>
-      <point x="220" y="485"/>
-      <point x="277" y="485" type="curve"/>
-      <point x="334" y="485"/>
-      <point x="376" y="409"/>
-      <point x="376" y="258" type="curve"/>
-      <point x="376" y="108"/>
-      <point x="329" y="32"/>
+      <point x="286" y="32" type="curve"/>
+      <point x="234" y="32"/>
+      <point x="186" y="108"/>
+      <point x="186" y="258" type="curve"/>
+      <point x="186" y="409"/>
+      <point x="229" y="485"/>
+      <point x="286" y="485" type="curve"/>
+      <point x="343" y="485"/>
+      <point x="385" y="409"/>
+      <point x="385" y="258" type="curve"/>
+      <point x="385" y="108"/>
+      <point x="338" y="32"/>
     </contour>
     <contour>
-      <point x="269" y="520" type="move" name="top"/>
+      <point x="278" y="520" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-09 13:55:08 +0000</string>
+      <string>2018-07-23 11:50:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

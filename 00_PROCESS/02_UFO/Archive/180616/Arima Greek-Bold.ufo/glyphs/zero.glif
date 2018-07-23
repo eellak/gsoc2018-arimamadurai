@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero" format="1">
+  <advance width="641"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="320" y="-14" type="curve"/>
+      <point x="495" y="-14"/>
+      <point x="586" y="108"/>
+      <point x="586" y="349" type="curve"/>
+      <point x="586" y="590"/>
+      <point x="495" y="712"/>
+      <point x="320" y="712" type="curve"/>
+      <point x="145" y="712"/>
+      <point x="54" y="590"/>
+      <point x="54" y="349" type="curve"/>
+      <point x="54" y="108"/>
+      <point x="145" y="-14"/>
+    </contour>
+    <contour>
+      <point x="320" y="33" type="curve"/>
+      <point x="242" y="33"/>
+      <point x="208" y="128"/>
+      <point x="208" y="349" type="curve"/>
+      <point x="208" y="570"/>
+      <point x="242" y="665"/>
+      <point x="320" y="665" type="curve"/>
+      <point x="398" y="665"/>
+      <point x="432" y="570"/>
+      <point x="432" y="349" type="curve"/>
+      <point x="432" y="128"/>
+      <point x="398" y="33"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

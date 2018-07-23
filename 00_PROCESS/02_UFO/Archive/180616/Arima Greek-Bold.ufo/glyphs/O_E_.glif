@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="921"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="546" y="280" type="curve"/>
+      <point x="467" y="279" type="line"/>
+      <point x="459" y="101"/>
+      <point x="411" y="33"/>
+      <point x="333" y="33" type="curve"/>
+      <point x="241" y="33"/>
+      <point x="201" y="128"/>
+      <point x="201" y="349" type="curve"/>
+      <point x="201" y="570"/>
+      <point x="241" y="665"/>
+      <point x="333" y="665" type="curve"/>
+      <point x="409" y="665"/>
+      <point x="445" y="618"/>
+      <point x="453" y="461" type="curve"/>
+      <point x="545" y="456" type="line"/>
+      <point x="522" y="619"/>
+      <point x="486" y="712"/>
+      <point x="333" y="712" type="curve"/>
+      <point x="145" y="712"/>
+      <point x="47" y="590"/>
+      <point x="47" y="349" type="curve"/>
+      <point x="47" y="108"/>
+      <point x="145" y="-14"/>
+      <point x="333" y="-14" type="curve"/>
+      <point x="492" y="-14"/>
+      <point x="526" y="106"/>
+    </contour>
+    <component base="E" xOffset="367"/>
+    <contour>
+      <point x="282" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="35" y="349" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="300" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="387" y="698" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-276" y="698" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="685" y="728" type="move" name="topright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

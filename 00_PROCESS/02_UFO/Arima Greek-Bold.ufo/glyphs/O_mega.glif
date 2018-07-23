@@ -51,13 +51,13 @@
       <point x="340" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="140" y="700" type="move" name="topleft"/>
+      <point x="110" y="698" type="move" name="topleft"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-08 08:01:06 +0000</string>
+      <string>2018-07-23 11:16:07 +0000</string>
     </dict>
   </lib>
 </glyph>

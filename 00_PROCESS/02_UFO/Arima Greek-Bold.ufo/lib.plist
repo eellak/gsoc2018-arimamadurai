@@ -4,20 +4,59 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/iota/iota/alpha/iota/iota/beta/iota/iota/gamma/iota/iota/delta/iota/iota/epsilon/iota/iota/zeta/iota/iota/eta/iota/iota/theta/iota/iota/iota 
-/iota/iota/kappa/iota/iota/lambda/iota/iota/mu/iota/iota/nu/iota/iota/xi/iota/iota/omicron/iota/iota/pi/iota/iota/rho/iota/iota/sigmafinal/iota/iota 
-/sigma/iota/iota/tau/iota/iota/upsilon/iota/iota/phi/iota/iota/chi/iota/iota/psi/iota/iota/omega/iota/iota 
-/omicron/omicron/alpha/omicron/omicron/beta/omicron/omicron/gamma/omicron/omicron/delta/omicron/omicron/epsilon/omicron/omicron/zeta/omicron/omicron 
-/omicron/omicron/eta/omicron/omicron/theta/omicron/omicron/iota/omicron/omicron/kappa/omicron/omicron/lambda/omicron/omicron/mu/omicron/omicron 
-/omicron/omicron/nu/omicron/omicron/xi/omicron/omicron/omicron/pi/omicron/omicron/rho/omicron/omicron/sigmafinal ./omicron/omicron/sigma/omicron/omicron 
-/omicron/omicron/tau/omicron/omicron/upsilon/omicron/omicron/phi/omicron/omicron/chi/omicron/omicron/psi/omicron/omicron/omega/omicron/omicron</string>
-		<string>/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu 
-/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega 
-/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi 
-/omicron/pi/rho/sigma/tau/upsilon/phi/chi/psi/omega/sigmafinal 
-
-</string>
-		<string>/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega</string>
+		<string>iiaiiooaooan
+iiniioonoonn
+/iota/iota/omicron/iota/iota/omicron/omicron/omicron/omicron/eta 
+/iota/iota/iota/iota/omicron/omicron/iota/omicron/omicron/iota/eta 
+/iota/iota/eta/iota/iota/omicron/omicron/eta/omicron/omicron/eta/eta 
+/iota/iota/alpha/iota/iota/omicron/omicron/alpha/omicron/omicron/alpha/eta 
+/iota/iota/beta/iota/iota/omicron/omicron/beta/omicron/omicron/beta/eta 
+/iota/iota/gamma/iota/iota/omicron/omicron/gamma/omicron/omicron/gamma/eta 
+/iota/iota/delta/iota/iota/omicron/omicron/delta/omicron/omicron/delta/eta 
+/iota/iota/epsilon/iota/iota/omicron/omicron/epsilon/omicron/omicron/epsilon/eta 
+/iota/iota/zeta/iota/iota/omicron/omicron/zeta/omicron/omicron/zeta/eta 
+/iota/iota/xi/iota/iota/omicron/omicron/xi/omicron/omicron/xi/eta 
+/iota/iota/theta/iota/iota/omicron/omicron/theta/omicron/omicron/theta/eta 
+/iota/iota/pi/iota/iota/omicron/omicron/pi/omicron/omicron/pi/eta 
+/iota/iota/kappa/iota/iota/omicron/omicron/kappa/omicron/omicron/kappa/eta 
+/iota/iota/lambda/iota/iota/omicron/omicron/lambda/omicron/omicron/lambda/eta 
+/iota/iota/mu/iota/iota/omicron/omicron/mu/omicron/omicron/mu/eta 
+/iota/iota/rho/iota/iota/omicron/omicron/rho/omicron/omicron/rho/eta 
+/iota/iota/sigma/iota/iota/omicron/omicron/sigma/omicron/omicron/sigma/eta 
+/iota/iota/tau/iota/iota/omicron/omicron/tau/omicron/omicron/tau/eta 
+/iota/iota/upsilon/iota/iota/omicron/omicron/upsilon/omicron/omicron/upsilon/eta 
+/iota/iota/phi/iota/iota/omicron/omicron/phi/omicron/omicron/phi/eta 
+/iota/iota/chi/iota/iota/omicron/omicron/chi/omicron/omicron/chi/eta 
+/iota/iota/psi/iota/iota/omicron/omicron/psi/omicron/omicron/psi/eta 
+/iota/iota/omega/iota/iota/omicron/omicron/omega/omicron/omicron/omega/eta 
+/iota/iota/sigmafinal . /omicron/omicron/sigmafinal .</string>
+		<string>IIAIIOOAOOAN
+IINIIOONOONN
+IIVIIOOVOOVN
+/Iota/Iota/Omicron/Iota/Iota/Omicron/Omicron/Omicron/Omicron/Eta 
+/Iota/Iota/Iota/Iota/Omicron/Omicron/Iota/Omicron/Omicron/Iota/Eta 
+/Iota/Iota/Eta/Iota/Iota/Omicron/Omicron/Eta/Omicron/Omicron/Eta/Eta 
+/Iota/Iota/Alpha/Iota/Iota/Omicron/Omicron/Alpha/Omicron/Omicron/Alpha/Eta 
+/Iota/Iota/Beta/Iota/Iota/Omicron/Omicron/Beta/Omicron/Omicron/Beta/Eta 
+/Iota/Iota/Gamma/Iota/Iota/Omicron/Omicron/Gamma/Omicron/Omicron/Gamma/Eta 
+/Iota/Iota/Delta/Iota/Iota/Omicron/Omicron/Delta/Omicron/Omicron/Delta/Eta 
+/Iota/Iota/Epsilon/Iota/Iota/Omicron/Omicron/Epsilon/Omicron/Omicron/Epsilon/Eta 
+/Iota/Iota/Zeta/Iota/Iota/Omicron/Omicron/Zeta/Omicron/Omicron/Zeta/Eta 
+/Iota/Iota/Xi/Iota/Iota/Omicron/Omicron/Xi/Omicron/Omicron/Xi/Eta 
+/Iota/Iota/Theta/Iota/Iota/Omicron/Omicron/Theta/Omicron/Omicron/Theta/Eta 
+/Iota/Iota/Pi/Iota/Iota/Omicron/Omicron/Pi/Omicron/Omicron/Pi/Eta 
+/Iota/Iota/Kappa/Iota/Iota/Omicron/Omicron/Kappa/Omicron/Omicron/Kappa/Eta 
+/Iota/Iota/Lambda/Iota/Iota/Omicron/Omicron/Lambda/Omicron/Omicron/Lambda/Eta 
+/Iota/Iota/Mu/Iota/Iota/Omicron/Omicron/Mu/Omicron/Omicron/Mu/Eta 
+/Iota/Iota/Rho/Iota/Iota/Omicron/Omicron/Rho/Omicron/Omicron/Rho/Eta 
+/Iota/Iota/Sigma/Iota/Iota/Omicron/Omicron/Sigma/Omicron/Omicron/Sigma/Eta 
+/Iota/Iota/Tau/Iota/Iota/Omicron/Omicron/Tau/Omicron/Omicron/Tau/Eta 
+/Iota/Iota/Upsilon/Iota/Iota/Omicron/Omicron/Upsilon/Omicron/Omicron/Upsilon/Eta 
+/Iota/Iota/Phi/Iota/Iota/Omicron/Omicron/Phi/Omicron/Omicron/Phi/Eta 
+/Iota/Iota/Chi/Iota/Iota/Omicron/Omicron/Chi/Omicron/Omicron/Chi/Eta 
+/Iota/Iota/Psi/Iota/Iota/Omicron/Omicron/Psi/Omicron/Omicron/Psi/Eta 
+/Iota/Iota/Omega/Iota/Iota/Omicron/Omicron/Omega/Omicron/Omicron/Omega/Eta 
+/Iota/Iota/Sigma . /Omicron/Omicron/Sigma .</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

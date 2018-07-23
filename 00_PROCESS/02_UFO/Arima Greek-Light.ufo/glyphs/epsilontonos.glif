@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="epsilontonos" format="1">
-  <advance width="450"/>
+  <advance width="470"/>
   <unicode hex="03AD"/>
   <outline>
     <component base="epsilon"/>
-    <component base="tonos" xOffset="-10"/>
+    <component base="tonos" xOffset="10"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-09 14:01:45 +0000</string>
+      <string>2018-07-23 11:49:41 +0000</string>
     </dict>
   </lib>
 </glyph>

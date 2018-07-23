@@ -44,14 +44,11 @@
     <contour>
       <point x="285" y="520" type="move" name="_top"/>
     </contour>
-    <contour>
-      <point x="333" y="863" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-06-26 09:53:05 +0000</string>
+      <string>2018-07-23 10:44:10 +0000</string>
     </dict>
   </lib>
 </glyph>

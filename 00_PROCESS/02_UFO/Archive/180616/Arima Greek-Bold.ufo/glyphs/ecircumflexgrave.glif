@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexgrave" format="1">
+  <advance width="535"/>
+  <unicode hex="1EC1"/>
+  <outline>
+    <contour>
+      <point x="153" y="553" type="curve"/>
+      <point x="272" y="635" type="line"/>
+      <point x="389" y="553" type="line"/>
+      <point x="400" y="553"/>
+      <point x="423" y="564"/>
+      <point x="424" y="569" type="curve"/>
+      <point x="306" y="714" type="line"/>
+      <point x="294" y="720"/>
+      <point x="249" y="719"/>
+      <point x="237" y="714" type="curve"/>
+      <point x="119" y="569" type="line"/>
+      <point x="120" y="564"/>
+      <point x="142" y="554"/>
+    </contour>
+    <contour>
+      <point x="282" y="807" type="curve"/>
+      <point x="412" y="681" type="line"/>
+      <point x="429" y="682"/>
+      <point x="452" y="686"/>
+      <point x="460" y="691" type="curve"/>
+      <point x="378" y="831" type="line"/>
+      <point x="348" y="836"/>
+      <point x="293" y="817"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

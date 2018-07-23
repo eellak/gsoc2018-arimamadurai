@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="1">
-  <advance width="505"/>
+  <advance width="534"/>
   <unicode hex="03BF"/>
   <outline>
     <contour>
-      <point x="249" y="-12" type="curve"/>
-      <point x="368" y="-12"/>
-      <point x="460" y="85"/>
-      <point x="460" y="268" type="curve"/>
-      <point x="460" y="394"/>
+      <point x="267" y="-12" type="curve"/>
+      <point x="402" y="-12"/>
+      <point x="481" y="85"/>
+      <point x="481" y="250" type="curve"/>
+      <point x="481" y="415"/>
       <point x="402" y="512"/>
-      <point x="260" y="512" type="curve"/>
-      <point x="136" y="512"/>
-      <point x="45" y="413"/>
-      <point x="45" y="241" type="curve"/>
-      <point x="45" y="80"/>
-      <point x="114" y="-12"/>
+      <point x="267" y="512" type="curve"/>
+      <point x="132" y="512"/>
+      <point x="53" y="415"/>
+      <point x="53" y="250" type="curve"/>
+      <point x="53" y="85"/>
+      <point x="132" y="-12"/>
     </contour>
     <contour>
-      <point x="246" y="16" type="curve"/>
-      <point x="139" y="16"/>
-      <point x="77" y="93"/>
-      <point x="77" y="242" type="curve"/>
-      <point x="77" y="396"/>
-      <point x="154" y="484"/>
-      <point x="264" y="484" type="curve"/>
-      <point x="378" y="484"/>
-      <point x="428" y="379"/>
-      <point x="428" y="269" type="curve"/>
-      <point x="428" y="102"/>
-      <point x="350" y="16"/>
+      <point x="267" y="16" type="curve"/>
+      <point x="153" y="16"/>
+      <point x="85" y="103"/>
+      <point x="85" y="250" type="curve"/>
+      <point x="85" y="397"/>
+      <point x="153" y="484"/>
+      <point x="267" y="484" type="curve"/>
+      <point x="381" y="484"/>
+      <point x="449" y="397"/>
+      <point x="449" y="250" type="curve"/>
+      <point x="449" y="103"/>
+      <point x="381" y="16"/>
     </contour>
     <contour>
       <point x="268" y="500" type="move" name="top"/>
@@ -38,7 +38,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-09 13:55:08 +0000</string>
+      <string>2018-07-23 11:50:33 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -2,15 +2,15 @@
 <glyph name="tonos.case" format="1">
   <advance width="600"/>
   <outline>
-    <component base="tonos"/>
+    <component base="tonos" yOffset="-36"/>
     <contour>
-      <point x="385" y="700" type="move" name="_topleft"/>
+      <point x="367" y="688" type="move" name="_topleft"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-06-14 16:31:07 +0000</string>
+      <string>2018-07-23 11:15:21 +0000</string>
     </dict>
   </lib>
 </glyph>

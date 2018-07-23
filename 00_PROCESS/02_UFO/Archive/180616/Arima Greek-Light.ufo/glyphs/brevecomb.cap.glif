@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb.cap" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="420" y="619" type="curve"/>
+      <point x="411" y="623"/>
+      <point x="403" y="626"/>
+      <point x="394" y="630" type="curve"/>
+      <point x="379" y="602"/>
+      <point x="352" y="572"/>
+      <point x="303" y="572" type="curve"/>
+      <point x="255" y="572"/>
+      <point x="224" y="597"/>
+      <point x="207" y="631" type="curve"/>
+      <point x="198" y="626"/>
+      <point x="188" y="620"/>
+      <point x="179" y="615" type="curve"/>
+      <point x="199" y="575"/>
+      <point x="237" y="540"/>
+      <point x="297" y="540" type="curve"/>
+      <point x="354" y="540"/>
+      <point x="397" y="572"/>
+    </contour>
+    <contour>
+      <point x="299" y="500" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="303" y="572" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>
