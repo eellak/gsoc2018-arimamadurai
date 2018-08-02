@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_tildecomb" format="1">
+  <advance width="529"/>
+  <outline>
+    <component base="g"/>
+    <component base="tildecomb" xOffset="-31"/>
+    <contour>
+      <point x="300" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="300" y="500" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-25 09:43:38 +0000</string>
+    </dict>
+  </lib>
+</glyph>

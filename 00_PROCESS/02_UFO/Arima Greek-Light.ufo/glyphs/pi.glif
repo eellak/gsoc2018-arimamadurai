@@ -4,22 +4,22 @@
   <unicode hex="03C0"/>
   <outline>
     <contour>
-      <point x="467" y="-8" type="curve"/>
-      <point x="508" y="-8"/>
-      <point x="536" y="34"/>
-      <point x="536" y="67" type="curve"/>
-      <point x="536" y="78"/>
-      <point x="534" y="87"/>
-      <point x="522" y="91" type="curve"/>
-      <point x="513" y="46"/>
-      <point x="492" y="20"/>
-      <point x="466" y="20" type="curve"/>
+      <point x="472" y="-8" type="curve"/>
+      <point x="513" y="-8"/>
+      <point x="547" y="31"/>
+      <point x="547" y="62" type="curve"/>
+      <point x="547" y="73"/>
+      <point x="545" y="82"/>
+      <point x="533" y="86" type="curve"/>
+      <point x="524" y="41"/>
+      <point x="494" y="20"/>
+      <point x="472" y="20" type="curve"/>
       <point x="439" y="20"/>
-      <point x="421" y="43"/>
-      <point x="421" y="122" type="curve"/>
+      <point x="421" y="45"/>
+      <point x="421" y="107" type="curve"/>
       <point x="421" y="493" type="line"/>
       <point x="391" y="493" type="line"/>
-      <point x="391" y="122" type="line" smooth="yes"/>
+      <point x="391" y="107" type="line" smooth="yes"/>
       <point x="391" y="31"/>
       <point x="417" y="-8"/>
     </contour>
@@ -40,7 +40,7 @@
     <contour>
       <point x="10" y="436" type="curve"/>
       <point x="24" y="465"/>
-      <point x="76" y="474"/>
+      <point x="64" y="474"/>
       <point x="95" y="474" type="curve"/>
       <point x="213" y="474"/>
       <point x="370" y="474"/>
@@ -65,9 +65,9 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-23 12:56:55 +0000</string>
+      <string>2018-08-02 09:29:24 +0000</string>
       <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

@@ -44,7 +44,7 @@
       <point x="155" y="6"/>
       <point x="151" y="23"/>
       <point x="151" y="56" type="curve"/>
-      <point x="151" y="249" type="line"/>
+      <point x="151" y="249" type="line" smooth="yes"/>
       <point x="151" y="316"/>
       <point x="229" y="484"/>
       <point x="353" y="484" type="curve"/>
@@ -62,13 +62,13 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-23 12:53:04 +0000</string>
+      <string>2018-08-02 09:06:11 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>n</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>n</string>
       <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

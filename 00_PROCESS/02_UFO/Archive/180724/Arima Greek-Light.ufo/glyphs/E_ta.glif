@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eta" format="1">
+  <advance width="662"/>
+  <unicode hex="0397"/>
+  <outline>
+    <component base="H"/>
+    <contour>
+      <point x="85" y="688" type="move" name="topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-14 16:36:45 +0000</string>
+    </dict>
+  </lib>
+</glyph>

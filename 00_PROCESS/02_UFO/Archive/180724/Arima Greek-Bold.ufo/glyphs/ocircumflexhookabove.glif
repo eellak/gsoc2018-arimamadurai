@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflexhookabove" format="1">
+  <advance width="562"/>
+  <unicode hex="1ED5"/>
+  <outline>
+    <contour>
+      <point x="157" y="552" type="curve"/>
+      <point x="276" y="634" type="line"/>
+      <point x="393" y="552" type="line"/>
+      <point x="404" y="552"/>
+      <point x="427" y="563"/>
+      <point x="428" y="568" type="curve"/>
+      <point x="310" y="713" type="line"/>
+      <point x="298" y="719"/>
+      <point x="253" y="718"/>
+      <point x="241" y="713" type="curve"/>
+      <point x="123" y="568" type="line"/>
+      <point x="124" y="563"/>
+      <point x="146" y="553"/>
+    </contour>
+    <component base="o"/>
+    <component base="hookabovecomb" xOffset="214" yOffset="62"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

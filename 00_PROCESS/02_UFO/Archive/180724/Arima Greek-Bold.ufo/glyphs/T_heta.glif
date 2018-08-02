@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="1">
+  <advance width="666"/>
+  <unicode hex="0398"/>
+  <outline>
+    <contour>
+      <point x="247" y="319" type="curve"/>
+      <point x="411" y="319" type="line"/>
+      <point x="415" y="340"/>
+      <point x="416" y="368"/>
+      <point x="411" y="393" type="curve"/>
+      <point x="247" y="393" type="line"/>
+      <point x="242" y="369"/>
+      <point x="242" y="345"/>
+    </contour>
+    <component base="O"/>
+    <contour>
+      <point x="333" y="698" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-07-19 15:12:31 +0000</string>
+    </dict>
+  </lib>
+</glyph>

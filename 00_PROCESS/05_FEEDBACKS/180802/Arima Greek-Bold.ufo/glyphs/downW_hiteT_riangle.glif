@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downWhiteTriangle" format="1">
+  <advance width="600"/>
+  <unicode hex="25BD"/>
+  <outline>
+    <contour>
+      <point x="326" y="2" type="line"/>
+      <point x="615" y="503" type="line"/>
+      <point x="37" y="503" type="line"/>
+    </contour>
+    <contour>
+      <point x="487" y="434" type="line"/>
+      <point x="326" y="142" type="line"/>
+      <point x="162" y="434" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

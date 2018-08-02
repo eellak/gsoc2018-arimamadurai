@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zeta" format="1">
+  <advance width="469"/>
+  <unicode hex="03B6"/>
+  <outline>
+    <contour>
+      <point x="362" y="-188" type="curve"/>
+      <point x="427" y="-188"/>
+      <point x="467" y="-154"/>
+      <point x="467" y="-100" type="curve"/>
+      <point x="467" y="-28"/>
+      <point x="395" y="0"/>
+      <point x="347" y="14" type="curve"/>
+      <point x="315" y="23" type="line" smooth="yes"/>
+      <point x="217" y="50"/>
+      <point x="192" y="108"/>
+      <point x="192" y="178" type="curve"/>
+      <point x="192" y="331"/>
+      <point x="306" y="574"/>
+      <point x="460" y="669" type="curve"/>
+      <point x="460" y="698"/>
+      <point x="457" y="733"/>
+      <point x="410" y="733" type="curve"/>
+      <point x="386" y="733"/>
+      <point x="366" y="719"/>
+      <point x="343" y="705" type="curve"/>
+      <point x="317" y="689"/>
+      <point x="287" y="673"/>
+      <point x="242" y="673" type="curve"/>
+      <point x="162" y="673"/>
+      <point x="114" y="719"/>
+      <point x="93" y="746" type="curve"/>
+      <point x="55" y="746"/>
+      <point x="23" y="713"/>
+      <point x="23" y="676" type="curve"/>
+      <point x="23" y="652"/>
+      <point x="41" y="601"/>
+      <point x="123" y="601" type="curve"/>
+      <point x="177" y="601"/>
+      <point x="258" y="628"/>
+      <point x="301" y="647" type="curve"/>
+      <point x="298" y="662" type="line"/>
+      <point x="180" y="540"/>
+      <point x="46" y="304"/>
+      <point x="46" y="181" type="curve"/>
+      <point x="46" y="48"/>
+      <point x="142" y="17"/>
+      <point x="200" y="4" type="curve"/>
+      <point x="231" y="-3" type="line" smooth="yes"/>
+      <point x="290" y="-17"/>
+      <point x="332" y="-46"/>
+      <point x="332" y="-96" type="curve"/>
+      <point x="332" y="-130"/>
+      <point x="316" y="-154"/>
+      <point x="296" y="-172" type="curve"/>
+      <point x="303" y="-177"/>
+      <point x="331" y="-188"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-07-23 11:40:28 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

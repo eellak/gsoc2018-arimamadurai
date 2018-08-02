@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lambda" format="1">
+  <advance width="507"/>
+  <unicode hex="03BB"/>
+  <outline>
+    <contour>
+      <point x="479" y="-12" type="curve"/>
+      <point x="513" y="-12"/>
+      <point x="527" y="8"/>
+      <point x="527" y="23" type="curve"/>
+      <point x="527" y="31"/>
+      <point x="523" y="38"/>
+      <point x="518" y="43" type="curve"/>
+      <point x="513" y="31"/>
+      <point x="501" y="16"/>
+      <point x="483" y="16" type="curve"/>
+      <point x="457" y="16"/>
+      <point x="446" y="43"/>
+      <point x="433" y="75" type="curve"/>
+      <point x="216" y="626" type="line" smooth="yes"/>
+      <point x="193" y="684"/>
+      <point x="179" y="716"/>
+      <point x="130" y="716" type="curve"/>
+      <point x="100" y="716"/>
+      <point x="74" y="700"/>
+      <point x="74" y="679" type="curve"/>
+      <point x="74" y="671"/>
+      <point x="77" y="665"/>
+      <point x="83" y="661" type="curve"/>
+      <point x="91" y="677"/>
+      <point x="109" y="688"/>
+      <point x="128" y="688" type="curve"/>
+      <point x="154" y="688"/>
+      <point x="166" y="675"/>
+      <point x="188" y="619" type="curve"/>
+      <point x="407" y="60" type="line" smooth="yes"/>
+      <point x="430" y="1"/>
+      <point x="451" y="-12"/>
+    </contour>
+    <contour>
+      <point x="59" y="-12" type="curve"/>
+      <point x="66" y="-12"/>
+      <point x="71" y="-11"/>
+      <point x="73" y="-10" type="curve"/>
+      <point x="71" y="-7"/>
+      <point x="71" y="-1"/>
+      <point x="71" y="1" type="curve"/>
+      <point x="71" y="43"/>
+      <point x="208" y="361"/>
+      <point x="255" y="477" type="curve"/>
+      <point x="235" y="506" type="line"/>
+      <point x="175" y="360"/>
+      <point x="40" y="39"/>
+      <point x="40" y="7" type="curve"/>
+      <point x="40" y="1"/>
+      <point x="42" y="-12"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-07-23 12:46:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

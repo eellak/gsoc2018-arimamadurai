@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omegatonos" format="1">
-  <advance width="861"/>
+  <advance width="839"/>
   <unicode hex="03CE"/>
   <outline>
     <component base="omega"/>
@@ -9,7 +9,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-23 12:17:50 +0000</string>
+      <string>2018-08-02 11:24:13 +0000</string>
     </dict>
   </lib>
 </glyph>

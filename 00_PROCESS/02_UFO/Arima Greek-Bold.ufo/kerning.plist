@@ -859,6 +859,11 @@
 		<key>x</key>
 		<real>-9.8769197463989258</real>
 	</dict>
+	<key>@MMK_L_omicron</key>
+	<dict>
+		<key>lambda</key>
+		<integer>0</integer>
+	</dict>
 	<key>@MMK_L_period</key>
 	<dict>
 		<key>@MMK_R_O</key>
@@ -1270,11 +1275,6 @@
 		<real>-1.7692300081253052</real>
 		<key>zero</key>
 		<real>-1.7692300081253052</real>
-	</dict>
-	<key>omicron</key>
-	<dict>
-		<key>lambda</key>
-		<integer>-40</integer>
 	</dict>
 	<key>one</key>
 	<dict>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="1">
+  <advance width="508"/>
+  <unicode hex="0141"/>
+  <outline>
+    <contour>
+      <point x="318" y="486" type="curve"/>
+      <point x="-1" y="165" type="line"/>
+      <point x="5" y="146"/>
+      <point x="17" y="133"/>
+      <point x="34" y="129" type="curve"/>
+      <point x="354" y="450" type="line"/>
+      <point x="350" y="468"/>
+      <point x="337" y="481"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>
