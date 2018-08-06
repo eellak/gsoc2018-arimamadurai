@@ -27,10 +27,16 @@
 		<string>Aogonek</string>
 		<string>Aring</string>
 		<string>Atilde</string>
+		<string>Alpha</string>
+		<string>Delta</string>
+		<string>Lambda</string>
+		<string>Alphatonos</string>
+		<string>lambda</string>
 	</array>
 	<key>@MMK_L_B</key>
 	<array>
 		<string>B</string>
+		<string>Beta</string>
 	</array>
 	<key>@MMK_L_C</key>
 	<array>
@@ -40,11 +46,6 @@
 		<string>Ccedilla</string>
 		<string>Ccircumflex</string>
 		<string>Cdotaccent</string>
-	</array>
-	<key>@MMK_L_Delta</key>
-	<array>
-		<string>Delta</string>
-		<string>Lambda</string>
 	</array>
 	<key>@MMK_L_E</key>
 	<array>
@@ -68,6 +69,10 @@
 		<string>Eogonek</string>
 		<string>Etilde</string>
 		<string>OE</string>
+		<string>Epsilon</string>
+		<string>Xi</string>
+		<string>Epsilontonos</string>
+		<string>xi</string>
 	</array>
 	<key>@MMK_L_F</key>
 	<array>
@@ -83,6 +88,11 @@
 		<string>Gcommaaccent</string>
 		<string>Gdotaccent</string>
 		<string>Gmacron</string>
+	</array>
+	<key>@MMK_L_Gamma</key>
+	<array>
+		<string>Gamma</string>
+		<string>Psi</string>
 	</array>
 	<key>@MMK_L_H</key>
 	<array>
@@ -114,6 +124,16 @@
 		<string>Ndotbelow</string>
 		<string>Nlinebelow</string>
 		<string>Ntilde</string>
+		<string>Eta</string>
+		<string>Iota</string>
+		<string>Mu</string>
+		<string>Nu</string>
+		<string>Pi</string>
+		<string>Omega</string>
+		<string>Etatonos</string>
+		<string>Iotatonos</string>
+		<string>Omegatonos</string>
+		<string>Iotadieresis</string>
 	</array>
 	<key>@MMK_L_J</key>
 	<array>
@@ -123,6 +143,7 @@
 	<array>
 		<string>K</string>
 		<string>Kcommaaccent</string>
+		<string>Kappa</string>
 	</array>
 	<key>@MMK_L_L</key>
 	<array>
@@ -169,6 +190,16 @@
 		<string>Otilde</string>
 		<string>Q</string>
 		<string>Schwa</string>
+		<string>Theta</string>
+		<string>Omicron</string>
+		<string>Phi</string>
+		<string>Omicrontonos</string>
+		<string>theta</string>
+	</array>
+	<key>@MMK_L_P</key>
+	<array>
+		<string>P</string>
+		<string>Rho</string>
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
@@ -199,6 +230,7 @@
 		<string>Tcommaaccent</string>
 		<string>Tdotbelow</string>
 		<string>Tlinebelow</string>
+		<string>Tau</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
@@ -227,6 +259,10 @@
 		<string>Uring</string>
 		<string>Utilde</string>
 	</array>
+	<key>@MMK_L_V</key>
+	<array>
+		<string>V</string>
+	</array>
 	<key>@MMK_L_W</key>
 	<array>
 		<string>W</string>
@@ -234,6 +270,12 @@
 		<string>Wcircumflex</string>
 		<string>Wdieresis</string>
 		<string>Wgrave</string>
+	</array>
+	<key>@MMK_L_X</key>
+	<array>
+		<string>X</string>
+		<string>Sigma</string>
+		<string>Chi</string>
 	</array>
 	<key>@MMK_L_Y</key>
 	<array>
@@ -246,6 +288,9 @@
 		<string>Ygrave</string>
 		<string>Yhookabove</string>
 		<string>Ytilde</string>
+		<string>Upsilon</string>
+		<string>Upsilontonos</string>
+		<string>Upsilondieresis</string>
 	</array>
 	<key>@MMK_L_Z</key>
 	<array>
@@ -254,6 +299,7 @@
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>Zdotbelow</string>
+		<string>Zeta</string>
 	</array>
 	<key>@MMK_L_a</key>
 	<array>
@@ -289,6 +335,7 @@
 		<string>ccedilla</string>
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
+		<string>sigmafinal</string>
 	</array>
 	<key>@MMK_L_colon</key>
 	<array>
@@ -354,6 +401,12 @@
 		<string>etilde</string>
 		<string>oe</string>
 	</array>
+	<key>@MMK_L_f</key>
+	<array>
+		<string>f</string>
+		<string>sigma</string>
+		<string>tau</string>
+	</array>
 	<key>@MMK_L_g</key>
 	<array>
 		<string>g</string>
@@ -404,6 +457,7 @@
 	<array>
 		<string>k</string>
 		<string>kcommaaccent</string>
+		<string>kappa</string>
 	</array>
 	<key>@MMK_L_l</key>
 	<array>
@@ -415,6 +469,14 @@
 		<string>llinebelow</string>
 		<string>lslash</string>
 		<string>fl</string>
+		<string>alpha</string>
+		<string>iota</string>
+		<string>mu</string>
+		<string>pi</string>
+		<string>iotatonos</string>
+		<string>iotadieresis</string>
+		<string>iotadieresistonos</string>
+		<string>alphatonos</string>
 	</array>
 	<key>@MMK_L_lcaron</key>
 	<array>
@@ -438,6 +500,8 @@
 		<string>ndotbelow</string>
 		<string>nlinebelow</string>
 		<string>ntilde</string>
+		<string>eta</string>
+		<string>etatonos</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
@@ -468,10 +532,21 @@
 		<string>otilde</string>
 		<string>p</string>
 		<string>thorn</string>
-	</array>
-	<key>@MMK_L_omicron</key>
-	<array>
+		<string>beta</string>
+		<string>delta</string>
+		<string>epsilon</string>
 		<string>omicron</string>
+		<string>rho</string>
+		<string>upsilon</string>
+		<string>phi</string>
+		<string>psi</string>
+		<string>omega</string>
+		<string>upsilontonos</string>
+		<string>upsilondieresis</string>
+		<string>upsilondieresistonos</string>
+		<string>omicrontonos</string>
+		<string>omegatonos</string>
+		<string>epsilontonos</string>
 	</array>
 	<key>@MMK_L_period</key>
 	<array>
@@ -518,6 +593,12 @@
 		<string>tdotbelow</string>
 		<string>tlinebelow</string>
 	</array>
+	<key>@MMK_L_v</key>
+	<array>
+		<string>v</string>
+		<string>gamma</string>
+		<string>nu</string>
+	</array>
 	<key>@MMK_L_w</key>
 	<array>
 		<string>w</string>
@@ -525,6 +606,11 @@
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
 		<string>wgrave</string>
+	</array>
+	<key>@MMK_L_x</key>
+	<array>
+		<string>x</string>
+		<string>chi</string>
 	</array>
 	<key>@MMK_L_z</key>
 	<array>
@@ -541,6 +627,10 @@
 	<key>@MMK_L_zerowidthnonjoiner</key>
 	<array>
 		<string>zerowidthnonjoiner</string>
+	</array>
+	<key>@MMK_L_zeta</key>
+	<array>
+		<string>zeta</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>
@@ -567,15 +657,15 @@
 		<string>Aogonek</string>
 		<string>Aring</string>
 		<string>Atilde</string>
+		<string>Alpha</string>
+		<string>Delta</string>
+		<string>Lambda</string>
+		<string>Alphatonos</string>
+		<string>lambda</string>
 	</array>
 	<key>@MMK_R_AE</key>
 	<array>
 		<string>AE</string>
-	</array>
-	<key>@MMK_R_Delta</key>
-	<array>
-		<string>Delta</string>
-		<string>Lambda</string>
 	</array>
 	<key>@MMK_R_Eth</key>
 	<array>
@@ -659,6 +749,22 @@
 		<string>Rdotbelow</string>
 		<string>Rdotbelowmacron</string>
 		<string>Rlinebelow</string>
+		<string>Beta</string>
+		<string>Gamma</string>
+		<string>Epsilon</string>
+		<string>Eta</string>
+		<string>Iota</string>
+		<string>Kappa</string>
+		<string>Mu</string>
+		<string>Nu</string>
+		<string>Pi</string>
+		<string>Rho</string>
+		<string>Omega</string>
+		<string>Epsilontonos</string>
+		<string>Etatonos</string>
+		<string>Iotatonos</string>
+		<string>Omegatonos</string>
+		<string>Iotadieresis</string>
 	</array>
 	<key>@MMK_R_J</key>
 	<array>
@@ -706,6 +812,11 @@
 		<string>Otilde</string>
 		<string>OE</string>
 		<string>Q</string>
+		<string>Theta</string>
+		<string>Omicron</string>
+		<string>Phi</string>
+		<string>Omicrontonos</string>
+		<string>theta</string>
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
@@ -726,6 +837,7 @@
 		<string>Tcommaaccent</string>
 		<string>Tdotbelow</string>
 		<string>Tlinebelow</string>
+		<string>Tau</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
@@ -754,6 +866,10 @@
 		<string>Uring</string>
 		<string>Utilde</string>
 	</array>
+	<key>@MMK_R_V</key>
+	<array>
+		<string>V</string>
+	</array>
 	<key>@MMK_R_W</key>
 	<array>
 		<string>W</string>
@@ -761,6 +877,16 @@
 		<string>Wcircumflex</string>
 		<string>Wdieresis</string>
 		<string>Wgrave</string>
+	</array>
+	<key>@MMK_R_X</key>
+	<array>
+		<string>X</string>
+		<string>Chi</string>
+	</array>
+	<key>@MMK_R_Xi</key>
+	<array>
+		<string>Xi</string>
+		<string>Sigma</string>
 	</array>
 	<key>@MMK_R_Y</key>
 	<array>
@@ -773,6 +899,10 @@
 		<string>Ygrave</string>
 		<string>Yhookabove</string>
 		<string>Ytilde</string>
+		<string>Upsilon</string>
+		<string>Psi</string>
+		<string>Upsilontonos</string>
+		<string>Upsilondieresis</string>
 	</array>
 	<key>@MMK_R_Z</key>
 	<array>
@@ -781,6 +911,7 @@
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>Zdotbelow</string>
+		<string>Zeta</string>
 	</array>
 	<key>@MMK_R_a</key>
 	<array>
@@ -838,6 +969,7 @@
 		<string>llinebelow</string>
 		<string>lslash</string>
 		<string>thorn</string>
+		<string>beta</string>
 	</array>
 	<key>@MMK_R_hyphen</key>
 	<array>
@@ -858,11 +990,21 @@
 		<string>iogonek</string>
 		<string>itilde</string>
 		<string>kgreenlandic</string>
+		<string>iota</string>
+		<string>kappa</string>
+		<string>mu</string>
+		<string>iotatonos</string>
+		<string>iotadieresis</string>
+		<string>iotadieresistonos</string>
 	</array>
 	<key>@MMK_R_j</key>
 	<array>
 		<string>j</string>
 		<string>jcircumflex</string>
+	</array>
+	<key>@MMK_R_l</key>
+	<array>
+		<string>delta</string>
 	</array>
 	<key>@MMK_R_n</key>
 	<array>
@@ -884,6 +1026,14 @@
 		<string>rdotbelow</string>
 		<string>rdotbelowmacron</string>
 		<string>rlinebelow</string>
+		<string>eta</string>
+		<string>nu</string>
+		<string>upsilon</string>
+		<string>psi</string>
+		<string>upsilontonos</string>
+		<string>upsilondieresis</string>
+		<string>upsilondieresistonos</string>
+		<string>etatonos</string>
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
@@ -951,11 +1101,18 @@
 		<string>otilde</string>
 		<string>oe</string>
 		<string>q</string>
-	</array>
-	<key>@MMK_R_omicron</key>
-	<array>
 		<string>alpha</string>
+		<string>epsilon</string>
 		<string>omicron</string>
+		<string>rho</string>
+		<string>sigmafinal</string>
+		<string>sigma</string>
+		<string>phi</string>
+		<string>omega</string>
+		<string>omicrontonos</string>
+		<string>omegatonos</string>
+		<string>alphatonos</string>
+		<string>epsilontonos</string>
 	</array>
 	<key>@MMK_R_period</key>
 	<array>
@@ -991,6 +1148,10 @@
 		<string>tdieresis</string>
 		<string>tdotbelow</string>
 		<string>tlinebelow</string>
+	</array>
+	<key>@MMK_R_tau</key>
+	<array>
+		<string>tau</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
@@ -1028,6 +1189,11 @@
 		<string>yhookabove</string>
 		<string>ytilde</string>
 	</array>
+	<key>@MMK_R_v</key>
+	<array>
+		<string>v</string>
+		<string>gamma</string>
+	</array>
 	<key>@MMK_R_w</key>
 	<array>
 		<string>w</string>
@@ -1035,6 +1201,12 @@
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
 		<string>wgrave</string>
+	</array>
+	<key>@MMK_R_x</key>
+	<array>
+		<string>x</string>
+		<string>pi</string>
+		<string>chi</string>
 	</array>
 	<key>@MMK_R_z</key>
 	<array>

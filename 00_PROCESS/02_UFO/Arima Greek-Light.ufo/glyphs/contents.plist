@@ -198,8 +198,6 @@
 	<string>J_circumflex.glif</string>
 	<key>K</key>
 	<string>K_.glif</string>
-	<key>KaiSymbol</key>
-	<string>K_aiS_ymbol.glif</string>
 	<key>Kappa</key>
 	<string>K_appa.glif</string>
 	<key>Kcommaaccent</key>
@@ -912,8 +910,6 @@
 	<string>jcircumflex.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
-	<key>kaiSymbol</key>
-	<string>kaiS_ymbol.glif</string>
 	<key>kappa</key>
 	<string>kappa.glif</string>
 	<key>kcommaaccent</key>

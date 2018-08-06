@@ -4,12 +4,12 @@
   <unicode hex="038C"/>
   <outline>
     <component base="Omicron"/>
-    <component base="tonos.case" xOffset="-83" yOffset="2"/>
+    <component base="tonos.case" xOffset="-55" yOffset="2"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-23 11:16:05 +0000</string>
+      <string>2018-08-06 08:33:19 +0000</string>
     </dict>
   </lib>
 </glyph>

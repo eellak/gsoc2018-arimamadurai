@@ -77,13 +77,11 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-02 09:49:57 +0000</string>
+      <string>2018-08-06 09:05:14 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>upsilon</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>upsilon</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

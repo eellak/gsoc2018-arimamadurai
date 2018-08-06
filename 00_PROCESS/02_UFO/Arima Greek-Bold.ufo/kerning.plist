@@ -10,6 +10,8 @@
 		<integer>-40</integer>
 		<key>@MMK_R_U</key>
 		<integer>-17</integer>
+		<key>@MMK_R_V</key>
+		<integer>-30</integer>
 		<key>@MMK_R_W</key>
 		<integer>-29</integer>
 		<key>@MMK_R_Y</key>
@@ -26,12 +28,14 @@
 		<integer>-41</integer>
 		<key>@MMK_R_t</key>
 		<integer>-13</integer>
+		<key>@MMK_R_tau</key>
+		<integer>-50</integer>
 		<key>@MMK_R_u</key>
 		<integer>-12</integer>
 		<key>@MMK_R_w</key>
 		<integer>-38</integer>
 		<key>V</key>
-		<real>-31.46150016784668</real>
+		<integer>-15</integer>
 		<key>asterisk</key>
 		<integer>-30</integer>
 		<key>backslash</key>
@@ -43,7 +47,7 @@
 		<key>ordmasculine</key>
 		<real>-60.884601593017578</real>
 		<key>v</key>
-		<real>-37.923099517822266</real>
+		<integer>-40</integer>
 	</dict>
 	<key>@MMK_L_B</key>
 	<dict>
@@ -126,13 +130,6 @@
 		<real>-29.876899719238281</real>
 		<key>x</key>
 		<real>-16.46150016784668</real>
-	</dict>
-	<key>@MMK_L_Delta</key>
-	<dict>
-		<key>Tau</key>
-		<integer>-50</integer>
-		<key>Upsilon</key>
-		<integer>-60</integer>
 	</dict>
 	<key>@MMK_L_E</key>
 	<dict>
@@ -256,6 +253,23 @@
 		<real>-16.46150016784668</real>
 		<key>x</key>
 		<real>-21.399999618530273</real>
+	</dict>
+	<key>@MMK_L_Gamma</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-60</integer>
+		<key>@MMK_R_i</key>
+		<integer>-100</integer>
+		<key>@MMK_R_n</key>
+		<integer>-90</integer>
+		<key>@MMK_R_o</key>
+		<integer>-90</integer>
+		<key>@MMK_R_tau</key>
+		<integer>-90</integer>
+		<key>@MMK_R_v</key>
+		<integer>-90</integer>
+		<key>@MMK_R_x</key>
+		<integer>-100</integer>
 	</dict>
 	<key>@MMK_L_H</key>
 	<dict>
@@ -399,12 +413,18 @@
 		<integer>-8</integer>
 		<key>@MMK_R_AE</key>
 		<integer>-20</integer>
+		<key>@MMK_R_H</key>
+		<integer>0</integer>
 		<key>@MMK_R_J</key>
 		<integer>-12</integer>
 		<key>@MMK_R_T</key>
 		<integer>-30</integer>
 		<key>@MMK_R_W</key>
 		<integer>-3</integer>
+		<key>@MMK_R_X</key>
+		<integer>-20</integer>
+		<key>@MMK_R_Xi</key>
+		<integer>-18</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-19</integer>
 		<key>@MMK_R_Z</key>
@@ -428,13 +448,18 @@
 		<key>V</key>
 		<real>-4.9384598731994629</real>
 		<key>X</key>
-		<real>-19.876899719238281</real>
+		<integer>-10</integer>
 		<key>quotedblright</key>
 		<real>-6.7230801582336426</real>
 		<key>v</key>
 		<real>-8.2307701110839844</real>
 		<key>x</key>
 		<real>-13.16919994354248</real>
+	</dict>
+	<key>@MMK_L_P</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-50</integer>
 	</dict>
 	<key>@MMK_L_R</key>
 	<dict>
@@ -578,6 +603,11 @@
 		<key>x</key>
 		<real>-23.046199798583984</real>
 	</dict>
+	<key>@MMK_L_V</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-30</integer>
+	</dict>
 	<key>@MMK_L_W</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -620,6 +650,13 @@
 		<real>-32.923099517822266</real>
 		<key>x</key>
 		<real>-45.269199371337891</real>
+	</dict>
+	<key>@MMK_L_X</key>
+	<dict>
+		<key>@MMK_R_O</key>
+		<integer>-20</integer>
+		<key>@MMK_R_o</key>
+		<real>-14.646200180053711</real>
 	</dict>
 	<key>@MMK_L_Y</key>
 	<dict>
@@ -726,12 +763,12 @@
 		<integer>-4</integer>
 		<key>@MMK_R_u</key>
 		<integer>-13</integer>
+		<key>@MMK_R_v</key>
+		<integer>-26</integer>
 		<key>@MMK_R_w</key>
 		<integer>-23</integer>
 		<key>f</key>
 		<real>-5.3538498878479004</real>
-		<key>v</key>
-		<real>-26.338499069213867</real>
 	</dict>
 	<key>@MMK_L_dcaron</key>
 	<dict>
@@ -748,6 +785,13 @@
 		<real>-4.115379810333252</real>
 		<key>x</key>
 		<real>-1.6461499929428101</real>
+	</dict>
+	<key>@MMK_L_f</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-55</integer>
+		<key>@MMK_R_x</key>
+		<real>-32.923099517822266</real>
 	</dict>
 	<key>@MMK_L_g</key>
 	<dict>
@@ -832,6 +876,10 @@
 	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
+		<key>@MMK_R_H</key>
+		<integer>0</integer>
+		<key>@MMK_R_X</key>
+		<integer>-20</integer>
 		<key>@MMK_R_a</key>
 		<integer>-4</integer>
 		<key>@MMK_R_period</key>
@@ -840,8 +888,12 @@
 		<integer>-5</integer>
 		<key>@MMK_R_u</key>
 		<integer>-4</integer>
+		<key>@MMK_R_v</key>
+		<integer>-10</integer>
 		<key>@MMK_R_w</key>
 		<integer>-16</integer>
+		<key>@MMK_R_x</key>
+		<integer>-10</integer>
 		<key>@MMK_R_z</key>
 		<integer>-7</integer>
 		<key>asterisk</key>
@@ -854,15 +906,6 @@
 		<real>-24.692300796508789</real>
 		<key>question</key>
 		<real>-32.923099517822266</real>
-		<key>v</key>
-		<real>-10.699999809265137</real>
-		<key>x</key>
-		<real>-9.8769197463989258</real>
-	</dict>
-	<key>@MMK_L_omicron</key>
-	<dict>
-		<key>lambda</key>
-		<integer>0</integer>
 	</dict>
 	<key>@MMK_L_period</key>
 	<dict>
@@ -953,12 +996,22 @@
 		<key>x</key>
 		<real>-8.2307701110839844</real>
 	</dict>
+	<key>@MMK_L_v</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
+	</dict>
 	<key>@MMK_L_w</key>
 	<dict>
 		<key>@MMK_R_a</key>
 		<integer>-6</integer>
 		<key>@MMK_R_period</key>
 		<integer>-62</integer>
+	</dict>
+	<key>@MMK_L_x</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-3</integer>
 	</dict>
 	<key>@MMK_L_z</key>
 	<dict>
@@ -973,10 +1026,14 @@
 		<key>v</key>
 		<real>-6.5846199989318848</real>
 	</dict>
-	<key>Gamma</key>
+	<key>@MMK_L_zeta</key>
 	<dict>
-		<key>@MMK_R_Delta</key>
-		<integer>-90</integer>
+		<key>@MMK_R_n</key>
+		<integer>0</integer>
+		<key>@MMK_R_o</key>
+		<integer>-30</integer>
+		<key>@MMK_R_tau</key>
+		<integer>-20</integer>
 	</dict>
 	<key>Omega</key>
 	<dict>
@@ -986,7 +1043,7 @@
 	<key>P</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<real>-41.176898956298828</real>
+		<integer>-42</integer>
 		<key>@MMK_R_AE</key>
 		<real>-60.084598541259766</real>
 		<key>@MMK_R_J</key>
@@ -1014,16 +1071,6 @@
 		<key>x</key>
 		<real>-16.46150016784668</real>
 	</dict>
-	<key>Rho</key>
-	<dict>
-		<key>@MMK_R_omicron</key>
-		<integer>0</integer>
-	</dict>
-	<key>Tau</key>
-	<dict>
-		<key>@MMK_R_Delta</key>
-		<integer>-60</integer>
-	</dict>
 	<key>Thorn</key>
 	<dict>
 		<key>@MMK_R_AE</key>
@@ -1043,15 +1090,10 @@
 		<key>X</key>
 		<real>-25.230800628662109</real>
 	</dict>
-	<key>Upsilon</key>
-	<dict>
-		<key>@MMK_R_Delta</key>
-		<integer>-40</integer>
-	</dict>
 	<key>V</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<real>-28.992300033569336</real>
+		<integer>-15</integer>
 		<key>@MMK_R_AE</key>
 		<real>-59.992298126220703</real>
 		<key>@MMK_R_Germandbls</key>
@@ -1090,7 +1132,7 @@
 	<key>X</key>
 	<dict>
 		<key>@MMK_R_O</key>
-		<real>-21.292299270629883</real>
+		<integer>-18</integer>
 		<key>@MMK_R_S</key>
 		<real>-2.2999999523162842</real>
 		<key>@MMK_R_U</key>
@@ -1100,7 +1142,7 @@
 		<key>@MMK_R_n</key>
 		<real>-16.46150016784668</real>
 		<key>@MMK_R_o</key>
-		<real>-14.646200180053711</real>
+		<integer>-13</integer>
 		<key>@MMK_R_t</key>
 		<real>-9.8769197463989258</real>
 		<key>@MMK_R_u</key>
@@ -1210,8 +1252,6 @@
 		<real>58.230800628662109</real>
 		<key>v</key>
 		<real>-24.692300796508789</real>
-		<key>x</key>
-		<real>-32.923099517822266</real>
 	</dict>
 	<key>five</key>
 	<dict>
@@ -1255,11 +1295,6 @@
 		<real>-5.3076901435852051</real>
 		<key>X</key>
 		<real>-5.3076901435852051</real>
-	</dict>
-	<key>lambda</key>
-	<dict>
-		<key>tau</key>
-		<integer>-60</integer>
 	</dict>
 	<key>nine</key>
 	<dict>
@@ -1327,6 +1362,11 @@
 		<key>@MMK_R_s</key>
 		<real>-7.0769200325012207</real>
 	</dict>
+	<key>tau</key>
+	<dict>
+		<key>upsilon</key>
+		<integer>0</integer>
+	</dict>
 	<key>three</key>
 	<dict>
 		<key>seven</key>
@@ -1353,7 +1393,7 @@
 		<key>@MMK_R_hyphen</key>
 		<real>-5.3076901435852051</real>
 		<key>@MMK_R_o</key>
-		<integer>-3</integer>
+		<integer>-17</integer>
 		<key>@MMK_R_t</key>
 		<real>4.115379810333252</real>
 	</dict>

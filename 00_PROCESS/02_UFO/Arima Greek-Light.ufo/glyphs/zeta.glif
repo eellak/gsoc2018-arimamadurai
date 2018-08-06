@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zeta" format="1">
-  <advance width="434"/>
+  <advance width="394"/>
   <unicode hex="03B6"/>
   <outline>
     <contour>
@@ -16,8 +16,8 @@
       <point x="112" y="57"/>
       <point x="112" y="191" type="curve"/>
       <point x="112" y="357"/>
-      <point x="285" y="594"/>
-      <point x="395" y="664" type="curve"/>
+      <point x="284" y="596"/>
+      <point x="396" y="664" type="curve"/>
       <point x="434" y="687" type="line"/>
       <point x="433" y="698"/>
       <point x="426" y="711"/>
@@ -61,9 +61,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-02 10:04:31 +0000</string>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>2018-08-06 11:09:45 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Arima Greek</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/02/15 13:51:07</string>
+	<string>2018/08/06 11:17:01</string>
 	<key>openTypeHheaAscender</key>
 	<integer>1073</integer>
 	<key>openTypeHheaDescender</key>
@@ -63,15 +63,21 @@
 		<integer>733</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>ArimaGreek-Bold</string>
+	<string>Arima-Greek-Bold</string>
+	<key>postscriptFullName</key>
+	<string>Bold</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-224</integer>
 		<integer>-216</integer>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>46</integer>
+	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
-		<integer>60</integer>
+		<integer>136</integer>
 		<integer>146</integer>
 		<integer>150</integer>
 	</array>
@@ -86,7 +92,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>19</integer>
+	<integer>20</integer>
 	<key>xHeight</key>
 	<integer>520</integer>
 </dict>
