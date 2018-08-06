@@ -2,7 +2,7 @@
 .appVersion = "1141";
 DisplayStrings = (
 "/Tau/alpha/chi/iotatonos/sigma/tau/eta  /alpha/lambda/omegatonos/pi/eta/xi  /beta/alpha/phi/etatonos/sigmafinal  /psi/eta/mu/epsilontonos/nu/eta  /gamma/eta , /delta/rho/alpha/sigma/kappa/epsilon/lambda/iotatonos/zeta/epsilon/iota  /upsilon/pi/epsilontonos/rho  /nu/omega/theta/rho/omicron/upsilontonos  /kappa/upsilon/nu/omicrontonos/sigmafinal \012\012/delta/iota/alpha/phi/upsilon/lambda/alphatonos/xi/tau/epsilon  /gamma/epsilon/nu/iota/kappa/alphatonos  /tau/eta  /zeta/omega/etatonos  /sigma/alpha/sigmafinal  /alpha/pi/omicrontonos  /beta/alpha/theta/epsilon/iota/alphatonos  /psi/upsilon/chi/iota/kappa/alphatonos  /tau/rho/alpha/upsilontonos/mu/alpha/tau/alpha",
-"/xi/epsilon/sigma/kappa/epsilon/pi/alphatonos/zeta/omega  /tau/nu  /psi/upsilon/chi/omicron/phi/theta/omicrontonos/rho/alpha  /beta/delta/epsilon/lambda/upsilon/gamma/mu/iotatonos/alpha ."
+"/xi/epsilon/sigma/kappa/epsilon/pi/alphatonos/zeta/omega  /tau/epsilon/nu  /psi/upsilon/chi/omicron/phi/theta/omicrontonos/rho/alpha  /beta/delta/epsilon/lambda/upsilon/gamma/mu/iotatonos/alpha ."
 );
 copyright = "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)";
 customParameters = (
@@ -44164,57 +44164,9 @@ unicode = 03B2;
 },
 {
 glyphname = gamma;
-lastChange = "2018-08-06 08:44:50 +0000";
+lastChange = "2018-08-06 12:23:54 +0000";
 layers = (
 {
-background = {
-paths = (
-{
-closed = 0;
-nodes = (
-"451 86 LINE SMOOTH",
-"381 86 OFFCURVE",
-"309 44 OFFCURVE",
-"271 -30 CURVE",
-"278 -75 LINE",
-"300 -8 OFFCURVE",
-"367 53 OFFCURVE",
-"452 53 CURVE SMOOTH"
-);
-},
-{
-closed = 0;
-nodes = (
-"84 138 LINE SMOOTH",
-"198 138 OFFCURVE",
-"277 56 OFFCURVE",
-"283 -65 CURVE",
-"258 -68 LINE",
-"253 34 OFFCURVE",
-"180 106 OFFCURVE",
-"78 106 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"240 -153 OFFCURVE",
-"246 -164 OFFCURVE",
-"260 -164 CURVE SMOOTH",
-"265 -164 OFFCURVE",
-"269 -163 OFFCURVE",
-"275 -161 CURVE",
-"284 -123 OFFCURVE",
-"286 -87 OFFCURVE",
-"284 -54 CURVE",
-"261 -54 LINE",
-"248 -84 OFFCURVE",
-"240 -104 OFFCURVE",
-"240 -133 CURVE SMOOTH"
-);
-}
-);
-};
 layerId = "60CFBDE8-BC08-4808-BF41-F011F3E03A54";
 paths = (
 {
@@ -44264,7 +44216,7 @@ nodes = (
 "307 -221 OFFCURVE",
 "313 -216 CURVE",
 "301 -140 OFFCURVE",
-"300 -33 OFFCURVE",
+"301 -33 OFFCURVE",
 "294 0 CURVE",
 "276 0 LINE",
 "272 -13 OFFCURVE",
@@ -56948,7 +56900,7 @@ unicode = 03C0;
 },
 {
 glyphname = rho;
-lastChange = "2018-08-06 08:55:07 +0000";
+lastChange = "2018-08-06 12:17:09 +0000";
 layers = (
 {
 layerId = "60CFBDE8-BC08-4808-BF41-F011F3E03A54";
@@ -56956,46 +56908,46 @@ paths = (
 {
 closed = 1;
 nodes = (
-"123 -230 OFFCURVE",
-"130 -224 OFFCURVE",
-"131 -221 CURVE",
-"124 -208 OFFCURVE",
-"123 -177 OFFCURVE",
-"123 -149 CURVE SMOOTH",
-"120 233 LINE SMOOTH",
-"119 396 OFFCURVE",
-"199 484 OFFCURVE",
-"293 484 CURVE SMOOTH",
-"400 484 OFFCURVE",
-"452 382 OFFCURVE",
-"452 268 CURVE SMOOTH",
-"452 125 OFFCURVE",
-"396 16 OFFCURVE",
-"280 16 CURVE SMOOTH",
-"218 16 OFFCURVE",
-"147 58 OFFCURVE",
-"112 137 CURVE",
-"93 115 LINE",
-"128 35 OFFCURVE",
-"200 -12 OFFCURVE",
-"280 -12 CURVE SMOOTH",
-"410 -12 OFFCURVE",
-"484 103 OFFCURVE",
-"484 265 CURVE SMOOTH",
-"484 387 OFFCURVE",
-"425 512 OFFCURVE",
-"293 512 CURVE SMOOTH",
-"192 512 OFFCURVE",
-"89 429 OFFCURVE",
-"90 232 CURVE SMOOTH",
-"93 -176 LINE SMOOTH",
-"93 -210 OFFCURVE",
-"95 -230 OFFCURVE",
-"115 -230 CURVE SMOOTH"
+"103 -230 OFFCURVE",
+"110 -224 OFFCURVE",
+"111 -221 CURVE",
+"104 -208 OFFCURVE",
+"103 -177 OFFCURVE",
+"103 -149 CURVE SMOOTH",
+"100 233 LINE SMOOTH",
+"99 396 OFFCURVE",
+"179 484 OFFCURVE",
+"273 484 CURVE SMOOTH",
+"380 484 OFFCURVE",
+"432 382 OFFCURVE",
+"432 268 CURVE SMOOTH",
+"432 125 OFFCURVE",
+"376 16 OFFCURVE",
+"260 16 CURVE SMOOTH",
+"198 16 OFFCURVE",
+"127 58 OFFCURVE",
+"92 137 CURVE",
+"73 115 LINE",
+"108 35 OFFCURVE",
+"180 -12 OFFCURVE",
+"260 -12 CURVE SMOOTH",
+"390 -12 OFFCURVE",
+"464 103 OFFCURVE",
+"464 265 CURVE SMOOTH",
+"464 387 OFFCURVE",
+"405 512 OFFCURVE",
+"273 512 CURVE SMOOTH",
+"172 512 OFFCURVE",
+"69 429 OFFCURVE",
+"70 232 CURVE SMOOTH",
+"73 -176 LINE SMOOTH",
+"73 -210 OFFCURVE",
+"75 -230 OFFCURVE",
+"95 -230 CURVE SMOOTH"
 );
 }
 );
-width = 537;
+width = 517;
 },
 {
 layerId = "EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8";
@@ -58828,7 +58780,7 @@ unicode = 03C3;
 },
 {
 glyphname = tau;
-lastChange = "2018-08-06 10:06:16 +0000";
+lastChange = "2018-08-06 12:15:11 +0000";
 layers = (
 {
 layerId = "60CFBDE8-BC08-4808-BF41-F011F3E03A54";
@@ -59696,7 +59648,7 @@ width = 476;
 }
 );
 leftKerningGroup = tau;
-rightKerningGroup = f;
+rightKerningGroup = tau;
 unicode = 03C4;
 },
 {
@@ -86695,10 +86647,9 @@ name = postscriptFontName;
 value = "Arima-Greek-Thin";
 }
 );
-interpolationWeight = 152.2;
+interpolationWeight = 30;
 instanceInterpolations = {
-"60CFBDE8-BC08-4808-BF41-F011F3E03A54" = 0.06;
-"EBFFFCD3-BAE4-48A5-9442-B72A90AD34A8" = 0.94;
+"60CFBDE8-BC08-4808-BF41-F011F3E03A54" = 1;
 };
 name = Thin;
 weightClass = Thin;
