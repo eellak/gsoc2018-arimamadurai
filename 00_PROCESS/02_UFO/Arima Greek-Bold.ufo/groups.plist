@@ -401,11 +401,14 @@
 		<string>etilde</string>
 		<string>oe</string>
 	</array>
+	<key>@MMK_L_epsilon</key>
+	<array>
+		<string>epsilon</string>
+		<string>epsilontonos</string>
+	</array>
 	<key>@MMK_L_f</key>
 	<array>
 		<string>f</string>
-		<string>sigma</string>
-		<string>tau</string>
 	</array>
 	<key>@MMK_L_g</key>
 	<array>
@@ -472,7 +475,6 @@
 		<string>alpha</string>
 		<string>iota</string>
 		<string>mu</string>
-		<string>pi</string>
 		<string>iotatonos</string>
 		<string>iotadieresis</string>
 		<string>iotadieresistonos</string>
@@ -502,6 +504,11 @@
 		<string>ntilde</string>
 		<string>eta</string>
 		<string>etatonos</string>
+	</array>
+	<key>@MMK_L_nu</key>
+	<array>
+		<string>gamma</string>
+		<string>nu</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
@@ -534,9 +541,9 @@
 		<string>thorn</string>
 		<string>beta</string>
 		<string>delta</string>
-		<string>epsilon</string>
 		<string>omicron</string>
 		<string>rho</string>
+		<string>sigma</string>
 		<string>upsilon</string>
 		<string>phi</string>
 		<string>psi</string>
@@ -546,7 +553,6 @@
 		<string>upsilondieresistonos</string>
 		<string>omicrontonos</string>
 		<string>omegatonos</string>
-		<string>epsilontonos</string>
 	</array>
 	<key>@MMK_L_period</key>
 	<array>
@@ -593,11 +599,14 @@
 		<string>tdotbelow</string>
 		<string>tlinebelow</string>
 	</array>
+	<key>@MMK_L_tau</key>
+	<array>
+		<string>pi</string>
+		<string>tau</string>
+	</array>
 	<key>@MMK_L_v</key>
 	<array>
 		<string>v</string>
-		<string>gamma</string>
-		<string>nu</string>
 	</array>
 	<key>@MMK_L_w</key>
 	<array>
@@ -992,7 +1001,6 @@
 		<string>kgreenlandic</string>
 		<string>iota</string>
 		<string>kappa</string>
-		<string>mu</string>
 		<string>iotatonos</string>
 		<string>iotadieresis</string>
 		<string>iotadieresistonos</string>
@@ -1027,13 +1035,17 @@
 		<string>rdotbelowmacron</string>
 		<string>rlinebelow</string>
 		<string>eta</string>
-		<string>nu</string>
 		<string>upsilon</string>
 		<string>psi</string>
 		<string>upsilontonos</string>
 		<string>upsilondieresis</string>
 		<string>upsilondieresistonos</string>
 		<string>etatonos</string>
+	</array>
+	<key>@MMK_R_nu</key>
+	<array>
+		<string>gamma</string>
+		<string>nu</string>
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
@@ -1102,7 +1114,6 @@
 		<string>oe</string>
 		<string>q</string>
 		<string>alpha</string>
-		<string>epsilon</string>
 		<string>omicron</string>
 		<string>rho</string>
 		<string>sigmafinal</string>
@@ -1112,7 +1123,6 @@
 		<string>omicrontonos</string>
 		<string>omegatonos</string>
 		<string>alphatonos</string>
-		<string>epsilontonos</string>
 	</array>
 	<key>@MMK_R_period</key>
 	<array>
@@ -1192,7 +1202,6 @@
 	<key>@MMK_R_v</key>
 	<array>
 		<string>v</string>
-		<string>gamma</string>
 	</array>
 	<key>@MMK_R_w</key>
 	<array>
@@ -1207,6 +1216,11 @@
 		<string>x</string>
 		<string>pi</string>
 		<string>chi</string>
+	</array>
+	<key>@MMK_R_xi</key>
+	<array>
+		<string>zeta</string>
+		<string>xi</string>
 	</array>
 	<key>@MMK_R_z</key>
 	<array>

@@ -874,6 +874,11 @@
 		<key>v</key>
 		<real>-23.115400314331055</real>
 	</dict>
+	<key>@MMK_L_nu</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
+	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
 		<key>@MMK_R_H</key>
@@ -882,6 +887,8 @@
 		<integer>-20</integer>
 		<key>@MMK_R_a</key>
 		<integer>-4</integer>
+		<key>@MMK_R_nu</key>
+		<integer>-20</integer>
 		<key>@MMK_R_period</key>
 		<integer>-4</integer>
 		<key>@MMK_R_quotesingle</key>
@@ -1031,7 +1038,7 @@
 		<key>@MMK_R_n</key>
 		<integer>0</integer>
 		<key>@MMK_R_o</key>
-		<integer>-30</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-20</integer>
 	</dict>

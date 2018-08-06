@@ -7,7 +7,8 @@
 		<string>/Tau/alpha/chi/iotatonos/sigma/tau/eta  /alpha/lambda/omegatonos/pi/eta/xi  /beta/alpha/phi/etatonos/sigmafinal  /psi/eta/mu/epsilontonos/nu/eta  /gamma/eta , /delta/rho/alpha/sigma/kappa/epsilon/lambda/iotatonos/zeta/epsilon/iota  /upsilon/pi/epsilontonos/rho  /nu/omega/theta/rho/omicron/upsilontonos  /kappa/upsilon/nu/omicrontonos/sigmafinal 
 
 /delta/iota/alpha/phi/upsilon/lambda/alphatonos/xi/tau/epsilon  /gamma/epsilon/nu/iota/kappa/alphatonos  /tau/eta  /zeta/omega/etatonos  /sigma/alpha/sigmafinal  /alpha/pi/omicrontonos  /beta/alpha/theta/epsilon/iota/alphatonos  /psi/upsilon/chi/iota/kappa/alphatonos  /tau/rho/alpha/upsilontonos/mu/alpha/tau/alpha</string>
-		<string>/xi/epsilon/sigma/kappa/epsilon/pi/alphatonos/zeta/omega  /tau/nu  /psi/upsilon/chi/omicron/phi/theta/omicrontonos/rho/alpha  /beta/delta/epsilon/lambda/upsilon/gamma/mu/iotatonos/alpha .</string>
+		<string>/xi/epsilon/sigma/omega/kappa/epsilon/pi/epsilon/alphatonos/zeta/omega  /tau/omega/nu o /psi/upsilon/chi/omicron/phi/theta/omicrontonos/rho/alpha  /beta/epsilon/mu/delta/iotatonos n/mu/iotatonos/iotatonos/mu/epsilon/lambda/upsilon o/gamma o/gamma/mu/iotatonos/alpha .</string>
+		<string>/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Delta/Omicron/Delta/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/Iotadieresis/Upsilondieresis/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>

@@ -786,6 +786,11 @@
 		<key>x</key>
 		<real>-1.6461499929428101</real>
 	</dict>
+	<key>@MMK_L_epsilon</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
+	</dict>
 	<key>@MMK_L_f</key>
 	<dict>
 		<key>@MMK_R_o</key>
@@ -874,12 +879,23 @@
 		<key>v</key>
 		<real>-23.115400314331055</real>
 	</dict>
+	<key>@MMK_L_nu</key>
+	<dict>
+		<key>@MMK_R_i</key>
+		<integer>-10</integer>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
+		<key>@MMK_R_xi</key>
+		<integer>-30</integer>
+	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
 		<key>@MMK_R_X</key>
 		<integer>-20</integer>
 		<key>@MMK_R_a</key>
 		<integer>-4</integer>
+		<key>@MMK_R_nu</key>
+		<integer>-19</integer>
 		<key>@MMK_R_period</key>
 		<integer>-4</integer>
 		<key>@MMK_R_quotesingle</key>
@@ -994,6 +1010,11 @@
 		<key>x</key>
 		<real>-8.2307701110839844</real>
 	</dict>
+	<key>@MMK_L_tau</key>
+	<dict>
+		<key>upsilon</key>
+		<integer>0</integer>
+	</dict>
 	<key>@MMK_L_v</key>
 	<dict>
 		<key>@MMK_R_o</key>
@@ -1029,9 +1050,11 @@
 		<key>@MMK_R_n</key>
 		<integer>0</integer>
 		<key>@MMK_R_o</key>
-		<integer>-30</integer>
+		<integer>-10</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-20</integer>
+		<key>@MMK_R_xi</key>
+		<integer>20</integer>
 	</dict>
 	<key>Omega</key>
 	<dict>
@@ -1359,11 +1382,6 @@
 		<real>-10.615400314331055</real>
 		<key>@MMK_R_s</key>
 		<real>-7.0769200325012207</real>
-	</dict>
-	<key>tau</key>
-	<dict>
-		<key>upsilon</key>
-		<integer>0</integer>
 	</dict>
 	<key>three</key>
 	<dict>
