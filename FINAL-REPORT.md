@@ -34,7 +34,7 @@ The original timeline of the project can be found [here](https://github.com/eell
 
 I had to design the two extreme weights in order to interpolate the 6 other. Those two extreme weights (Thin and Bold) represented two very different works because the thin weight was almost monolinear and the bold had very high contrasts. While the thin weight was easy to design and very stable, the bold weight was hard to balance and difficult to match with the latin.
 
-The first phase was to find a  stress for the Greek letterform which would provide a good match with the latin while keeping that style proper to Greek script. So instead of a vertical axe as in Latin script, the bold has a sightly rotated axe.
+The first phase was to find a  stress for the Greek letterform which would provide a good match with the latin while keeping that style proper to Greek script. So we kept a vertical axe as in the Latin but we broke the vertical stems of the Bold to make it dance a bit more.
 
 From the monoliear thin to the high constrated bold, the font varies from steady to playful letterforms.
 
