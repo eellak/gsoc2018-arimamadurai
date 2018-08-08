@@ -1,16 +1,36 @@
 ## FINAL REPORT
-**This is the Final Report for the work done for the project Arima-Madurai.**
+**This is the Final Report for the work done on the project Arima-Madurai.**
 
-**Student :** Rosalie Wagner | ANRT, Nancy | [GitHub](https://github.com/RosaWagner) | [Twitter](https://twitter.com/RosaFF_Wagner)
+**Student :**
+* Rosalie Wagner | ANRT, Nancy | [GitHub](https://github.com/RosaWagner) | [Twitter](https://twitter.com/RosaFF_Wagner)
+
+**GSoC Mentors:**
+
+* Emilios Theofanous | [GitHub](https://github.com/thynem) | [Twitter](https://twitter.com/emilios__)
+* Irene Vlachou | [GitHub](https://github.com/irenevl) | [Twitter](https://twitter.com/irene_vlachou)
+* Alexios Zavras
+
+**Organization:**
+
+[Open Technologies Alliance - GFOSS](https://summerofcode.withgoogle.com/organizations/4954936912117760/)
 
 ---
 
 #### Summary with the project’s links
 
-* [Journal of the process](00_PROCESS/00_JOURNAL.md)
-* [Deliverables](01_DELIVERABLES) (OTF and TTF files)
-* [UFO files](00_PROCESS/02_UFO)
-* [Glyphs files](00_PROCESS/01_GLYPHS)
+**Sources**
+* [Repository of the original Arima project](https://github.com/NDISCOVER/Arima-Font) (by NDISCOVER)
+* [Repository on which I worked  on](https://github.com/eellak/gsoc2018-arimamadurai) (by GFOSS)
+
+**Deliverables**
+* [OTF files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/01_DELIVERABLES/OTF)
+* [TTF files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/01_DELIVERABLES/TTF)
+
+**Process**
+* [Journal of the process](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/00_JOURNAL.md)
+* [UFO files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/00_PROCESS/02_UFO)
+* [Glyphs files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/00_PROCESS/01_GLYPHS)
+* [Feedbacks](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/00_PROCESS/05_FEEDBACKS)
 
 ---
 
@@ -18,13 +38,15 @@
 
 **The Project took place during the Google Summer of Code 2018.**
 
-This project aimed to add Greek script to the Google Font *Arima Madurai*.
+This project aimed to add Greek script to the Google Font [Arima Madurai](https://github.com/NDISCOVER/Arima-Font). You can see the original proposal for GSOC [here](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/PROPOSAL.pdf).
 
 Arima Madurai is a font created by Natanael Gana and Joana Correia of NDISCOVER — a Portuguese type foundry. It is a multiscripts display font with 8 weights from thin to black and have a strong calligraphic influence. It has a lot of personality so it can be recognisable in headlines or brand names uses.
 
-You can view the original Github repository of the project [here](https://github.com/NDISCOVER/Arima-Font).
+Arima Madurai already supports Tamil, Malayalam and Latin scripts and I would like to add Greek extended script to the glyphset. The fact that the font already supports multi scripts is a real benefit to the project: Arima Madurai already acts in non latin typographic environment and therefore displays a large set of shapes that can be used to match the Greek glyphs with the other ones.
 
 #### Process
+
+You can find the repository on which I worked to add the Greek script [here](https://github.com/eellak/gsoc2018-arimamadurai).
 
 You can find the Journal of the process [here](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/00_JOURNAL.md) and take a look at the design process. You can also find the [different feedbacks](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/00_PROCESS/05_FEEDBACKS) from my mentor Emilios Theofanous.
 
@@ -41,18 +63,6 @@ From the monoliear thin to the high constrated bold, the font varies from steady
 A small pangram animation, from Thin to Bold and back, demonstrating the changes of the final design that occur as weight is added:
 
 ![animation](00_PROCESS/07_SPECIMEN/arima-variable.gif)
-
----
-
-#### GSoC Mentors:
-
-* Alexios Zavras
-* Emilios Theofanous | [GitHub](https://github.com/thynem) | [Twitter](https://twitter.com/emilios__)
-* Irene Vlachou | [GitHub](https://github.com/irenevl) | [Twitter](https://twitter.com/irene_vlachou)
-
-#### Organization:
-
-[Open Technologies Alliance - GFOSS](https://summerofcode.withgoogle.com/organizations/4954936912117760/)
 
 ---
 
