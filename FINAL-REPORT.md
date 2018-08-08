@@ -1,5 +1,6 @@
 ## FINAL REPORT
-**This is the Final Report for the work done on the project Arima-Madurai.**
+**This is the Final Report for the work done to add Greek glyphs to the Google font Arima Madurai.**
+https://github.com/eellak/gsoc2018-arimamadurai
 
 **Student :**
 * Rosalie Wagner | ANRT, Nancy | [GitHub](https://github.com/RosaWagner) | [Twitter](https://twitter.com/RosaFF_Wagner)
@@ -19,8 +20,8 @@
 #### Summary with the project’s links
 
 **Sources**
-* [Repository of the original Arima project](https://github.com/NDISCOVER/Arima-Font) (by NDISCOVER)
-* [Repository on which I worked  on](https://github.com/eellak/gsoc2018-arimamadurai) (by GFOSS)
+* [Repository of the GSoC18 Arima Madurai project](https://github.com/eellak/gsoc2018-arimamadurai)
+* [Repository of the Google font Arima Madurai](https://github.com/NDISCOVER/Arima-Font)
 
 **Deliverables**
 * [OTF files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/01_DELIVERABLES/OTF)
