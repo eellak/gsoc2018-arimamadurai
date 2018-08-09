@@ -3,9 +3,7 @@
 
 ### Introduction
 
-**The Project took place during the Google Summer of Code 2018.**
-
-This project aimed to add Greek script to the Google Font [Arima Madurai](https://github.com/NDISCOVER/Arima-Font).
+The Project took place during the Google Summer of Code 2018 and aimed to add Greek script to the Google Font [Arima Madurai](https://github.com/NDISCOVER/Arima-Font).
 
 ![Specimen](00_PROCESS/07_SPECIMEN/180809_specimen.jpg)
 
