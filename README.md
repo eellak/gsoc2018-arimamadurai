@@ -54,9 +54,9 @@ This is a small pangram animation, from Thin to Bold and back, demonstrating the
 
 ### GSoC Mentors:
 
-* Alexios Zavras
 * Emilios Theofanous | [GitHub](https://github.com/thynem) | [Twitter](https://twitter.com/emilios__)
 * Irene Vlachou | [GitHub](https://github.com/irenevl) | [Twitter](https://twitter.com/irene_vlachou)
+* Alexios Zavras
 
 ### Student:
 
