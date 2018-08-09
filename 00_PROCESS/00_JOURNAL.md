@@ -156,9 +156,9 @@ Correcting the bold weight and finishing a first version of the thin weight + wo
 ![Screenshots](03_SCREENSHOTS/2018-07-23_2.png)
 *See here the [pdf of the specimen](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/04_PDF/180723-specimen.pdf).*
 
-**180724-180806** *Ending*
+**180724-180809** *Ending*
 
-Finalizing the font, fixing interpolation issues, set up metrics and kernings…
+Finalizing the font, correcting minor design issues, fixing interpolation issues, set up metrics and kernings, adding polytonic…
 
 **These are the typefaces I look at along the project :**
 
