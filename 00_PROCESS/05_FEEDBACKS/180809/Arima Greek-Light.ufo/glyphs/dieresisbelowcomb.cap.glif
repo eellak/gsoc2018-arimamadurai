@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisbelowcomb.cap" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="238" y="-131"/>
+      <point x="254" y="-115"/>
+      <point x="254" y="-97" type="curve" smooth="yes"/>
+      <point x="254" y="-79"/>
+      <point x="238" y="-63"/>
+      <point x="220" y="-63" type="curve" smooth="yes"/>
+      <point x="202" y="-63"/>
+      <point x="186" y="-79"/>
+      <point x="186" y="-97" type="curve" smooth="yes"/>
+      <point x="186" y="-115"/>
+      <point x="202" y="-131"/>
+      <point x="220" y="-131" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="398" y="-131"/>
+      <point x="414" y="-115"/>
+      <point x="414" y="-97" type="curve" smooth="yes"/>
+      <point x="414" y="-79"/>
+      <point x="398" y="-63"/>
+      <point x="380" y="-63" type="curve" smooth="yes"/>
+      <point x="362" y="-63"/>
+      <point x="346" y="-79"/>
+      <point x="346" y="-97" type="curve" smooth="yes"/>
+      <point x="346" y="-115"/>
+      <point x="362" y="-131"/>
+      <point x="380" y="-131" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="294" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

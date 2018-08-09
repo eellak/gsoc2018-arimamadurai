@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.cap" format="1">
+  <advance width="600"/>
+  <outline>
+    <component base="circumflexcomb.cap" yScale="-1" xOffset="-2" yOffset="1195"/>
+    <contour>
+      <point x="314" y="789" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="299" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

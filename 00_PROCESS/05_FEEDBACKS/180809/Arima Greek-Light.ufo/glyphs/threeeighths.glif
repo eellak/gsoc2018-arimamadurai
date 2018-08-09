@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threeeighths" format="1">
+  <advance width="992"/>
+  <unicode hex="215C"/>
+  <outline>
+    <component base="threesuperior"/>
+    <component base="fraction" xOffset="375"/>
+    <component base="eightinferior" xOffset="589"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>three.numr</string>
+    </dict>
+  </lib>
+</glyph>
