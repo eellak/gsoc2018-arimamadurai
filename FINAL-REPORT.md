@@ -43,7 +43,7 @@ This project aimed to add Greek script to the Google Font [Arima Madurai](https:
 
 Arima Madurai is a font created by Natanael Gana and Joana Correia of NDISCOVER — a Portuguese type foundry. It is a multiscripts display font with 8 weights from thin to black and have a strong calligraphic influence. It has a lot of personality so it can be recognisable in headlines or brand names uses.
 
-Arima Madurai already supports Tamil, Malayalam and Latin scripts and I would like to add Greek extended script to the glyphset. The fact that the font already supports multi scripts is a real benefit to the project: Arima Madurai already acts in non latin typographic environment and therefore displays a large set of shapes that can be used to match the Greek glyphs with the other ones.
+Arima Madurai already supported Tamil, Malayalam and Latin scripts and with this project, Greek script was added to the glyphset. The fact that the font already supported multi scripts was a real benefit to the project: Arima Madurai already acted in a non latin typographic environment and therefore displayed a large set of shapes that were used to match the Greek glyphs with the other ones.
 
 #### Process
 
