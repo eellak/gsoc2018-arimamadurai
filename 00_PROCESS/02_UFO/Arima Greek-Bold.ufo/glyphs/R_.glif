@@ -45,7 +45,7 @@
       <point x="566" y="93"/>
       <point x="549" y="114"/>
       <point x="529" y="162" type="curve"/>
-      <point x="488" y="255" type="line" smooth="yes"/>
+      <point x="488" y="255" type="line"/>
       <point x="456" y="311"/>
       <point x="418" y="348"/>
       <point x="315" y="346" type="curve"/>
@@ -62,7 +62,7 @@
       <point x="80" y="636"/>
       <point x="83" y="583"/>
       <point x="83" y="551" type="curve"/>
-      <point x="83" y="56" type="line"/>
+      <point x="83" y="56" type="line" smooth="yes"/>
       <point x="83" y="12"/>
       <point x="117" y="-15"/>
     </contour>
@@ -76,7 +76,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>H</string>
     </dict>

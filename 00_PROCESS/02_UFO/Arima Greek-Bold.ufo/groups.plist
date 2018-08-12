@@ -31,6 +31,26 @@
 		<string>Delta</string>
 		<string>Lambda</string>
 		<string>Alphatonos</string>
+		<string>Alphapsili</string>
+		<string>Alphadasia</string>
+		<string>Alphapsilivaria</string>
+		<string>Alphadasiavaria</string>
+		<string>Alphapsilioxia</string>
+		<string>Alphadasiaoxia</string>
+		<string>Alphapsiliperispomeni</string>
+		<string>Alphadasiaperispomeni</string>
+		<string>Alphavaria</string>
+		<string>Alphaoxia</string>
+		<string>Alphavrachy</string>
+		<string>Alphamacron</string>
+		<string>Alphaprosgegrammeni</string>
+		<string>Alphadasiaprosgegrammeni</string>
+		<string>Alphapsilivariaprosgegrammeni</string>
+		<string>Alphadasiavariaprosgegrammeni</string>
+		<string>Alphapsilioxiaprosgegrammeni</string>
+		<string>Alphadasiaoxiaprosgegrammeni</string>
+		<string>Alphapsiliperispomeniprosgegrammeni</string>
+		<string>Alphadasiaperispomeniprosgegrammeni</string>
 		<string>lambda</string>
 	</array>
 	<key>@MMK_L_B</key>
@@ -72,6 +92,14 @@
 		<string>Epsilon</string>
 		<string>Xi</string>
 		<string>Epsilontonos</string>
+		<string>Epsilonpsili</string>
+		<string>Epsilondasia</string>
+		<string>Epsilonpsilivaria</string>
+		<string>Epsilondasiavaria</string>
+		<string>Epsilonpsilioxia</string>
+		<string>Epsilondasiaoxia</string>
+		<string>Epsilonvaria</string>
+		<string>Epsilonoxia</string>
 		<string>xi</string>
 	</array>
 	<key>@MMK_L_F</key>
@@ -122,6 +150,7 @@
 		<string>Ncommaaccent</string>
 		<string>Ndotaccent</string>
 		<string>Ndotbelow</string>
+		<string>Eng</string>
 		<string>Nlinebelow</string>
 		<string>Ntilde</string>
 		<string>Eta</string>
@@ -129,11 +158,40 @@
 		<string>Mu</string>
 		<string>Nu</string>
 		<string>Pi</string>
-		<string>Omega</string>
 		<string>Etatonos</string>
 		<string>Iotatonos</string>
-		<string>Omegatonos</string>
 		<string>Iotadieresis</string>
+		<string>Etapsili</string>
+		<string>Etadasia</string>
+		<string>Etapsilivaria</string>
+		<string>Etadasiavaria</string>
+		<string>Etapsilioxia</string>
+		<string>Etadasiaoxia</string>
+		<string>Etapsiliperispomeni</string>
+		<string>Etadasiaperispomeni</string>
+		<string>Etavaria</string>
+		<string>Etaoxia</string>
+		<string>Etaprosgegrammeni</string>
+		<string>Etapsiliprosgegrammeni</string>
+		<string>Etadasiaprosgegrammeni</string>
+		<string>Etapsilivariaprosgegrammeni</string>
+		<string>Etadasiavariaprosgegrammeni</string>
+		<string>Etapsilioxiaprosgegrammeni</string>
+		<string>Etadasiaoxiaprosgegrammeni</string>
+		<string>Etapsiliperispomeniprosgegrammeni</string>
+		<string>Etadasiaperispomeniprosgegrammeni</string>
+		<string>Iotapsili</string>
+		<string>Iotadasia</string>
+		<string>Iotapsilivaria</string>
+		<string>Iotadasiavaria</string>
+		<string>Iotapsilioxia</string>
+		<string>Iotadasiaoxia</string>
+		<string>Iotapsiliperispomeni</string>
+		<string>Iotadasiaperispomeni</string>
+		<string>Iotavaria</string>
+		<string>Iotaoxia</string>
+		<string>Iotavrachy</string>
+		<string>Iotamacron</string>
 	</array>
 	<key>@MMK_L_J</key>
 	<array>
@@ -144,6 +202,7 @@
 		<string>K</string>
 		<string>Kcommaaccent</string>
 		<string>Kappa</string>
+		<string>KaiSymbol</string>
 	</array>
 	<key>@MMK_L_L</key>
 	<array>
@@ -194,12 +253,45 @@
 		<string>Omicron</string>
 		<string>Phi</string>
 		<string>Omicrontonos</string>
+		<string>Omicronpsili</string>
+		<string>Omicrondasia</string>
+		<string>Omicronpsilivaria</string>
+		<string>Omicrondasiavaria</string>
+		<string>Omicronpsilioxia</string>
+		<string>Omicrondasiaoxia</string>
+		<string>Omicronvaria</string>
+		<string>Omicronoxia</string>
 		<string>theta</string>
+	</array>
+	<key>@MMK_L_Omega</key>
+	<array>
+		<string>Omega</string>
+		<string>Omegatonos</string>
+		<string>Omegapsili</string>
+		<string>Omegadasia</string>
+		<string>Omegapsilivaria</string>
+		<string>Omegadasiavaria</string>
+		<string>Omegapsilioxia</string>
+		<string>Omegadasiaoxia</string>
+		<string>Omegapsiliperispomeni</string>
+		<string>Omegadasiaperispomeni</string>
+		<string>Omegavaria</string>
+		<string>Omegaoxia</string>
+		<string>Omegaprosgegrammeni</string>
+		<string>Omegapsiliprosgegrammeni</string>
+		<string>Omegadasiaprosgegrammeni</string>
+		<string>Omegapsilivariaprosgegrammeni</string>
+		<string>Omegadasiavariaprosgegrammeni</string>
+		<string>Omegapsilioxiaprosgegrammeni</string>
+		<string>Omegadasiaoxiaprosgegrammeni</string>
+		<string>Omegapsiliperispomeniprosgegrammeni</string>
+		<string>Omegadasiaperispomeniprosgegrammeni</string>
 	</array>
 	<key>@MMK_L_P</key>
 	<array>
 		<string>P</string>
 		<string>Rho</string>
+		<string>Rhodasia</string>
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
@@ -262,9 +354,6 @@
 	<key>@MMK_L_V</key>
 	<array>
 		<string>V</string>
-	</array>
-	<key>@MMK_L_W</key>
-	<array>
 		<string>W</string>
 		<string>Wacute</string>
 		<string>Wcircumflex</string>
@@ -291,6 +380,14 @@
 		<string>Upsilon</string>
 		<string>Upsilontonos</string>
 		<string>Upsilondieresis</string>
+		<string>Upsilondasia</string>
+		<string>Upsilondasiavaria</string>
+		<string>Upsilondasiaoxia</string>
+		<string>Upsilondasiaperispomeni</string>
+		<string>Upsilonvaria</string>
+		<string>Upsilonoxia</string>
+		<string>Upsilonvrachy</string>
+		<string>Upsilonmacron</string>
 	</array>
 	<key>@MMK_L_Z</key>
 	<array>
@@ -327,6 +424,10 @@
 		<string>aring</string>
 		<string>atilde</string>
 	</array>
+	<key>@MMK_L_backslash</key>
+	<array>
+		<string>backslash</string>
+	</array>
 	<key>@MMK_L_c</key>
 	<array>
 		<string>c</string>
@@ -344,7 +445,7 @@
 	</array>
 	<key>@MMK_L_d</key>
 	<array>
-		<string>ascript</string>
+		<string>alpha-latin</string>
 		<string>d</string>
 		<string>dcroat</string>
 		<string>ddotbelow</string>
@@ -378,6 +479,13 @@
 	<array>
 		<string>dcaron</string>
 	</array>
+	<key>@MMK_L_dieresis</key>
+	<array>
+		<string>idieresis</string>
+		<string>iotadialytikavaria</string>
+		<string>iotadialytikaoxia</string>
+		<string>iotadialytikaperispomeni</string>
+	</array>
 	<key>@MMK_L_e</key>
 	<array>
 		<string>ae</string>
@@ -405,6 +513,14 @@
 	<array>
 		<string>epsilon</string>
 		<string>epsilontonos</string>
+		<string>epsilonpsili</string>
+		<string>epsilondasia</string>
+		<string>epsilonpsilivaria</string>
+		<string>epsilondasiavaria</string>
+		<string>epsilonpsilioxia</string>
+		<string>epsilondasiaoxia</string>
+		<string>epsilonvaria</string>
+		<string>epsilonoxia</string>
 	</array>
 	<key>@MMK_L_f</key>
 	<array>
@@ -426,23 +542,28 @@
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
 		<string>ydotaccent</string>
-		<string>ydotbelow</string>
 		<string>ygrave</string>
 		<string>yhookabove</string>
 		<string>ytilde</string>
+		<string>ydaotbelow</string>
 	</array>
 	<key>@MMK_L_hyphen</key>
 	<array>
 		<string>hyphen</string>
+		<string>softhyphen</string>
+		<string>endash</string>
+		<string>emdash</string>
+		<string>figuredash</string>
+		<string>horizontalbar</string>
+		<string>hyphentwo</string>
 	</array>
 	<key>@MMK_L_i</key>
 	<array>
 		<string>i</string>
-		<string>dotlessi</string>
+		<string>idotless</string>
 		<string>iacute</string>
 		<string>icaron</string>
 		<string>icircumflex</string>
-		<string>idieresis</string>
 		<string>idotbelow</string>
 		<string>igrave</string>
 		<string>ihookabove</string>
@@ -461,6 +582,7 @@
 		<string>k</string>
 		<string>kcommaaccent</string>
 		<string>kappa</string>
+		<string>kaiSymbol</string>
 	</array>
 	<key>@MMK_L_l</key>
 	<array>
@@ -479,6 +601,43 @@
 		<string>iotadieresis</string>
 		<string>iotadieresistonos</string>
 		<string>alphatonos</string>
+		<string>alphapsili</string>
+		<string>alphadasia</string>
+		<string>alphapsilivaria</string>
+		<string>alphadasiavaria</string>
+		<string>alphapsilioxia</string>
+		<string>alphadasiaoxia</string>
+		<string>alphapsiliperispomeni</string>
+		<string>alphadasiaperispomeni</string>
+		<string>alphavaria</string>
+		<string>alphaoxia</string>
+		<string>alphaperispomeni</string>
+		<string>alphavrachy</string>
+		<string>alphamacron</string>
+		<string>alphaypogegrammeni</string>
+		<string>alphavariaypogegrammeni</string>
+		<string>alphaoxiaypogegrammeni</string>
+		<string>alphapsiliypogegrammeni</string>
+		<string>alphadasiaypogegrammeni</string>
+		<string>alphapsilivariaypogegrammeni</string>
+		<string>alphadasiavariaypogegrammeni</string>
+		<string>alphapsilioxiaypogegrammeni</string>
+		<string>alphadasiaoxiaypogegrammeni</string>
+		<string>alphapsiliperispomeniypogegrammeni</string>
+		<string>alphadasiaperispomeniypogegrammeni</string>
+		<string>alphaperispomeniypogegrammeni</string>
+		<string>iotapsili</string>
+		<string>iotadasia</string>
+		<string>iotapsilivaria</string>
+		<string>iotadasiavaria</string>
+		<string>iotapsilioxia</string>
+		<string>iotadasiaoxia</string>
+		<string>iotapsiliperispomeni</string>
+		<string>iotadasiaperispomeni</string>
+		<string>iotavaria</string>
+		<string>iotaoxia</string>
+		<string>iotaperispomeni</string>
+		<string>iotavrachy</string>
 	</array>
 	<key>@MMK_L_lcaron</key>
 	<array>
@@ -500,10 +659,34 @@
 		<string>ncommaaccent</string>
 		<string>ndotaccent</string>
 		<string>ndotbelow</string>
+		<string>eng</string>
 		<string>nlinebelow</string>
 		<string>ntilde</string>
 		<string>eta</string>
 		<string>etatonos</string>
+		<string>etapsili</string>
+		<string>etadasia</string>
+		<string>etapsilivaria</string>
+		<string>etadasiavaria</string>
+		<string>etapsilioxia</string>
+		<string>etadasiaoxia</string>
+		<string>etapsiliperispomeni</string>
+		<string>etadasiaperispomeni</string>
+		<string>etavaria</string>
+		<string>etaoxia</string>
+		<string>etaperispomeni</string>
+		<string>etaypogegrammeni</string>
+		<string>etavariaypogegrammeni</string>
+		<string>etaoxiaypogegrammeni</string>
+		<string>etapsiliypogegrammeni</string>
+		<string>etadasiaypogegrammeni</string>
+		<string>etapsilivariaypogegrammeni</string>
+		<string>etadasiavariaypogegrammeni</string>
+		<string>etapsilioxiaypogegrammeni</string>
+		<string>etadasiaoxiaypogegrammeni</string>
+		<string>etapsiliperispomeniypogegrammeni</string>
+		<string>etadasiaperispomeniypogegrammeni</string>
+		<string>etaperispomeniypogegrammeni</string>
 	</array>
 	<key>@MMK_L_nu</key>
 	<array>
@@ -553,6 +736,64 @@
 		<string>upsilondieresistonos</string>
 		<string>omicrontonos</string>
 		<string>omegatonos</string>
+		<string>omicronpsili</string>
+		<string>omicrondasia</string>
+		<string>omicronpsilivaria</string>
+		<string>omicrondasiavaria</string>
+		<string>omicronpsilioxia</string>
+		<string>omicrondasiaoxia</string>
+		<string>omicronvaria</string>
+		<string>omicronoxia</string>
+		<string>rhopsili</string>
+		<string>rhodasia</string>
+		<string>upsilonpsili</string>
+		<string>upsilondasia</string>
+		<string>upsilonpsilivaria</string>
+		<string>upsilondasiavaria</string>
+		<string>upsilonpsilioxia</string>
+		<string>upsilondasiaoxia</string>
+		<string>upsilonpsiliperispomeni</string>
+		<string>upsilondasiaperispomeni</string>
+		<string>upsilonvaria</string>
+		<string>upsilonoxia</string>
+		<string>upsilonperispomeni</string>
+		<string>upsilonvrachy</string>
+		<string>upsilonmacron</string>
+		<string>upsilondialytikavaria</string>
+		<string>upsilondialytikaoxia</string>
+		<string>upsilondialytikaperispomeni</string>
+		<string>omegapsili</string>
+		<string>omegadasia</string>
+		<string>omegapsilivaria</string>
+		<string>omegadasiavaria</string>
+		<string>omegapsilioxia</string>
+		<string>omegadasiaoxia</string>
+		<string>omegapsiliperispomeni</string>
+		<string>omegadasiaperispomeni</string>
+		<string>omegavaria</string>
+		<string>omegaoxia</string>
+		<string>omegaperispomeni</string>
+		<string>omegaypogegrammeni</string>
+		<string>omegavariaypogegrammeni</string>
+		<string>omegaoxiaypogegrammeni</string>
+		<string>omegapsiliypogegrammeni</string>
+		<string>omegadasiaypogegrammeni</string>
+		<string>omegapsilivariaypogegrammeni</string>
+		<string>omegadasiavariaypogegrammeni</string>
+		<string>omegapsilioxiaypogegrammeni</string>
+		<string>omegadasiaoxiaypogegrammeni</string>
+		<string>omegapsiliperispomeniypogegrammeni</string>
+		<string>omegadasiaperispomeniypogegrammeni</string>
+		<string>omegaperispomeniypogegrammeni</string>
+	</array>
+	<key>@MMK_L_ord</key>
+	<array>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
+	</array>
+	<key>@MMK_L_parenleft</key>
+	<array>
+		<string>parenleft</string>
 	</array>
 	<key>@MMK_L_period</key>
 	<array>
@@ -589,6 +830,10 @@
 		<string>sdotaccent</string>
 		<string>sdotbelow</string>
 	</array>
+	<key>@MMK_L_slash</key>
+	<array>
+		<string>slash</string>
+	</array>
 	<key>@MMK_L_t</key>
 	<array>
 		<string>t</string>
@@ -604,16 +849,20 @@
 		<string>pi</string>
 		<string>tau</string>
 	</array>
+	<key>@MMK_L_tonosA</key>
+	<array>
+		<string>Alphapsiliprosgegrammeni</string>
+	</array>
 	<key>@MMK_L_v</key>
 	<array>
 		<string>v</string>
-	</array>
-	<key>@MMK_L_w</key>
-	<array>
 		<string>w</string>
 		<string>wacute</string>
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
+	</array>
+	<key>@MMK_L_w</key>
+	<array>
 		<string>wgrave</string>
 	</array>
 	<key>@MMK_L_x</key>
@@ -640,6 +889,74 @@
 	<key>@MMK_L_zeta</key>
 	<array>
 		<string>zeta</string>
+	</array>
+	<key>@MMK_R_2tonos</key>
+	<array>
+		<string>Epsilonpsilivaria</string>
+		<string>Epsilondasiavaria</string>
+		<string>Epsilonpsilioxia</string>
+		<string>Epsilondasiaoxia</string>
+		<string>Etapsilivaria</string>
+		<string>Etadasiavaria</string>
+		<string>Etapsilioxia</string>
+		<string>Etadasiaoxia</string>
+		<string>Etapsiliperispomeni</string>
+		<string>Etadasiaperispomeni</string>
+		<string>Etapsilivariaprosgegrammeni</string>
+		<string>Etadasiavariaprosgegrammeni</string>
+		<string>Etapsilioxiaprosgegrammeni</string>
+		<string>Etadasiaoxiaprosgegrammeni</string>
+		<string>Etapsiliperispomeniprosgegrammeni</string>
+		<string>Etadasiaperispomeniprosgegrammeni</string>
+		<string>Iotapsilivaria</string>
+		<string>Iotadasiavaria</string>
+		<string>Iotapsilioxia</string>
+		<string>Iotadasiaoxia</string>
+		<string>Iotapsiliperispomeni</string>
+		<string>Iotadasiaperispomeni</string>
+	</array>
+	<key>@MMK_R_2tonosA</key>
+	<array>
+		<string>Alphapsilivaria</string>
+		<string>Alphadasiavaria</string>
+		<string>Alphapsilioxia</string>
+		<string>Alphadasiaoxia</string>
+		<string>Alphapsiliperispomeni</string>
+		<string>Alphadasiaperispomeni</string>
+		<string>Alphapsilivariaprosgegrammeni</string>
+		<string>Alphadasiavariaprosgegrammeni</string>
+		<string>Alphapsilioxiaprosgegrammeni</string>
+		<string>Alphadasiaoxiaprosgegrammeni</string>
+		<string>Alphapsiliperispomeniprosgegrammeni</string>
+		<string>Alphadasiaperispomeniprosgegrammeni</string>
+	</array>
+	<key>@MMK_R_2tonosO</key>
+	<array>
+		<string>Omicronpsilivaria</string>
+		<string>Omicrondasiavaria</string>
+		<string>Omicronpsilioxia</string>
+		<string>Omicrondasiaoxia</string>
+	</array>
+	<key>@MMK_R_2tonosOmega</key>
+	<array>
+		<string>Omegapsilivaria</string>
+		<string>Omegadasiavaria</string>
+		<string>Omegapsilioxia</string>
+		<string>Omegadasiaoxia</string>
+		<string>Omegapsiliperispomeni</string>
+		<string>Omegadasiaperispomeni</string>
+		<string>Omegapsilivariaprosgegrammeni</string>
+		<string>Omegadasiavariaprosgegrammeni</string>
+		<string>Omegapsilioxiaprosgegrammeni</string>
+		<string>Omegadasiaoxiaprosgegrammeni</string>
+		<string>Omegapsiliperispomeniprosgegrammeni</string>
+		<string>Omegadasiaperispomeniprosgegrammeni</string>
+	</array>
+	<key>@MMK_R_2tonosY</key>
+	<array>
+		<string>Upsilondasiavaria</string>
+		<string>Upsilondasiaoxia</string>
+		<string>Upsilondasiaperispomeni</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>
@@ -669,7 +986,9 @@
 		<string>Alpha</string>
 		<string>Delta</string>
 		<string>Lambda</string>
-		<string>Alphatonos</string>
+		<string>Alphavrachy</string>
+		<string>Alphamacron</string>
+		<string>Alphaprosgegrammeni</string>
 		<string>lambda</string>
 	</array>
 	<key>@MMK_R_AE</key>
@@ -747,6 +1066,7 @@
 		<string>Ncommaaccent</string>
 		<string>Ndotaccent</string>
 		<string>Ndotbelow</string>
+		<string>Eng</string>
 		<string>Nlinebelow</string>
 		<string>Ntilde</string>
 		<string>P</string>
@@ -768,12 +1088,11 @@
 		<string>Nu</string>
 		<string>Pi</string>
 		<string>Rho</string>
-		<string>Omega</string>
-		<string>Epsilontonos</string>
-		<string>Etatonos</string>
-		<string>Iotatonos</string>
-		<string>Omegatonos</string>
 		<string>Iotadieresis</string>
+		<string>KaiSymbol</string>
+		<string>Etaprosgegrammeni</string>
+		<string>Iotavrachy</string>
+		<string>Iotamacron</string>
 	</array>
 	<key>@MMK_R_J</key>
 	<array>
@@ -824,8 +1143,12 @@
 		<string>Theta</string>
 		<string>Omicron</string>
 		<string>Phi</string>
-		<string>Omicrontonos</string>
 		<string>theta</string>
+	</array>
+	<key>@MMK_R_Omega</key>
+	<array>
+		<string>Omega</string>
+		<string>Omegaprosgegrammeni</string>
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
@@ -878,9 +1201,6 @@
 	<key>@MMK_R_V</key>
 	<array>
 		<string>V</string>
-	</array>
-	<key>@MMK_R_W</key>
-	<array>
 		<string>W</string>
 		<string>Wacute</string>
 		<string>Wcircumflex</string>
@@ -910,8 +1230,9 @@
 		<string>Ytilde</string>
 		<string>Upsilon</string>
 		<string>Psi</string>
-		<string>Upsilontonos</string>
 		<string>Upsilondieresis</string>
+		<string>Upsilonvrachy</string>
+		<string>Upsilonmacron</string>
 	</array>
 	<key>@MMK_R_Z</key>
 	<array>
@@ -949,13 +1270,41 @@
 		<string>atilde</string>
 		<string>ae</string>
 	</array>
+	<key>@MMK_R_backslash</key>
+	<array>
+		<string>backslash</string>
+	</array>
 	<key>@MMK_R_colon</key>
 	<array>
 		<string>colon</string>
 		<string>semicolon</string>
 	</array>
+	<key>@MMK_R_dieresis</key>
+	<array>
+		<string>idieresis</string>
+		<string>iotapsilivaria</string>
+		<string>iotadasiavaria</string>
+		<string>iotapsilioxia</string>
+		<string>iotadasiaoxia</string>
+		<string>iotadialytikavaria</string>
+		<string>iotadialytikaoxia</string>
+		<string>iotadialytikaperispomeni</string>
+	</array>
+	<key>@MMK_R_epsilon</key>
+	<array>
+		<string>epsilon</string>
+		<string>epsilonpsili</string>
+		<string>epsilondasia</string>
+		<string>epsilonpsilivaria</string>
+		<string>epsilondasiavaria</string>
+		<string>epsilonpsilioxia</string>
+		<string>epsilondasiaoxia</string>
+		<string>epsilonvaria</string>
+		<string>epsilonoxia</string>
+	</array>
 	<key>@MMK_R_f</key>
 	<array>
+		<string>f</string>
 		<string>fi</string>
 		<string>fl</string>
 	</array>
@@ -983,15 +1332,20 @@
 	<key>@MMK_R_hyphen</key>
 	<array>
 		<string>hyphen</string>
+		<string>softhyphen</string>
+		<string>endash</string>
+		<string>emdash</string>
+		<string>figuredash</string>
+		<string>horizontalbar</string>
+		<string>hyphentwo</string>
 	</array>
 	<key>@MMK_R_i</key>
 	<array>
 		<string>i</string>
-		<string>dotlessi</string>
+		<string>idotless</string>
 		<string>iacute</string>
 		<string>icaron</string>
 		<string>icircumflex</string>
-		<string>idieresis</string>
 		<string>idotbelow</string>
 		<string>igrave</string>
 		<string>ihookabove</string>
@@ -1004,6 +1358,15 @@
 		<string>iotatonos</string>
 		<string>iotadieresis</string>
 		<string>iotadieresistonos</string>
+		<string>kaiSymbol</string>
+		<string>iotapsili</string>
+		<string>iotadasia</string>
+		<string>iotapsiliperispomeni</string>
+		<string>iotadasiaperispomeni</string>
+		<string>iotavaria</string>
+		<string>iotaoxia</string>
+		<string>iotaperispomeni</string>
+		<string>iotavrachy</string>
 	</array>
 	<key>@MMK_R_j</key>
 	<array>
@@ -1024,6 +1387,7 @@
 		<string>ncommaaccent</string>
 		<string>ndotaccent</string>
 		<string>ndotbelow</string>
+		<string>eng</string>
 		<string>nlinebelow</string>
 		<string>ntilde</string>
 		<string>p</string>
@@ -1041,6 +1405,45 @@
 		<string>upsilondieresis</string>
 		<string>upsilondieresistonos</string>
 		<string>etatonos</string>
+		<string>etapsili</string>
+		<string>etadasia</string>
+		<string>etapsilivaria</string>
+		<string>etadasiavaria</string>
+		<string>etapsilioxia</string>
+		<string>etadasiaoxia</string>
+		<string>etapsiliperispomeni</string>
+		<string>etadasiaperispomeni</string>
+		<string>etavaria</string>
+		<string>etaoxia</string>
+		<string>etaperispomeni</string>
+		<string>etaypogegrammeni</string>
+		<string>etavariaypogegrammeni</string>
+		<string>etaoxiaypogegrammeni</string>
+		<string>etapsiliypogegrammeni</string>
+		<string>etadasiaypogegrammeni</string>
+		<string>etapsilivariaypogegrammeni</string>
+		<string>etadasiavariaypogegrammeni</string>
+		<string>etapsilioxiaypogegrammeni</string>
+		<string>etadasiaoxiaypogegrammeni</string>
+		<string>etapsiliperispomeniypogegrammeni</string>
+		<string>etadasiaperispomeniypogegrammeni</string>
+		<string>etaperispomeniypogegrammeni</string>
+		<string>upsilonpsili</string>
+		<string>upsilondasia</string>
+		<string>upsilonpsilivaria</string>
+		<string>upsilondasiavaria</string>
+		<string>upsilonpsilioxia</string>
+		<string>upsilondasiaoxia</string>
+		<string>upsilonpsiliperispomeni</string>
+		<string>upsilondasiaperispomeni</string>
+		<string>upsilonvaria</string>
+		<string>upsilonoxia</string>
+		<string>upsilonperispomeni</string>
+		<string>upsilonvrachy</string>
+		<string>upsilonmacron</string>
+		<string>upsilondialytikavaria</string>
+		<string>upsilondialytikaoxia</string>
+		<string>upsilondialytikaperispomeni</string>
 	</array>
 	<key>@MMK_R_nu</key>
 	<array>
@@ -1049,7 +1452,7 @@
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
-		<string>ascript</string>
+		<string>alpha-latin</string>
 		<string>c</string>
 		<string>cacute</string>
 		<string>ccaron</string>
@@ -1123,6 +1526,78 @@
 		<string>omicrontonos</string>
 		<string>omegatonos</string>
 		<string>alphatonos</string>
+		<string>alphapsili</string>
+		<string>alphadasia</string>
+		<string>alphapsilivaria</string>
+		<string>alphadasiavaria</string>
+		<string>alphapsilioxia</string>
+		<string>alphadasiaoxia</string>
+		<string>alphapsiliperispomeni</string>
+		<string>alphadasiaperispomeni</string>
+		<string>alphavaria</string>
+		<string>alphaoxia</string>
+		<string>alphaperispomeni</string>
+		<string>alphavrachy</string>
+		<string>alphamacron</string>
+		<string>alphaypogegrammeni</string>
+		<string>alphavariaypogegrammeni</string>
+		<string>alphaoxiaypogegrammeni</string>
+		<string>alphapsiliypogegrammeni</string>
+		<string>alphadasiaypogegrammeni</string>
+		<string>alphapsilivariaypogegrammeni</string>
+		<string>alphadasiavariaypogegrammeni</string>
+		<string>alphapsilioxiaypogegrammeni</string>
+		<string>alphadasiaoxiaypogegrammeni</string>
+		<string>alphapsiliperispomeniypogegrammeni</string>
+		<string>alphadasiaperispomeniypogegrammeni</string>
+		<string>alphaperispomeniypogegrammeni</string>
+		<string>omicronpsili</string>
+		<string>omicrondasia</string>
+		<string>omicronpsilivaria</string>
+		<string>omicrondasiavaria</string>
+		<string>omicronpsilioxia</string>
+		<string>omicrondasiaoxia</string>
+		<string>omicronvaria</string>
+		<string>omicronoxia</string>
+		<string>rhopsili</string>
+		<string>rhodasia</string>
+		<string>omegapsili</string>
+		<string>omegadasia</string>
+		<string>omegapsilivaria</string>
+		<string>omegadasiavaria</string>
+		<string>omegapsilioxia</string>
+		<string>omegadasiaoxia</string>
+		<string>omegapsiliperispomeni</string>
+		<string>omegadasiaperispomeni</string>
+		<string>omegavaria</string>
+		<string>omegaoxia</string>
+		<string>omegaperispomeni</string>
+		<string>omegaypogegrammeni</string>
+		<string>omegavariaypogegrammeni</string>
+		<string>omegaoxiaypogegrammeni</string>
+		<string>omegapsiliypogegrammeni</string>
+		<string>omegadasiaypogegrammeni</string>
+		<string>omegapsilivariaypogegrammeni</string>
+		<string>omegadasiavariaypogegrammeni</string>
+		<string>omegapsilioxiaypogegrammeni</string>
+		<string>omegadasiaoxiaypogegrammeni</string>
+		<string>omegapsiliperispomeniypogegrammeni</string>
+		<string>omegadasiaperispomeniypogegrammeni</string>
+		<string>omegaperispomeniypogegrammeni</string>
+		<string>ampersand</string>
+	</array>
+	<key>@MMK_R_ord</key>
+	<array>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
+	</array>
+	<key>@MMK_R_parenleft</key>
+	<array>
+		<string>parenleft</string>
+	</array>
+	<key>@MMK_R_parenright</key>
+	<array>
+		<string>parenright</string>
 	</array>
 	<key>@MMK_R_period</key>
 	<array>
@@ -1149,6 +1624,10 @@
 		<string>sdotaccent</string>
 		<string>sdotbelow</string>
 	</array>
+	<key>@MMK_R_slash</key>
+	<array>
+		<string>slash</string>
+	</array>
 	<key>@MMK_R_t</key>
 	<array>
 		<string>t</string>
@@ -1162,6 +1641,62 @@
 	<key>@MMK_R_tau</key>
 	<array>
 		<string>tau</string>
+	</array>
+	<key>@MMK_R_tonos</key>
+	<array>
+		<string>Epsilontonos</string>
+		<string>Etatonos</string>
+		<string>Iotatonos</string>
+		<string>Epsilonpsili</string>
+		<string>Epsilondasia</string>
+		<string>Epsilonvaria</string>
+		<string>Epsilonoxia</string>
+		<string>Etapsili</string>
+		<string>Etadasia</string>
+		<string>Etavaria</string>
+		<string>Etaoxia</string>
+		<string>Etapsiliprosgegrammeni</string>
+		<string>Etadasiaprosgegrammeni</string>
+		<string>Iotapsili</string>
+		<string>Iotadasia</string>
+		<string>Iotavaria</string>
+		<string>Iotaoxia</string>
+		<string>Rhodasia</string>
+		<string>Upsilondasia</string>
+	</array>
+	<key>@MMK_R_tonosA</key>
+	<array>
+		<string>Alphatonos</string>
+		<string>Alphapsili</string>
+		<string>Alphadasia</string>
+		<string>Alphavaria</string>
+		<string>Alphaoxia</string>
+		<string>Alphapsiliprosgegrammeni</string>
+		<string>Alphadasiaprosgegrammeni</string>
+	</array>
+	<key>@MMK_R_tonosO</key>
+	<array>
+		<string>Omicrontonos</string>
+		<string>Omicronpsili</string>
+		<string>Omicrondasia</string>
+		<string>Omicronvaria</string>
+		<string>Omicronoxia</string>
+	</array>
+	<key>@MMK_R_tonosOmega</key>
+	<array>
+		<string>Omegatonos</string>
+		<string>Omegapsili</string>
+		<string>Omegadasia</string>
+		<string>Omegavaria</string>
+		<string>Omegaoxia</string>
+		<string>Omegapsiliprosgegrammeni</string>
+		<string>Omegadasiaprosgegrammeni</string>
+	</array>
+	<key>@MMK_R_tonosY</key>
+	<array>
+		<string>Upsilontonos</string>
+		<string>Upsilonvaria</string>
+		<string>Upsilonoxia</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
@@ -1194,21 +1729,21 @@
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
 		<string>ydotaccent</string>
-		<string>ydotbelow</string>
 		<string>ygrave</string>
 		<string>yhookabove</string>
 		<string>ytilde</string>
+		<string>ydaotbelow</string>
 	</array>
 	<key>@MMK_R_v</key>
 	<array>
 		<string>v</string>
-	</array>
-	<key>@MMK_R_w</key>
-	<array>
 		<string>w</string>
 		<string>wacute</string>
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
+	</array>
+	<key>@MMK_R_w</key>
+	<array>
 		<string>wgrave</string>
 	</array>
 	<key>@MMK_R_x</key>

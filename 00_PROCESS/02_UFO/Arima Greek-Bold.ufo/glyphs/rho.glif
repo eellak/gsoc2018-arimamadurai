@@ -41,11 +41,14 @@
       <point x="48" y="-140"/>
       <point x="48" y="-224"/>
     </contour>
+    <contour>
+      <point x="286" y="520" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-06 12:17:09 +0000</string>
+      <string>2018-08-12 12:59:54 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>omicron</string>
     </dict>

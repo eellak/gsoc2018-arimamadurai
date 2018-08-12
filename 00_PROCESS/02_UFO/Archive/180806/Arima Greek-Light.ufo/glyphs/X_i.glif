@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="1">
+  <advance width="523"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="64" y="0" type="curve"/>
+      <point x="460" y="0" type="line" smooth="yes"/>
+      <point x="477" y="0"/>
+      <point x="471" y="23"/>
+      <point x="460" y="26" type="curve"/>
+      <point x="433" y="26"/>
+      <point x="346" y="26"/>
+      <point x="259" y="26" type="curve"/>
+      <point x="174" y="26"/>
+      <point x="90" y="26"/>
+      <point x="64" y="26" type="curve"/>
+      <point x="53" y="23"/>
+      <point x="47" y="0"/>
+    </contour>
+    <contour>
+      <point x="131" y="354" type="curve"/>
+      <point x="411" y="354" type="line"/>
+      <point x="414" y="363"/>
+      <point x="414" y="371"/>
+      <point x="411" y="380" type="curve"/>
+      <point x="131" y="380" type="line"/>
+      <point x="127" y="371"/>
+      <point x="127" y="363"/>
+    </contour>
+    <contour>
+      <point x="61" y="662" type="curve"/>
+      <point x="90" y="662"/>
+      <point x="174" y="662"/>
+      <point x="277" y="662" type="curve"/>
+      <point x="346" y="662"/>
+      <point x="433" y="662"/>
+      <point x="460" y="662" type="curve"/>
+      <point x="471" y="665"/>
+      <point x="477" y="688"/>
+      <point x="463" y="688" type="curve"/>
+      <point x="61" y="688" type="line" smooth="yes"/>
+      <point x="47" y="688"/>
+      <point x="55" y="668"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-06 08:35:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

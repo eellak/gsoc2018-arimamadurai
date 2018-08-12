@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twoinferior" format="1">
+  <advance width="380"/>
+  <unicode hex="2082"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="curve"/>
+      <point x="346" y="0" type="line"/>
+      <point x="353" y="3"/>
+      <point x="353" y="20"/>
+      <point x="347" y="24" type="curve"/>
+      <point x="261" y="22"/>
+      <point x="167" y="20"/>
+      <point x="79" y="19" type="curve"/>
+      <point x="197" y="104"/>
+      <point x="322" y="207"/>
+      <point x="322" y="328" type="curve"/>
+      <point x="322" y="420"/>
+      <point x="255" y="457"/>
+      <point x="188" y="457" type="curve"/>
+      <point x="109" y="457"/>
+      <point x="66" y="404"/>
+      <point x="66" y="374" type="curve"/>
+      <point x="66" y="362"/>
+      <point x="74" y="355"/>
+      <point x="85" y="355" type="curve"/>
+      <point x="88" y="379"/>
+      <point x="112" y="436"/>
+      <point x="186" y="436" type="curve"/>
+      <point x="259" y="436"/>
+      <point x="295" y="385"/>
+      <point x="295" y="325" type="curve"/>
+      <point x="295" y="219"/>
+      <point x="184" y="125"/>
+      <point x="53" y="22" type="curve"/>
+      <point x="53" y="13"/>
+      <point x="53" y="4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>two</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>two</string>
+    </dict>
+  </lib>
+</glyph>

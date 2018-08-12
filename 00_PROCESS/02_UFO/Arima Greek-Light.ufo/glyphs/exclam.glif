@@ -4,19 +4,19 @@
   <unicode hex="0021"/>
   <outline>
     <contour>
+      <point x="115" y="718" type="curve"/>
       <point x="119" y="163" type="line"/>
-      <point x="115" y="718" type="line"/>
-      <point x="127" y="721"/>
-      <point x="141" y="721"/>
-      <point x="153" y="718" type="curve"/>
       <point x="149" y="163" type="line"/>
+      <point x="153" y="718" type="line"/>
+      <point x="141" y="721"/>
+      <point x="127" y="721"/>
     </contour>
     <component base="period" xOffset="20"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

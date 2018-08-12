@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphaoxia" format="1">
+  <advance width="628"/>
+  <unicode hex="1FBB"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="oxia.case" xOffset="-31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>tonos.case</string>
+    </dict>
+  </lib>
+</glyph>

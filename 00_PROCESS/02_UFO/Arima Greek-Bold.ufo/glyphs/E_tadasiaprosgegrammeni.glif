@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etadasiaprosgegrammeni" format="1">
+  <advance width="810"/>
+  <unicode hex="1F99"/>
+  <outline>
+    <component base="Eta" xOffset="109"/>
+    <component base="dasia.case" yOffset="2"/>
+    <component base="prosgegrammeni" xOffset="337"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Eta</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>tonos.case</string>
+    </dict>
+  </lib>
+</glyph>

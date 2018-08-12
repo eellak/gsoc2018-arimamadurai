@@ -63,9 +63,9 @@
 		<integer>733</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Arima-Greek-Bold</string>
+	<string>ArimaGreekBold</string>
 	<key>postscriptFullName</key>
-	<string>Bold</string>
+	<string>Arima Greek Bold</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-224</integer>

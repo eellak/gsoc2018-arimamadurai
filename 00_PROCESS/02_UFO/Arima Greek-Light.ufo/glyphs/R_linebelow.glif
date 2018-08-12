@@ -4,12 +4,12 @@
   <unicode hex="1E5E"/>
   <outline>
     <component base="R"/>
-    <component base="macronbelowcomb.cap" xOffset="-7"/>
+    <component base="macronbelowcomb.case" xOffset="-7"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

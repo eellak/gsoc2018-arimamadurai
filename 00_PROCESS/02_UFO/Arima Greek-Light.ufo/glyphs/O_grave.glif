@@ -4,7 +4,7 @@
   <unicode hex="00D2"/>
   <outline>
     <component base="O"/>
-    <component base="gravecomb.cap" xOffset="14" yOffset="188"/>
+    <component base="gravecomb.case" xOffset="14" yOffset="188"/>
   </outline>
   <lib>
     <dict>
@@ -16,11 +16,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>gravecomb.cap</string>
+          <string>gravecomb.case</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

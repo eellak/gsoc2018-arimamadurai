@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="leftArrow" format="1">
-  <advance width="647"/>
+  <advance width="876"/>
   <unicode hex="2190"/>
   <outline>
     <contour>
@@ -60,7 +60,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

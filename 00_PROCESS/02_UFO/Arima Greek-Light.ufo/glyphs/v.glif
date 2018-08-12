@@ -26,7 +26,7 @@
       <point x="407" y="463" type="curve"/>
       <point x="231" y="6" type="line"/>
       <point x="241" y="6" type="line"/>
-      <point x="55" y="486" type="line" smooth="yes"/>
+      <point x="55" y="486" type="line"/>
       <point x="52" y="495"/>
       <point x="44" y="500"/>
       <point x="35" y="500" type="curve"/>
@@ -50,7 +50,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-06 08:55:27 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

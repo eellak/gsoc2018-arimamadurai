@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sixsuperior" format="1">
+  <advance width="464"/>
+  <unicode hex="2076"/>
+  <outline>
+    <contour>
+      <point x="241" y="223" type="curve"/>
+      <point x="375" y="223"/>
+      <point x="433" y="291"/>
+      <point x="433" y="376" type="curve"/>
+      <point x="433" y="475"/>
+      <point x="358" y="523"/>
+      <point x="277" y="523" type="curve"/>
+      <point x="179" y="523"/>
+      <point x="149" y="452"/>
+      <point x="133" y="397" type="curve"/>
+      <point x="168" y="370" type="line"/>
+      <point x="174" y="450"/>
+      <point x="211" y="471"/>
+      <point x="252" y="471" type="curve"/>
+      <point x="299" y="471"/>
+      <point x="310" y="439"/>
+      <point x="310" y="381" type="curve"/>
+      <point x="310" y="317"/>
+      <point x="298" y="261"/>
+      <point x="247" y="261" type="curve"/>
+      <point x="183" y="261"/>
+      <point x="178" y="352"/>
+      <point x="178" y="447" type="curve"/>
+      <point x="178" y="586"/>
+      <point x="188" y="667"/>
+      <point x="268" y="667" type="curve"/>
+      <point x="299" y="667"/>
+      <point x="329" y="643"/>
+      <point x="363" y="580" type="curve"/>
+      <point x="372" y="584"/>
+      <point x="404" y="616"/>
+      <point x="404" y="648" type="curve"/>
+      <point x="404" y="699"/>
+      <point x="334" y="712"/>
+      <point x="275" y="712" type="curve"/>
+      <point x="115" y="712"/>
+      <point x="54" y="610"/>
+      <point x="54" y="453" type="curve"/>
+      <point x="54" y="261"/>
+      <point x="137" y="223"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>six</string>
+    </dict>
+  </lib>
+</glyph>

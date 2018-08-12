@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotamacron" format="1">
+  <advance width="301"/>
+  <unicode hex="1FD1"/>
+  <outline>
+    <component base="iota"/>
+    <component base="macroncomb" xScale="0.689" xOffset="-53" yOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 13:13:46 +0000</string>
+    </dict>
+  </lib>
+</glyph>

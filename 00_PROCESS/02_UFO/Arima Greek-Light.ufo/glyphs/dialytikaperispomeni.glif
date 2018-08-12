@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dialytikaperispomeni" format="1">
+  <advance width="346"/>
+  <unicode hex="1FC1"/>
+  <outline>
+    <contour>
+      <point x="110" y="587" type="curve"/>
+      <point x="130" y="587"/>
+      <point x="140" y="604"/>
+      <point x="140" y="623" type="curve"/>
+      <point x="140" y="642"/>
+      <point x="130" y="659"/>
+      <point x="110" y="659" type="curve"/>
+      <point x="90" y="659"/>
+      <point x="79" y="642"/>
+      <point x="79" y="623" type="curve"/>
+      <point x="79" y="604"/>
+      <point x="90" y="587"/>
+    </contour>
+    <contour>
+      <point x="250" y="587" type="curve"/>
+      <point x="270" y="587"/>
+      <point x="280" y="604"/>
+      <point x="280" y="623" type="curve"/>
+      <point x="280" y="642"/>
+      <point x="270" y="659"/>
+      <point x="250" y="659" type="curve"/>
+      <point x="230" y="659"/>
+      <point x="219" y="642"/>
+      <point x="219" y="623" type="curve"/>
+      <point x="219" y="604"/>
+      <point x="230" y="587"/>
+    </contour>
+    <component base="perispomeni" xOffset="2" yOffset="111"/>
+    <contour>
+      <point x="184" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 13:10:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

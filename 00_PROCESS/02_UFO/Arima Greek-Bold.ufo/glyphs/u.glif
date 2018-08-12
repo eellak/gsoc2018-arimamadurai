@@ -4,6 +4,30 @@
   <unicode hex="0075"/>
   <outline>
     <contour>
+      <point x="223" y="-15" type="curve"/>
+      <point x="333" y="-15"/>
+      <point x="387" y="56"/>
+      <point x="403" y="176" type="curve"/>
+      <point x="386" y="146" type="line"/>
+      <point x="386" y="115" type="line" smooth="yes"/>
+      <point x="386" y="28"/>
+      <point x="426" y="-14"/>
+      <point x="489" y="-14" type="curve"/>
+      <point x="542" y="-14"/>
+      <point x="571" y="15"/>
+      <point x="571" y="57" type="curve"/>
+      <point x="571" y="72"/>
+      <point x="567" y="85"/>
+      <point x="558" y="99" type="curve"/>
+      <point x="551" y="90"/>
+      <point x="539" y="88"/>
+      <point x="532" y="88" type="curve"/>
+      <point x="515" y="88"/>
+      <point x="506" y="102"/>
+      <point x="506" y="140" type="curve"/>
+      <point x="505" y="453" type="line"/>
+      <point x="505" y="502"/>
+      <point x="470" y="531"/>
       <point x="426" y="531" type="curve"/>
       <point x="387" y="531"/>
       <point x="359" y="512"/>
@@ -30,30 +54,6 @@
       <point x="65" y="186" type="line" smooth="yes"/>
       <point x="65" y="40"/>
       <point x="116" y="-15"/>
-      <point x="223" y="-15" type="curve"/>
-      <point x="333" y="-15"/>
-      <point x="387" y="56"/>
-      <point x="403" y="176" type="curve"/>
-      <point x="386" y="146" type="line"/>
-      <point x="386" y="115" type="line" smooth="yes"/>
-      <point x="386" y="28"/>
-      <point x="426" y="-14"/>
-      <point x="489" y="-14" type="curve"/>
-      <point x="542" y="-14"/>
-      <point x="571" y="15"/>
-      <point x="571" y="57" type="curve"/>
-      <point x="571" y="72"/>
-      <point x="567" y="85"/>
-      <point x="558" y="99" type="curve"/>
-      <point x="551" y="90"/>
-      <point x="539" y="88"/>
-      <point x="532" y="88" type="curve"/>
-      <point x="515" y="88"/>
-      <point x="506" y="102"/>
-      <point x="506" y="140" type="curve"/>
-      <point x="505" y="453" type="line" smooth="yes"/>
-      <point x="505" y="502"/>
-      <point x="470" y="531"/>
     </contour>
     <contour>
       <point x="294" y="0" type="move" name="bottom"/>
@@ -71,7 +71,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

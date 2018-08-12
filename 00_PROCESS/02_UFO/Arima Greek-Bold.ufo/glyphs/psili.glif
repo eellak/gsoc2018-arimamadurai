@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psili" format="1">
+  <advance width="204"/>
+  <unicode hex="1FBF"/>
+  <outline>
+    <contour>
+      <point x="71" y="566" type="curve"/>
+      <point x="122" y="597"/>
+      <point x="145" y="651"/>
+      <point x="145" y="689" type="curve"/>
+      <point x="145" y="738"/>
+      <point x="117" y="764"/>
+      <point x="80" y="764" type="curve"/>
+      <point x="33" y="764"/>
+      <point x="10" y="728"/>
+      <point x="10" y="693" type="curve"/>
+      <point x="33" y="686"/>
+      <point x="58" y="677"/>
+      <point x="58" y="647" type="curve"/>
+      <point x="58" y="622"/>
+      <point x="40" y="605"/>
+      <point x="35" y="598" type="curve"/>
+      <point x="44" y="580"/>
+      <point x="56" y="570"/>
+    </contour>
+    <contour>
+      <point x="78" y="520" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="97" y="720" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 13:58:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,8 +2,8 @@
 <glyph name="circumflexcomb_acutecomb" format="1">
   <advance width="600"/>
   <outline>
-    <component base="circumflexcomb.cap"/>
-    <component base="acutecomb.cap" xOffset="212" yOffset="46"/>
+    <component base="circumflexcomb.case"/>
+    <component base="acutecomb.case" xOffset="212" yOffset="46"/>
   </outline>
   <lib>
     <dict>
@@ -15,11 +15,11 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>acutecomb.cap</string>
+          <string>acutecomb.case</string>
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

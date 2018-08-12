@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="psilioxia.case" format="1">
+  <advance width="370"/>
+  <outline>
+    <component base="psili.case" xOffset="36" yOffset="3"/>
+    <component base="oxia.case" xOffset="136"/>
+    <contour>
+      <point x="316" y="698" type="move" name="_topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>oxia.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="prosgegrammeni" format="1">
+  <advance width="283"/>
+  <unicode hex="1FBE"/>
+  <outline>
+    <contour>
+      <point x="155" y="-224" type="curve"/>
+      <point x="193" y="-224"/>
+      <point x="222" y="-208"/>
+      <point x="222" y="-174" type="curve"/>
+      <point x="222" y="-161"/>
+      <point x="219" y="-152"/>
+      <point x="213" y="-145" type="curve"/>
+      <point x="207" y="-152"/>
+      <point x="198" y="-154"/>
+      <point x="190" y="-154" type="curve"/>
+      <point x="170" y="-154"/>
+      <point x="164" y="-139"/>
+      <point x="167" y="-122" type="curve"/>
+      <point x="170" y="-103" type="line" smooth="yes"/>
+      <point x="175" y="-71"/>
+      <point x="163" y="-45"/>
+      <point x="125" y="-45" type="curve"/>
+      <point x="101" y="-45"/>
+      <point x="82" y="-54"/>
+      <point x="70" y="-68" type="curve"/>
+      <point x="74" y="-92"/>
+      <point x="75" y="-108"/>
+      <point x="75" y="-141" type="curve"/>
+      <point x="75" y="-189"/>
+      <point x="100" y="-224"/>
+    </contour>
+    <contour>
+      <point x="123" y="0" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

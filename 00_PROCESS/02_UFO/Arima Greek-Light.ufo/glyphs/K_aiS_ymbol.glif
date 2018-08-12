@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="KaiSymbol" format="1">
+  <advance width="554"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <contour>
+      <point x="536" y="23" type="curve"/>
+      <point x="507" y="14" type="line"/>
+      <point x="507" y="-107"/>
+      <point x="392" y="-202"/>
+      <point x="233" y="-202" type="curve"/>
+      <point x="163" y="-202"/>
+      <point x="88" y="-188"/>
+      <point x="63" y="-113" type="curve"/>
+      <point x="52" y="-117"/>
+      <point x="49" y="-125"/>
+      <point x="49" y="-131" type="curve"/>
+      <point x="49" y="-184"/>
+      <point x="113" y="-230"/>
+      <point x="231" y="-230" type="curve"/>
+      <point x="418" y="-230"/>
+      <point x="536" y="-124"/>
+    </contour>
+    <component base="Kappa"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

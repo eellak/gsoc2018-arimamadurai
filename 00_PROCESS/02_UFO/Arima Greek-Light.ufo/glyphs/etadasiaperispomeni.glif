@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etadasiaperispomeni" format="1">
+  <advance width="578"/>
+  <unicode hex="1F27"/>
+  <outline>
+    <component base="eta"/>
+    <component base="dasiaperispomeni" xOffset="154"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

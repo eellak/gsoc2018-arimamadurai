@@ -2,14 +2,15 @@
 <glyph name="Ydotbelow" format="1">
   <advance width="512"/>
   <unicode hex="1EF4"/>
+  <unicode hex="1EF5"/>
   <outline>
     <component base="Y"/>
-    <component base="dotbelowcomb.cap" xOffset="-43"/>
+    <component base="dotbelowcomb.case" xOffset="-43"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

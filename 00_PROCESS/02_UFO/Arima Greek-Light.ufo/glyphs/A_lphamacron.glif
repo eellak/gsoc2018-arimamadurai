@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Alphamacron" format="1">
+  <advance width="562"/>
+  <unicode hex="1FB9"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="macroncomb.case" xOffset="-20" yOffset="188"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

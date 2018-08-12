@@ -2,7 +2,7 @@
 <glyph name="circumflexcomb_hookabovecomb" format="1">
   <advance width="600"/>
   <outline>
-    <component base="circumflexcomb.cap"/>
+    <component base="circumflexcomb.case"/>
     <component base="hookabovecomb" xOffset="231" yOffset="62"/>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

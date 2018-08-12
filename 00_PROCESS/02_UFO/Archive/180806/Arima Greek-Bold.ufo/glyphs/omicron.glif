@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omicron" format="1">
+  <advance width="572"/>
+  <unicode hex="03BF"/>
+  <outline>
+    <contour>
+      <point x="286" y="-14" type="curve"/>
+      <point x="442" y="-14"/>
+      <point x="533" y="87"/>
+      <point x="533" y="258" type="curve"/>
+      <point x="533" y="430"/>
+      <point x="431" y="531"/>
+      <point x="292" y="531" type="curve"/>
+      <point x="141" y="531"/>
+      <point x="39" y="430"/>
+      <point x="39" y="258" type="curve"/>
+      <point x="39" y="87"/>
+      <point x="130" y="-14"/>
+    </contour>
+    <contour>
+      <point x="286" y="32" type="curve"/>
+      <point x="234" y="32"/>
+      <point x="186" y="108"/>
+      <point x="186" y="258" type="curve"/>
+      <point x="186" y="409"/>
+      <point x="229" y="485"/>
+      <point x="286" y="485" type="curve"/>
+      <point x="343" y="485"/>
+      <point x="385" y="409"/>
+      <point x="385" y="258" type="curve"/>
+      <point x="385" y="108"/>
+      <point x="338" y="32"/>
+    </contour>
+    <contour>
+      <point x="278" y="520" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-06 08:42:58 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

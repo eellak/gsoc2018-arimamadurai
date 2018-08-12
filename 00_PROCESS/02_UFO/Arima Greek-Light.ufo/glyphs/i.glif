@@ -4,6 +4,28 @@
   <unicode hex="0069"/>
   <outline>
     <contour>
+      <point x="127" y="-8" type="curve"/>
+      <point x="136" y="-8"/>
+      <point x="141" y="-4"/>
+      <point x="145" y="0" type="curve"/>
+      <point x="141" y="16"/>
+      <point x="139" y="47"/>
+      <point x="139" y="87" type="curve"/>
+      <point x="137" y="490" type="line"/>
+      <point x="137" y="504"/>
+      <point x="131" y="512"/>
+      <point x="120" y="512" type="curve"/>
+      <point x="111" y="512"/>
+      <point x="106" y="508"/>
+      <point x="102" y="504" type="curve"/>
+      <point x="106" y="488"/>
+      <point x="108" y="457"/>
+      <point x="108" y="417" type="curve"/>
+      <point x="110" y="14" type="line" smooth="yes"/>
+      <point x="110" y="0"/>
+      <point x="116" y="-8"/>
+    </contour>
+    <contour>
       <point x="120" y="620" type="curve"/>
       <point x="138" y="620"/>
       <point x="154" y="636"/>
@@ -18,35 +40,13 @@
       <point x="102" y="620"/>
     </contour>
     <contour>
-      <point x="139" y="87" type="curve"/>
-      <point x="137" y="490" type="line" smooth="yes"/>
-      <point x="137" y="504"/>
-      <point x="131" y="512"/>
-      <point x="120" y="512" type="curve"/>
-      <point x="111" y="512"/>
-      <point x="106" y="508"/>
-      <point x="102" y="504" type="curve"/>
-      <point x="106" y="488"/>
-      <point x="108" y="457"/>
-      <point x="108" y="417" type="curve"/>
-      <point x="110" y="14" type="line" smooth="yes"/>
-      <point x="110" y="0"/>
-      <point x="116" y="-8"/>
-      <point x="127" y="-8" type="curve"/>
-      <point x="136" y="-8"/>
-      <point x="141" y="-4"/>
-      <point x="145" y="0" type="curve"/>
-      <point x="141" y="16"/>
-      <point x="139" y="47"/>
-    </contour>
-    <contour>
       <point x="124" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -4,16 +4,6 @@
   <unicode hex="039B"/>
   <outline>
     <contour>
-      <point x="337" y="713" type="curve"/>
-      <point x="314" y="713"/>
-      <point x="281" y="708"/>
-      <point x="244" y="694" type="curve"/>
-      <point x="34" y="114" type="line" smooth="yes"/>
-      <point x="24" y="86"/>
-      <point x="20" y="61"/>
-      <point x="20" y="43" type="curve"/>
-      <point x="20" y="3"/>
-      <point x="43" y="-14"/>
       <point x="98" y="-14" type="curve"/>
       <point x="133" y="-14"/>
       <point x="153" y="-8"/>
@@ -39,12 +29,22 @@
       <point x="423" y="675" type="line" smooth="yes"/>
       <point x="414" y="702"/>
       <point x="386" y="713"/>
+      <point x="337" y="713" type="curve"/>
+      <point x="314" y="713"/>
+      <point x="281" y="708"/>
+      <point x="244" y="694" type="curve"/>
+      <point x="34" y="114" type="line" smooth="yes"/>
+      <point x="24" y="86"/>
+      <point x="20" y="61"/>
+      <point x="20" y="43" type="curve"/>
+      <point x="20" y="3"/>
+      <point x="43" y="-14"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-06 08:40:16 +0000</string>
+      <string>2018-08-12 12:59:54 +0000</string>
     </dict>
   </lib>
 </glyph>

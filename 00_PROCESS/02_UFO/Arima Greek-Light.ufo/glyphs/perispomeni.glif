@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perispomeni" format="1">
+  <advance width="346"/>
+  <unicode hex="1FC0"/>
+  <outline>
+    <contour>
+      <point x="221" y="585" type="curve"/>
+      <point x="251" y="585"/>
+      <point x="276" y="609"/>
+      <point x="286" y="640" type="curve"/>
+      <point x="282" y="645"/>
+      <point x="274" y="651"/>
+      <point x="265" y="651" type="curve"/>
+      <point x="256" y="631"/>
+      <point x="246" y="616"/>
+      <point x="221" y="616" type="curve"/>
+      <point x="186" y="616"/>
+      <point x="170" y="654"/>
+      <point x="127" y="654" type="curve"/>
+      <point x="99" y="654"/>
+      <point x="71" y="635"/>
+      <point x="60" y="599" type="curve"/>
+      <point x="63" y="593"/>
+      <point x="74" y="589"/>
+      <point x="81" y="589" type="curve"/>
+      <point x="88" y="611"/>
+      <point x="109" y="623"/>
+      <point x="127" y="623" type="curve"/>
+      <point x="161" y="623"/>
+      <point x="181" y="585"/>
+    </contour>
+    <contour>
+      <point x="170" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 13:13:05 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

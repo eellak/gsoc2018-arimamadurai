@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dialytikavaria" format="1">
+  <advance width="321"/>
+  <unicode hex="1FED"/>
+  <outline>
+    <contour>
+      <point x="118" y="743" type="curve"/>
+      <point x="155" y="589" type="line"/>
+      <point x="161" y="588"/>
+      <point x="176" y="589"/>
+      <point x="178" y="594" type="curve"/>
+      <point x="158" y="752" type="line"/>
+      <point x="141" y="752"/>
+      <point x="130" y="750"/>
+    </contour>
+    <contour>
+      <point x="81" y="587" type="curve"/>
+      <point x="101" y="587"/>
+      <point x="111" y="604"/>
+      <point x="111" y="623" type="curve"/>
+      <point x="111" y="642"/>
+      <point x="101" y="659"/>
+      <point x="81" y="659" type="curve"/>
+      <point x="61" y="659"/>
+      <point x="50" y="642"/>
+      <point x="50" y="623" type="curve"/>
+      <point x="50" y="604"/>
+      <point x="61" y="587"/>
+    </contour>
+    <contour>
+      <point x="241" y="587" type="curve"/>
+      <point x="261" y="587"/>
+      <point x="271" y="604"/>
+      <point x="271" y="623" type="curve"/>
+      <point x="271" y="642"/>
+      <point x="261" y="659"/>
+      <point x="241" y="659" type="curve"/>
+      <point x="221" y="659"/>
+      <point x="210" y="642"/>
+      <point x="210" y="623" type="curve"/>
+      <point x="210" y="604"/>
+      <point x="221" y="587"/>
+    </contour>
+    <contour>
+      <point x="163" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 13:13:21 +0000</string>
+    </dict>
+  </lib>
+</glyph>

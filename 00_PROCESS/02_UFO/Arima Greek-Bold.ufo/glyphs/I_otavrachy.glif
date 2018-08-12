@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iotavrachy" format="1">
+  <advance width="306"/>
+  <unicode hex="1FD8"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="brevecomb.case" xOffset="-153" yOffset="182"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

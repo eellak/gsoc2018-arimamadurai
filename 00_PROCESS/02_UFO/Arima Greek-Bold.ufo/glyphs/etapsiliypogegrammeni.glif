@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="etapsiliypogegrammeni" format="1">
+  <advance width="590"/>
+  <unicode hex="1F90"/>
+  <outline>
+    <component base="eta"/>
+    <component base="psili" xOffset="253"/>
+    <component base="ypogegrammeni" xOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 14:04:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilontonos" format="1">
+  <advance width="612"/>
+  <unicode hex="03CD"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="tonos" xOffset="249"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-06 09:02:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -45,20 +45,20 @@
       <point x="338" y="60"/>
     </contour>
     <contour>
-      <point x="445" y="727" type="curve"/>
-      <point x="211" y="586" type="line"/>
-      <point x="213" y="567"/>
-      <point x="221" y="553"/>
       <point x="238" y="543" type="curve"/>
       <point x="472" y="683" type="line"/>
       <point x="471" y="704"/>
       <point x="462" y="719"/>
+      <point x="445" y="727" type="curve"/>
+      <point x="211" y="586" type="line"/>
+      <point x="213" y="567"/>
+      <point x="221" y="553"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

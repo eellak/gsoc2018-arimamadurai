@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="1">
-  <advance width="142"/>
+  <advance width="132"/>
   <outline>
-    <component base="tonos" xOffset="-28" yOffset="-58"/>
+    <component base="tonos" xOffset="-38" yOffset="-58"/>
     <contour>
-      <point x="165" y="698" type="move" name="_topleft"/>
+      <point x="132" y="698" type="move" name="_topleft"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-06 08:28:15 +0000</string>
+      <string>2018-08-12 12:59:54 +0000</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

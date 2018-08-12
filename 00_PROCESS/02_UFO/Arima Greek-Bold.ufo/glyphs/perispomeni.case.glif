@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perispomeni.case" format="1">
+  <advance width="401"/>
+  <outline>
+    <component base="perispomeni" yOffset="7"/>
+    <contour>
+      <point x="350" y="710" type="move" name="_topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

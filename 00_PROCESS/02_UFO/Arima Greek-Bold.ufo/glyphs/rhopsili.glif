@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rhopsili" format="1">
+  <advance width="567"/>
+  <unicode hex="1FE4"/>
+  <outline>
+    <component base="rho"/>
+    <component base="psili" xOffset="208"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 14:04:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

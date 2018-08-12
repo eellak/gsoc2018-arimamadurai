@@ -3,7 +3,7 @@
   <advance width="599"/>
   <outline>
     <component base="G"/>
-    <component base="tildecomb" xOffset="26" yOffset="188"/>
+    <component base="tildecomb" xOffset="136" yOffset="188"/>
     <contour>
       <point x="300" y="0" type="move" name="bottom"/>
     </contour>
@@ -14,7 +14,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

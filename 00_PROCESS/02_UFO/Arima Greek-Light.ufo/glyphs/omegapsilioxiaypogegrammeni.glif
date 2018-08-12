@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omegapsilioxiaypogegrammeni" format="1">
+  <advance width="809"/>
+  <unicode hex="1FA4"/>
+  <outline>
+    <component base="omega"/>
+    <component base="psilioxia" xOffset="311"/>
+    <component base="ypogegrammeni" xOffset="289"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

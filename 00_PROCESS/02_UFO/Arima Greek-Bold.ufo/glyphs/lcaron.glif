@@ -4,23 +4,23 @@
   <unicode hex="013E"/>
   <outline>
     <contour>
-      <point x="259" y="758" type="curve"/>
-      <point x="297" y="770"/>
-      <point x="348" y="770"/>
-      <point x="382" y="758" type="curve"/>
-      <point x="382" y="691"/>
+      <point x="277" y="569" type="curve"/>
+      <point x="335" y="569" type="line"/>
       <point x="360" y="619"/>
-      <point x="335" y="569" type="curve"/>
-      <point x="277" y="569" type="line"/>
-      <point x="283" y="621"/>
+      <point x="382" y="691"/>
+      <point x="382" y="758" type="curve"/>
+      <point x="348" y="770"/>
+      <point x="297" y="770"/>
+      <point x="259" y="758" type="curve"/>
       <point x="281" y="699"/>
+      <point x="283" y="621"/>
     </contour>
     <component base="l"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>l</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

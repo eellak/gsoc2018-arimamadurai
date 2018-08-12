@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae" format="1">
+  <advance width="854"/>
+  <unicode hex="00E6"/>
+  <outline>
+    <contour>
+      <point x="166" y="-10" type="curve"/>
+      <point x="285" y="-10"/>
+      <point x="361" y="84"/>
+      <point x="385" y="194" type="curve"/>
+      <point x="360" y="199" type="line"/>
+      <point x="360" y="179" type="line"/>
+      <point x="493" y="174" type="line"/>
+      <point x="483" y="302" type="line" smooth="yes"/>
+      <point x="473" y="445"/>
+      <point x="417" y="531"/>
+      <point x="277" y="531" type="curve"/>
+      <point x="142" y="531"/>
+      <point x="58" y="487"/>
+      <point x="58" y="407" type="curve"/>
+      <point x="58" y="355"/>
+      <point x="95" y="314"/>
+      <point x="160" y="314" type="curve"/>
+      <point x="189" y="314"/>
+      <point x="217" y="322"/>
+      <point x="233" y="338" type="curve"/>
+      <point x="205" y="354"/>
+      <point x="198" y="385"/>
+      <point x="198" y="412" type="curve"/>
+      <point x="198" y="465"/>
+      <point x="226" y="486"/>
+      <point x="269" y="486" type="curve"/>
+      <point x="332" y="486"/>
+      <point x="352" y="431"/>
+      <point x="352" y="323" type="curve"/>
+      <point x="352" y="298" type="line"/>
+      <point x="310" y="296"/>
+      <point x="262" y="292"/>
+      <point x="209" y="277" type="curve"/>
+      <point x="126" y="253"/>
+      <point x="34" y="204"/>
+      <point x="34" y="108" type="curve"/>
+      <point x="34" y="31"/>
+      <point x="90" y="-10"/>
+    </contour>
+    <contour>
+      <point x="238" y="79" type="curve"/>
+      <point x="200" y="75"/>
+      <point x="185" y="108"/>
+      <point x="185" y="142" type="curve"/>
+      <point x="185" y="182"/>
+      <point x="208" y="214"/>
+      <point x="240" y="232" type="curve"/>
+      <point x="271" y="250"/>
+      <point x="313" y="254"/>
+      <point x="356" y="254" type="curve"/>
+      <point x="356" y="156"/>
+      <point x="289" y="84"/>
+    </contour>
+    <component base="e" xOffset="322"/>
+    <contour>
+      <point x="57" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="228" y="-10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="57" y="516" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-07-02 14:18:35 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>a</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>e</string>
+    </dict>
+  </lib>
+</glyph>

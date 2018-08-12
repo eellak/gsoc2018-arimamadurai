@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.case" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="182" y="578" type="curve"/>
+      <point x="417" y="578" type="line"/>
+      <point x="421" y="588"/>
+      <point x="421" y="598"/>
+      <point x="417" y="608" type="curve"/>
+      <point x="182" y="608" type="line"/>
+      <point x="178" y="598"/>
+      <point x="178" y="588"/>
+    </contour>
+    <contour>
+      <point x="300" y="500" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="300" y="631" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:40:20 +0000</string>
+    </dict>
+  </lib>
+</glyph>

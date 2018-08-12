@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dialytikaoxia" format="1">
+  <advance width="321"/>
+  <unicode hex="1FEE"/>
+  <outline>
+    <contour>
+      <point x="165" y="589" type="curve"/>
+      <point x="202" y="743" type="line"/>
+      <point x="190" y="750"/>
+      <point x="179" y="752"/>
+      <point x="162" y="752" type="curve"/>
+      <point x="142" y="594" type="line"/>
+      <point x="144" y="589"/>
+      <point x="159" y="588"/>
+    </contour>
+    <contour>
+      <point x="87" y="587" type="curve"/>
+      <point x="107" y="587"/>
+      <point x="117" y="604"/>
+      <point x="117" y="623" type="curve"/>
+      <point x="117" y="642"/>
+      <point x="107" y="659"/>
+      <point x="87" y="659" type="curve"/>
+      <point x="67" y="659"/>
+      <point x="56" y="642"/>
+      <point x="56" y="623" type="curve"/>
+      <point x="56" y="604"/>
+      <point x="67" y="587"/>
+    </contour>
+    <contour>
+      <point x="235" y="587" type="curve"/>
+      <point x="255" y="587"/>
+      <point x="265" y="604"/>
+      <point x="265" y="623" type="curve"/>
+      <point x="265" y="642"/>
+      <point x="255" y="659"/>
+      <point x="235" y="659" type="curve"/>
+      <point x="215" y="659"/>
+      <point x="204" y="642"/>
+      <point x="204" y="623" type="curve"/>
+      <point x="204" y="604"/>
+      <point x="215" y="587"/>
+    </contour>
+    <contour>
+      <point x="158" y="500" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 13:10:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

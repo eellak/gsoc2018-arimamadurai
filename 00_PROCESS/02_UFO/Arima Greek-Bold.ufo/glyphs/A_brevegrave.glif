@@ -4,13 +4,13 @@
   <unicode hex="1EB0"/>
   <outline>
     <component base="A"/>
-    <component base="brevecomb.cap" xOffset="28" yOffset="182"/>
-    <component base="gravecomb.cap" xOffset="-12" yOffset="319"/>
+    <component base="brevecomb.case" xOffset="28" yOffset="182"/>
+    <component base="gravecomb.case" xOffset="-12" yOffset="319"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dasia.case" format="1">
+  <advance width="115"/>
+  <outline>
+    <component base="dasia" xOffset="-41" yOffset="-32"/>
+    <contour>
+      <point x="89" y="688" type="move" name="_topleft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="1">
+  <advance width="556"/>
+  <unicode hex="03B4"/>
+  <outline>
+    <contour>
+      <point x="278" y="-15" type="curve"/>
+      <point x="422" y="-15"/>
+      <point x="512" y="84"/>
+      <point x="512" y="241" type="curve"/>
+      <point x="512" y="353"/>
+      <point x="444" y="434"/>
+      <point x="331" y="511" type="curve"/>
+      <point x="225" y="583" type="line" smooth="yes"/>
+      <point x="193" y="605"/>
+      <point x="178" y="615"/>
+      <point x="178" y="632" type="curve"/>
+      <point x="178" y="648"/>
+      <point x="192" y="655"/>
+      <point x="222" y="655" type="curve"/>
+      <point x="293" y="655"/>
+      <point x="374" y="617"/>
+      <point x="405" y="558" type="curve"/>
+      <point x="449" y="556"/>
+      <point x="488" y="591"/>
+      <point x="488" y="631" type="curve"/>
+      <point x="488" y="690"/>
+      <point x="402" y="733"/>
+      <point x="283" y="733" type="curve"/>
+      <point x="163" y="733"/>
+      <point x="93" y="683"/>
+      <point x="93" y="603" type="curve"/>
+      <point x="93" y="545"/>
+      <point x="136" y="491"/>
+      <point x="222" y="442" type="curve"/>
+      <point x="268" y="416" type="line" smooth="yes"/>
+      <point x="340" y="375"/>
+      <point x="377" y="320"/>
+      <point x="377" y="228" type="curve"/>
+      <point x="377" y="111"/>
+      <point x="337" y="32"/>
+      <point x="277" y="32" type="curve"/>
+      <point x="216" y="32"/>
+      <point x="175" y="114"/>
+      <point x="175" y="236" type="curve"/>
+      <point x="175" y="369"/>
+      <point x="238" y="440"/>
+      <point x="348" y="431" type="curve"/>
+      <point x="326" y="462" type="line"/>
+      <point x="149" y="466"/>
+      <point x="39" y="375"/>
+      <point x="39" y="225" type="curve"/>
+      <point x="39" y="77"/>
+      <point x="130" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-06 12:32:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

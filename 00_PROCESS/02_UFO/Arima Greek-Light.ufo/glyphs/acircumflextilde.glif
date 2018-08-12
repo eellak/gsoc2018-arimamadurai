@@ -5,12 +5,12 @@
   <outline>
     <component base="a"/>
     <component base="circumflexcomb" xOffset="-47"/>
-    <component base="tildecomb" xOffset="-43" yOffset="123"/>
+    <component base="tildecomb" xOffset="67" yOffset="123"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

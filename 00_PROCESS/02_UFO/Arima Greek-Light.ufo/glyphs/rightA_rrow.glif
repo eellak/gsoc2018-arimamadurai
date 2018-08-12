@@ -4,6 +4,28 @@
   <unicode hex="2192"/>
   <outline>
     <contour>
+      <point x="90" y="243" type="curve"/>
+      <point x="98" y="243"/>
+      <point x="106" y="246"/>
+      <point x="106" y="258" type="curve"/>
+      <point x="88" y="268"/>
+      <point x="77" y="289"/>
+      <point x="77" y="316" type="curve"/>
+      <point x="77" y="374"/>
+      <point x="118" y="406"/>
+      <point x="203" y="406" type="curve"/>
+      <point x="761" y="406" type="line"/>
+      <point x="685" y="344"/>
+      <point x="585" y="270"/>
+      <point x="511" y="270" type="curve"/>
+      <point x="477" y="270"/>
+      <point x="453" y="282"/>
+      <point x="448" y="284" type="curve"/>
+      <point x="443" y="283"/>
+      <point x="439" y="279"/>
+      <point x="439" y="271" type="curve"/>
+      <point x="439" y="251"/>
+      <point x="489" y="243"/>
       <point x="520" y="243" type="curve"/>
       <point x="609" y="243"/>
       <point x="775" y="363"/>
@@ -33,34 +55,12 @@
       <point x="45" y="317" type="curve"/>
       <point x="45" y="280"/>
       <point x="69" y="243"/>
-      <point x="90" y="243" type="curve"/>
-      <point x="98" y="243"/>
-      <point x="106" y="246"/>
-      <point x="106" y="258" type="curve"/>
-      <point x="88" y="268"/>
-      <point x="77" y="289"/>
-      <point x="77" y="316" type="curve"/>
-      <point x="77" y="374"/>
-      <point x="118" y="406"/>
-      <point x="203" y="406" type="curve"/>
-      <point x="761" y="406" type="line"/>
-      <point x="685" y="344"/>
-      <point x="585" y="270"/>
-      <point x="511" y="270" type="curve"/>
-      <point x="477" y="270"/>
-      <point x="453" y="282"/>
-      <point x="448" y="284" type="curve"/>
-      <point x="443" y="283"/>
-      <point x="439" y="279"/>
-      <point x="439" y="271" type="curve"/>
-      <point x="439" y="251"/>
-      <point x="489" y="243"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-06 09:09:14 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="477"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="41" y="340" type="curve"/>
+      <point x="407" y="168" type="line" smooth="yes"/>
+      <point x="416" y="164"/>
+      <point x="424" y="180"/>
+      <point x="420" y="197" type="curve"/>
+      <point x="78" y="351" type="line"/>
+      <point x="420" y="505" type="line"/>
+      <point x="425" y="523"/>
+      <point x="416" y="538"/>
+      <point x="407" y="534" type="curve"/>
+      <point x="41" y="362" type="line"/>
+      <point x="36" y="355"/>
+      <point x="36" y="347"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

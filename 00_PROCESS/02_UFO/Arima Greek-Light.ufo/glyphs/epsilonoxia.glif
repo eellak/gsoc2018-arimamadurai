@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="epsilonoxia" format="1">
+  <advance width="470"/>
+  <unicode hex="1F73"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="oxia" xOffset="166"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 12:59:54 +0000</string>
+    </dict>
+  </lib>
+</glyph>

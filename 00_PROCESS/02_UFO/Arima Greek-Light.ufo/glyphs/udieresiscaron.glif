@@ -4,13 +4,13 @@
   <unicode hex="01DA"/>
   <outline>
     <component base="u"/>
-    <component base="dieresiscomb" xOffset="-32"/>
+    <component base="dieresiscomb" xOffset="104"/>
     <component base="caroncomb" xOffset="-34" yOffset="112"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-06-01 12:19:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

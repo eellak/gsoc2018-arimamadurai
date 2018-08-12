@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadasiaperispomeni" format="1">
+  <advance width="271"/>
+  <unicode hex="1F37"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dasiaperispomeni" xOffset="-55"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-08-12 13:13:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

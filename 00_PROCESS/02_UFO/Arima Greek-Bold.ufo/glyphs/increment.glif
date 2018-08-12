@@ -18,15 +18,15 @@
       <point x="9" y="0"/>
     </contour>
     <contour>
-      <point x="313" y="526" type="line"/>
       <point x="537" y="53" type="line"/>
       <point x="81" y="53" type="line"/>
+      <point x="313" y="526" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

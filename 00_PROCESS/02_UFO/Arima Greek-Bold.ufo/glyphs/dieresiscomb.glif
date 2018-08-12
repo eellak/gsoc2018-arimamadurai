@@ -4,20 +4,6 @@
   <unicode hex="0308"/>
   <outline>
     <contour>
-      <point x="191" y="607" type="curve"/>
-      <point x="225" y="607"/>
-      <point x="253" y="635"/>
-      <point x="253" y="669" type="curve"/>
-      <point x="253" y="704"/>
-      <point x="225" y="731"/>
-      <point x="191" y="731" type="curve"/>
-      <point x="156" y="731"/>
-      <point x="128" y="704"/>
-      <point x="128" y="669" type="curve"/>
-      <point x="128" y="635"/>
-      <point x="156" y="607"/>
-    </contour>
-    <contour>
       <point x="381" y="607" type="curve"/>
       <point x="415" y="607"/>
       <point x="444" y="635"/>
@@ -32,16 +18,30 @@
       <point x="347" y="607"/>
     </contour>
     <contour>
+      <point x="191" y="607" type="curve"/>
+      <point x="225" y="607"/>
+      <point x="253" y="635"/>
+      <point x="253" y="669" type="curve"/>
+      <point x="253" y="704"/>
+      <point x="225" y="731"/>
+      <point x="191" y="731" type="curve"/>
+      <point x="156" y="731"/>
+      <point x="128" y="704"/>
+      <point x="128" y="669" type="curve"/>
+      <point x="128" y="635"/>
+      <point x="156" y="607"/>
+    </contour>
+    <contour>
       <point x="285" y="520" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="285" y="683" type="move" name="top"/>
+      <point x="285" y="698" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-07-02 14:07:24 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

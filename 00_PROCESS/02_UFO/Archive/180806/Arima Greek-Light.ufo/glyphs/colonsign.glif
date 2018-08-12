@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colonsign" format="1">
+  <advance width="556"/>
+  <unicode hex="20A1"/>
+  <outline>
+    <contour>
+      <point x="217" y="-98" type="curve"/>
+      <point x="225" y="-100"/>
+      <point x="230" y="-98"/>
+      <point x="235" y="-95" type="curve"/>
+      <point x="235" y="-78"/>
+      <point x="242" y="-48"/>
+      <point x="253" y="-10" type="curve"/>
+      <point x="471" y="738" type="line" smooth="yes"/>
+      <point x="475" y="751"/>
+      <point x="473" y="760"/>
+      <point x="463" y="763" type="curve"/>
+      <point x="455" y="765"/>
+      <point x="450" y="763"/>
+      <point x="445" y="760" type="curve"/>
+      <point x="445" y="743"/>
+      <point x="438" y="713"/>
+      <point x="427" y="675" type="curve"/>
+      <point x="209" y="-73" type="line" smooth="yes"/>
+      <point x="205" y="-86"/>
+      <point x="207" y="-95"/>
+    </contour>
+    <contour>
+      <point x="97" y="-98" type="curve"/>
+      <point x="105" y="-100"/>
+      <point x="110" y="-98"/>
+      <point x="115" y="-95" type="curve"/>
+      <point x="115" y="-78"/>
+      <point x="122" y="-48"/>
+      <point x="133" y="-10" type="curve"/>
+      <point x="351" y="738" type="line" smooth="yes"/>
+      <point x="355" y="751"/>
+      <point x="353" y="760"/>
+      <point x="343" y="763" type="curve"/>
+      <point x="335" y="765"/>
+      <point x="330" y="763"/>
+      <point x="325" y="760" type="curve"/>
+      <point x="325" y="743"/>
+      <point x="318" y="713"/>
+      <point x="307" y="675" type="curve"/>
+      <point x="89" y="-73" type="line" smooth="yes"/>
+      <point x="85" y="-86"/>
+      <point x="87" y="-95"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-29 09:17:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

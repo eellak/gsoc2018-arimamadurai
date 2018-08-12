@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="60" y="393" type="curve"/>
-      <point x="418" y="246" type="line" smooth="yes"/>
+      <point x="418" y="246" type="line"/>
       <point x="450" y="231"/>
       <point x="470" y="259"/>
       <point x="455" y="314" type="curve"/>
@@ -19,20 +19,20 @@
       <point x="55" y="400"/>
     </contour>
     <contour>
-      <point x="456" y="186" type="curve"/>
-      <point x="57" y="186" type="line"/>
-      <point x="48" y="162"/>
-      <point x="48" y="138"/>
       <point x="57" y="114" type="curve"/>
       <point x="456" y="114" type="line"/>
       <point x="465" y="138"/>
       <point x="465" y="162"/>
+      <point x="456" y="186" type="curve"/>
+      <point x="57" y="186" type="line"/>
+      <point x="48" y="162"/>
+      <point x="48" y="138"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>

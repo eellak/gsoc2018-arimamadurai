@@ -4,21 +4,21 @@
   <unicode hex="0126"/>
   <outline>
     <contour>
-      <point x="661" y="566" type="curve"/>
-      <point x="32" y="566" type="line"/>
-      <point x="26" y="549"/>
-      <point x="26" y="532"/>
       <point x="32" y="515" type="curve"/>
       <point x="661" y="515" type="line"/>
       <point x="667" y="532"/>
       <point x="667" y="549"/>
+      <point x="661" y="566" type="curve"/>
+      <point x="32" y="566" type="line"/>
+      <point x="26" y="549"/>
+      <point x="26" y="532"/>
     </contour>
     <component base="H"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-05-29 09:17:13 +0000</string>
+      <string>2018-08-12 12:40:20 +0000</string>
     </dict>
   </lib>
 </glyph>
