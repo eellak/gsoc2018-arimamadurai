@@ -41,6 +41,7 @@ See here a detailed [TimeLine](https://github.com/eellak/gsoc2018-arimamadurai/b
 * [Process Diary](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/00_JOURNAL.md).
 * [UFO files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/00_PROCESS/02_UFO)
 * [Glyphs files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/00_PROCESS/01_GLYPHS)
+* [CharacterSet]()
 
 This is a small pangram animation, from Thin to Bold and back, demonstrating the changes of the final design that occur as weight is added:
 
