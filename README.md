@@ -13,7 +13,7 @@ Regarding the history of Greek script, it is interesting and challenging to desi
 
 Arima Madurai already supported Tamil, Malayalam and Latin scripts and with this project, Greek script was added to the glyphset. The fact that the font already supported multi scripts was a real benefit to the project: Arima Madurai already acted in a non latin typographic environment and therefore displayed a large set of shapes that were used to match the Greek glyphs with the other ones.
 
-You can found [here](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/07_SPECIMEN/180812_characterset.pdf) a PDF of the Greek character set that was added to Arima Madurai.
+**You can found [here](https://github.com/eellak/gsoc2018-arimamadurai/blob/master/00_PROCESS/07_SPECIMEN/180812_characterset.pdf) a PDF of the Greek character sets that was added to Arima Madurai.**
 
 ---
 
