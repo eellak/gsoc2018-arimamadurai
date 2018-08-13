@@ -42,7 +42,7 @@ See here a detailed [TimeLine](https://github.com/eellak/gsoc2018-arimamadurai/b
 * [UFO files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/00_PROCESS/02_UFO)
 * [Glyphs files](https://github.com/eellak/gsoc2018-arimamadurai/tree/master/00_PROCESS/01_GLYPHS)
 
-You can visit the Final Report gist for the project with more details on the process and design decisions [here](https://gist.github.com/RosaWagner/27b7cc3c0f4fc629ee3cbb08663ab484).
+You can visit the **Final Report gist** for the project with more details on the process and design decisions [here](https://gist.github.com/RosaWagner/27b7cc3c0f4fc629ee3cbb08663ab484).
 
 This is a small pangram animation, from Thin to Bold and back, demonstrating the changes of the final design that occur as weight is added:
 
