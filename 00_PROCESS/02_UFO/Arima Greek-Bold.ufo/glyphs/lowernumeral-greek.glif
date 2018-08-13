@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lowernumeral-greek" format="1">
-  <advance width="283"/>
+  <advance width="162"/>
   <unicode hex="0375"/>
   <outline>
-    <component base="minute" xOffset="40" yOffset="-656"/>
+    <component base="tonos" xOffset="-18" yOffset="-656"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>comma</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>comma</string>
+      <string>2018-08-13 13:10:52 +0000</string>
     </dict>
   </lib>
 </glyph>

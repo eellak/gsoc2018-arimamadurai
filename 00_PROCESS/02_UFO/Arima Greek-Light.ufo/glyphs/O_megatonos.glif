@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegatonos" format="1">
-  <advance width="663"/>
+  <advance width="650"/>
   <unicode hex="038F"/>
   <outline>
-    <component base="Omega" xOffset="45"/>
+    <component base="Omega" xOffset="32"/>
     <component base="tonos.case"/>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>tonos.case</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

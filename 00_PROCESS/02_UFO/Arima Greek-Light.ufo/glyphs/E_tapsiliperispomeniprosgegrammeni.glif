@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etapsiliperispomeniprosgegrammeni" format="1">
-  <advance width="851"/>
+  <advance width="841"/>
   <unicode hex="1F9E"/>
   <outline>
-    <component base="Eta" xOffset="189"/>
-    <component base="psiliperispomeni.case" xOffset="-7" yOffset="-1"/>
-    <component base="prosgegrammeni" xOffset="402"/>
+    <component base="Eta" xOffset="179"/>
+    <component base="psiliperispomeni.case" xOffset="-17" yOffset="-1"/>
+    <component base="prosgegrammeni" xOffset="392"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=tonos.case-10</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

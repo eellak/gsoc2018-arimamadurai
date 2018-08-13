@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="anoteleia" format="1">
-  <advance width="600"/>
+  <advance width="228"/>
   <unicode hex="0387"/>
   <outline>
-    <component base="periodcentered"/>
+    <component base="period" yOffset="338"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
     </dict>
   </lib>
 </glyph>

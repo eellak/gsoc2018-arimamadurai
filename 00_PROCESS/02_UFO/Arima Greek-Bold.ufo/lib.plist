@@ -4,11 +4,6 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>/Mu/etaperispomeni/nu/iota/nu  /alphapsilioxia/epsilon/iota/delta/epsilon  /theta/epsilon/alphavaria  /Pi/eta/lambda/eta/iotadieresis/alphaoxia/delta/epsilon/omega  /Alphapsili/chi/iota/lambda/etaperispomeni/omicron/sigmafinal 
-/omicron/upsilonpsili/lambda/omicron/mu/epsilonoxia/nu/eta/nu , /etadasiavaria  /mu/upsilon/rho/iotaoxia/quoteright  /Alphapsili/chi/alpha/iota/omicron/iotaperispomeni/sigmafinal  /alphapsilioxia/lambda/gamma/epsilon/quoteright  /epsilonpsilioxia/theta/eta/kappa/epsilon ,
-/pi/omicron/lambda/lambda/alphavaria/sigmafinal  /delta/quoteright  /psili/iotapsili/phi/theta/iotaoxia/mu/omicron/upsilon/sigmafinal  /psi/upsilon/chi/alphavaria/sigmafinal  /Alphapsilioxia/iotadieresis/delta/iota  /pi/rho/omicron/iotadialytikaoxia/alpha/psi/epsilon/nu 
-/etadasia/rho/omegaoxia/omega/nu , /alpha/upsilonpsili/tau/omicron/upsilonvaria/sigmafinal  /delta/epsilonvaria  /epsilondasia/lambda/omegaoxia/rho/iota/alpha  /tau/epsilon/upsilonperispomeni/chi/epsilon  /kappa/upsilonoxia/nu/epsilon/sigma/sigma/iota/nu 
-/omicron/iotapsili/omega/nu/omicron/iotaperispomeni/sigma/iotaoxia  /tau/epsilon  /pi/alphaperispomeni/sigma/iotadieresis , /Delta/iota/omicronvaria/sigmafinal  /delta/quoteright  /epsilonpsili/tau/epsilon/lambda/epsilon/iotaoxia/epsilon/tau/omicron  /beta/omicron/upsilon/lambda/etaoxia</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -499,6 +494,7 @@
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
 		<string>ydotaccent</string>
+		<string>ydotbelow</string>
 		<string>ygrave</string>
 		<string>yhookabove</string>
 		<string>ytilde</string>
@@ -1050,11 +1046,8 @@
 		<string>dasiaperispomeni</string>
 		<string>dasiaperispomeni.case</string>
 		<string>dialytikavaria</string>
-		<string>dialytikavaria.case</string>
 		<string>dialytikaoxia</string>
-		<string>dialytikaoxia.case</string>
 		<string>dialytikaperispomeni</string>
-		<string>dialytikaperispomeni.case</string>
 		<string>varia</string>
 		<string>varia.case</string>
 		<string>oxia</string>
@@ -1062,6 +1055,9 @@
 		<string>perispomeni</string>
 		<string>perispomeni.case</string>
 		<string>psilivaria.case</string>
+		<string>dialytikavaria.case</string>
+		<string>dialytikaoxia.case</string>
+		<string>dialytikaperispomeni.case</string>
 		<string>brevecomb_acutecomb</string>
 		<string>brevecomb_gravecomb</string>
 		<string>brevecomb_hookabovecomb</string>

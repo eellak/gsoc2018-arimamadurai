@@ -372,8 +372,6 @@
 		<string>Yacute</string>
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
-		<string>Ydotaccent</string>
-		<string>Ydotbelow</string>
 		<string>Ygrave</string>
 		<string>Yhookabove</string>
 		<string>Ytilde</string>
@@ -541,7 +539,6 @@
 		<string>yacute</string>
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
-		<string>ydotaccent</string>
 		<string>ygrave</string>
 		<string>yhookabove</string>
 		<string>ytilde</string>
@@ -1223,8 +1220,6 @@
 		<string>Yacute</string>
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
-		<string>Ydotaccent</string>
-		<string>Ydotbelow</string>
 		<string>Ygrave</string>
 		<string>Yhookabove</string>
 		<string>Ytilde</string>
@@ -1663,6 +1658,7 @@
 		<string>Iotaoxia</string>
 		<string>Rhodasia</string>
 		<string>Upsilondasia</string>
+		<string>Upsilonvaria</string>
 	</array>
 	<key>@MMK_R_tonosA</key>
 	<array>
@@ -1695,7 +1691,6 @@
 	<key>@MMK_R_tonosY</key>
 	<array>
 		<string>Upsilontonos</string>
-		<string>Upsilonvaria</string>
 		<string>Upsilonoxia</string>
 	</array>
 	<key>@MMK_R_u</key>
@@ -1728,7 +1723,6 @@
 		<string>yacute</string>
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
-		<string>ydotaccent</string>
 		<string>ygrave</string>
 		<string>yhookabove</string>
 		<string>ytilde</string>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Etatonos" format="1">
-  <advance width="801"/>
+  <advance width="781"/>
   <unicode hex="0389"/>
   <outline>
-    <component base="Eta" xOffset="100"/>
+    <component base="Eta" xOffset="80"/>
     <component base="tonos.case" yOffset="2"/>
   </outline>
   <lib>
@@ -20,7 +20,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>tonos.case</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

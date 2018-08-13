@@ -1910,6 +1910,8 @@
 	<string>ydieresis.glif</string>
 	<key>ydotaccent</key>
 	<string>ydotaccent.glif</string>
+	<key>ydotbelow</key>
+	<string>ydotbelow.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
 	<key>ygrave</key>

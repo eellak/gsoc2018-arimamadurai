@@ -4,12 +4,12 @@
   <unicode hex="1F33"/>
   <outline>
     <component base="iota"/>
-    <component base="dasiavaria" xOffset="-34"/>
+    <component base="dasiavaria" xOffset="-24"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 13:14:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
     </dict>
   </lib>
 </glyph>

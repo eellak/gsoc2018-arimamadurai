@@ -4,17 +4,17 @@
   <unicode hex="0384"/>
   <outline>
     <contour>
-      <point x="73" y="557" type="curve"/>
-      <point x="157" y="719" type="line"/>
-      <point x="146" y="728"/>
-      <point x="136" y="731"/>
-      <point x="121" y="732" type="curve"/>
-      <point x="50" y="562" type="line"/>
-      <point x="52" y="557"/>
-      <point x="67" y="556"/>
+      <point x="86" y="557" type="curve"/>
+      <point x="150" y="719" type="line"/>
+      <point x="139" y="728"/>
+      <point x="129" y="731"/>
+      <point x="114" y="732" type="curve"/>
+      <point x="63" y="562" type="line"/>
+      <point x="65" y="557"/>
+      <point x="80" y="556"/>
     </contour>
     <contour>
-      <point x="63" y="500" type="move" name="_top"/>
+      <point x="72" y="500" type="move" name="_top"/>
     </contour>
     <contour>
       <point x="118" y="688" type="move" name="top"/>
@@ -23,7 +23,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

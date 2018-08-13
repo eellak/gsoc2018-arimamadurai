@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alphapsiliperispomeniprosgegrammeni" format="1">
-  <advance width="651"/>
+  <advance width="641"/>
   <unicode hex="1F8E"/>
   <outline>
-    <component base="Alpha" xOffset="89"/>
-    <component base="psiliperispomeni.case" xOffset="23"/>
-    <component base="prosgegrammeni" xOffset="258"/>
+    <component base="Alpha" xOffset="79"/>
+    <component base="psiliperispomeni.case" xOffset="13"/>
+    <component base="prosgegrammeni" xOffset="248"/>
   </outline>
   <lib>
     <dict>
@@ -21,7 +21,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=tonos.case+20</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

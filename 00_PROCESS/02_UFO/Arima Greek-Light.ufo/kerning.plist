@@ -1046,6 +1046,8 @@
 		<real>-12.384599685668945</real>
 		<key>@MMK_R_u</key>
 		<integer>-9</integer>
+		<key>lowernumeral-greek</key>
+		<integer>0</integer>
 	</dict>
 	<key>@MMK_L_hyphen</key>
 	<dict>

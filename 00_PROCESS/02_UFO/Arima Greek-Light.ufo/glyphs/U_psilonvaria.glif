@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilonvaria" format="1">
-  <advance width="705"/>
+  <advance width="665"/>
   <unicode hex="1FEA"/>
   <outline>
-    <component base="Upsilon" xOffset="132"/>
+    <component base="Upsilon" xOffset="92"/>
     <component base="varia.case" xOffset="-40"/>
   </outline>
   <lib>
@@ -18,9 +18,17 @@
           <key>name</key>
           <string>Upsilon</string>
         </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>varia.case</string>
+        </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>tonos.case</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>

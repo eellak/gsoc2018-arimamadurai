@@ -4,13 +4,13 @@
   <unicode hex="1FC7"/>
   <outline>
     <component base="eta"/>
-    <component base="perispomeni" xOffset="157"/>
+    <component base="perispomeni" xOffset="137"/>
     <component base="ypogegrammeni" xOffset="24"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 14:04:24 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
     </dict>
   </lib>
 </glyph>

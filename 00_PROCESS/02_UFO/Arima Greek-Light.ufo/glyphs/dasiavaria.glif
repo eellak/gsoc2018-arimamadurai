@@ -6,7 +6,7 @@
     <component base="dasia"/>
     <component base="varia" xOffset="76"/>
     <contour>
-      <point x="152" y="500" type="move" name="_top"/>
+      <point x="142" y="500" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

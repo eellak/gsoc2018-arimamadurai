@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegapsiliperispomeni" format="1">
-  <advance width="792"/>
+  <advance width="782"/>
   <unicode hex="1F6E"/>
   <outline>
-    <component base="Omega" xOffset="174"/>
-    <component base="psiliperispomeni.case" xOffset="-7"/>
+    <component base="Omega" xOffset="164"/>
+    <component base="psiliperispomeni.case" xOffset="-17"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +20,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-08-12 12:59:54 +0000</string>
+      <string>2018-08-13 13:10:52 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=tonos.case-10</string>
     </dict>
