@@ -162,10 +162,10 @@ Finalizing the font, correcting minor design issues, fixing interpolation issues
 
 **These are the typefaces I look at along the project :**
 
-* *Eczar* — Vaibhav Singh + Emilios Theofanous (for the Greek) — Rosetta TypeFoundry
+* *Eczar* — Vaibhav Singh + Emilios Theofanous (for the Greek) — Rosetta Typefoundry
 * *Brill* — John Hudson + Alice Savoie
 * *SBL* — John Hudson — TiroTypeworks
 * *Eqil* — Kostas Bartsokas
-* *Capucine* — Alice Savoie
+* *Capucine* — Alice Savoie — Process Typefoundry
 * *Parmigiano* — Riccardo Olocco + Jonathan Pierini + Irene Vlachou (for the Greek) — Typothèque
 * *Colvert* — Irene Vlachou + Jonathan Perez + Kristyan Sarkis + Natalia Chuvatin
